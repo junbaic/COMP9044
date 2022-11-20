@@ -1,0 +1,10 @@
+Date: Tue, 14 Jun 2022 19:54:48 +1000
+From: Andrew Taylor <andrewt@cse.unsw.edu.au>
+To: votes@elections.gov.au
+Subject: vote
+
+Anthony Albanese
+Penny Wong
+Adam Bandt
+Scott Morrison
+

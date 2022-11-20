@@ -1,0 +1,3602 @@
+poll|position|artist|track
+Of The Decade '20|1|Tame Impala|The Less I Know The Better
+Of The Decade '20|2|Gotye|Somebody That I Used To Know {Ft. Kimbra}
+Of The Decade '20|3|Arctic Monkeys|Do I Wanna Know?
+Of The Decade '20|4|Violent Soho|Covered In Chrome
+Of The Decade '20|5|RÜFÜS DU SOL|Innerbloom
+Of The Decade '20|6|Gang of Youths|Magnolia
+Of The Decade '20|7|Foster The People|Pumped Up Kicks
+Of The Decade '20|8|Flume|Never Be Like You {Ft. Kai}
+Of The Decade '20|9|Angus & Julia Stone|Big Jet Plane
+Of The Decade '20|10|Matt Corby|Brother
+Of The Decade '20|11|Nick Murphy / Chet Faker|Talk Is Cheap
+Of The Decade '20|12|alt-J|Breezeblocks
+Of The Decade '20|13|Vance Joy|Riptide
+Of The Decade '20|14|Kanye West|Runaway {ft. Pusha T}
+Of The Decade '20|15|Sticky Fingers|Australia Street
+Of The Decade '20|16|Lorde|Royals
+Of The Decade '20|17|Ball Park Music|It's Nice To Be Alive
+Of The Decade '20|18|Flume|Holdin On
+Of The Decade '20|19|Gang of Youths|Let Me Down Easy
+Of The Decade '20|20|Hilltop Hoods|Cosby Sweater
+Of The Decade '20|21|DMA'S|Delete
+Of The Decade '20|22|M83|Midnight City
+Of The Decade '20|23|Kendrick Lamar|King Kunta
+Of The Decade '20|24|JAY-Z & Kanye West|Ni**as In Paris
+Of The Decade '20|25|Flight Facilities|Clair De Lune {Ft. Christine Hoberg}
+Of The Decade '20|26|Tame Impala|Let It Happen
+Of The Decade '20|27|Childish Gambino|3005
+Of The Decade '20|28|Childish Gambino|Redbone
+Of The Decade '20|29|Lana Del Rey|Video Games
+Of The Decade '20|30|Of Monsters and Men|Little Talks
+Of The Decade '20|31|The Wombats|Tokyo (Vampires & Wolves)
+Of The Decade '20|32|Peking Duk|High {Ft. Nicole Millar}
+Of The Decade '20|33|Sticky Fingers|Rum Rage
+Of The Decade '20|34|Frank Ocean|Lost
+Of The Decade '20|35|Ocean Alley|Confidence
+Of The Decade '20|36|Hilltop Hoods|1955 {Ft. Montaigne & Tom Thum}
+Of The Decade '20|37|Milky Chance|Stolen Dance
+Of The Decade '20|38|Avicii|Levels
+Of The Decade '20|39|Flight Facilities|Crave You {ft. Giselle}
+Of The Decade '20|40|Disclosure|Latch {Ft. Sam Smith}
+Of The Decade '20|41|DMA'S|Believe {triple j Like A Version 2016}
+Of The Decade '20|42|Arctic Monkeys|R U Mine?
+Of The Decade '20|43|Angus & Julia Stone|Chateau
+Of The Decade '20|44|Florence + The Machine|Shake It Out
+Of The Decade '20|45|The Black Keys|Lonely Boy
+Of The Decade '20|46|The Rubens|Hoops
+Of The Decade '20|47|Mumford & Sons|I Will Wait
+Of The Decade '20|48|Hermitude|HyperParadise {Flume Remix}
+Of The Decade '20|49|Tash Sultana|Jungle
+Of The Decade '20|50|Daft Punk|Get Lucky {Ft. Pharrell Williams & Nile Rodgers}
+Of The Decade '20|51|Amy Shark|Adore
+Of The Decade '20|52|Gang of Youths|The Deepest Sighs, The Frankest Shadows
+Of The Decade '20|53|Sia|Chandelier
+Of The Decade '20|54|Grouplove|Tongue Tied
+Of The Decade '20|55|Skrillex|Bangarang {Ft. Sirah}
+Of The Decade '20|56|Macklemore & Ryan Lewis, Wanz|Thrift Shop {Ft. Wanz}
+Of The Decade '20|57|Kendrick Lamar|HUMBLE.
+Of The Decade '20|58|Sticky Fingers|Gold Snafu
+Of The Decade '20|59|Adrian Lux|Teenage Crime
+Of The Decade '20|60|Kendrick Lamar|Swimming Pools (Drank)
+Of The Decade '20|61|Lorde|Green Light
+Of The Decade '20|62|Frank Ocean|Thinkin Bout You
+Of The Decade '20|63|Hermitude|The Buzz {Ft. Mataya & Young Tapz}
+Of The Decade '20|64|RÜFÜS DU SOL|Innerbloom {What So Not Remix}
+Of The Decade '20|65|Tame Impala|Feels Like We Only Go Backwards
+Of The Decade '20|66|Tame Impala|Elephant
+Of The Decade '20|67|Hilltop Hoods|I Love It {Ft. Sia}
+Of The Decade '20|68|Azealia Banks|212 {Ft. Lazy Jay}
+Of The Decade '20|69|Flume & Nick Murphy / Chet Faker|Drop The Game
+Of The Decade '20|70|Catfish and the Bottlemen|7
+Of The Decade '20|71|Billie Eilish|bad guy
+Of The Decade '20|72|Kanye West|Monster {ft. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver}
+Of The Decade '20|73|Arctic Monkeys|Why'd You Only Call Me When You're High?
+Of The Decade '20|74|Robyn|Dancing On My Own
+Of The Decade '20|75|Calvin Harris|Feel So Close
+Of The Decade '20|76|Travis Scott|SICKO MODE
+Of The Decade '20|77|Kanye West|Black Skinhead
+Of The Decade '20|78|San Cisco|Awkward
+Of The Decade '20|79|Mallrat|Charlie
+Of The Decade '20|80|Kanye West|Ultralight Beam {Ft. Chance The Rapper, The-Dream, Kelly Price & Kirk Franklin}
+Of The Decade '20|81|Cub Sport|Come On Mess Me Up
+Of The Decade '20|82|Flume|On Top {Ft. T-Shirt}
+Of The Decade '20|83|Ruel|Painkiller
+Of The Decade '20|84|Ruby Fields|Dinosaurs
+Of The Decade '20|85|J. Cole|No Role Modelz
+Of The Decade '20|86|The Wombats|Greek Tragedy
+Of The Decade '20|87|Matt Corby|Resolution
+Of The Decade '20|88|Glass Animals|Gooey
+Of The Decade '20|89|Two Door Cinema Club|Undercover Martyn
+Of The Decade '20|90|Childish Gambino|This Is America
+Of The Decade '20|91|Rex Orange County|Loving Is Easy {Ft. Benny Sings}
+Of The Decade '20|92|Kendrick Lamar|m.A.A.d city {Ft. MC Eiht}
+Of The Decade '20|93|Flume|Sleepless {Ft. Jezzabell Doran}
+Of The Decade '20|94|The Preatures|Is This How You Feel?
+Of The Decade '20|95|FISHER|Losing It
+Of The Decade '20|96|Major Lazer|Get Free {Ft. Amber Coffman}
+Of The Decade '20|97|Adele|Rolling In The Deep
+Of The Decade '20|98|Disclosure|You & Me {Ft. Eliza Doolittle} {Flume Remix}
+Of The Decade '20|99|Ruel|Dazed & Confused {Prod. M-Phazes}
+Of The Decade '20|100|Bon Iver|Holocene
+2020|1|Glass Animals|Heat Waves
+2020|2|Spacey Jane|Booster Seat
+2020|3|Flume|The Difference [Ft. Toro y Moi]
+2020|4|Ball Park Music|Cherub
+2020|5|Tame Impala|Lost In Yesterday
+2020|6|Cardi B|WAP [Ft. Megan Thee Stallion]
+2020|7|G Flip|Hyperfine
+2020|8|The Jungle Giants|Sending Me Ur Loving
+2020|9|Hilltop Hoods|I'm Good?
+2020|10|Billie Eilish|Therefore I Am
+2020|11|Lime Cordiale|On Our Own
+2020|12|Mashd N Kutcher|Get On The Beers [Ft. Dan Andrews]
+2020|13|Mallrat|Rockstar
+2020|14|Ocean Alley|Tombstone
+2020|15|Spacey Jane|Skin
+2020|16|Lime Cordiale|Screw Loose
+2020|17|Tame Impala|Is It True
+2020|18|Glass Animals|Tangerine
+2020|19|Halsey|you should be sad
+2020|20|Lime Cordiale|Addicted To The Sunshine
+2020|21|Stace Cadet & KLP|Energy
+2020|22|Eves Karydas|Complicated
+2020|23|Mac Miller|Good News
+2020|24|Mac Miller|Blue World
+2020|25|Lime Cordiale|Reality Check Please
+2020|26|Lime Cordiale|No Plans To Make Plans
+2020|27|Skegss|Under The Thunder
+2020|28|Spacey Jane|Straightfaced
+2020|29|Sycco|Dribble
+2020|30|Birdz|Bagi-la-m Bargan [Ft. Fred Leone]
+2020|31|San Cisco|Reasons
+2020|32|DMA'S|Criminals
+2020|33|Tame Impala|Breathe Deeper
+2020|34|Amy Shark|Everybody Rise
+2020|35|The Avalanches|Running Red Lights [Ft. Rivers Cuomo/Pink Siifu]
+2020|36|Machine Gun Kelly|forget me too [Ft. Halsey]
+2020|37|The Kid LAROI|SO DONE
+2020|38|Bring Me The Horizon|Parasite Eve
+2020|39|Juice WRLD|Righteous
+2020|40|Juice WRLD|Come & Go [Ft. Marshmello]
+2020|41|The Smith Street Band|I Still Dream About You
+2020|42|Jack Harlow|WHATS POPPIN
+2020|43|Ziggy Alberts|Together
+2020|44|G Flip|You & I
+2020|45|Ruel|as long as you care
+2020|46|Tash Sultana|Pretty Lady
+2020|47|Architects|Animals
+2020|48|Headie One|Ain't It Different [Ft. AJ Tracey/Stormzy]
+2020|49|Juice WRLD|Wishing Well
+2020|50|Peking Duk & The Wombats|Nothing To Love About Love
+2020|51|Glass Animals|Your Love (Déjà Vu)
+2020|52|DMA'S|The Glow
+2020|53|The Weeknd|In Your Eyes
+2020|54|Eiffel 65|Blue [Flume Remix]
+2020|55|Alex the Astronaut|I Think You're Great
+2020|56|San Cisco|On The Line
+2020|57|Beddy Rays|Sobercoaster
+2020|58|Tones And I|Fly Away
+2020|59|Joji|Gimme Love
+2020|60|The Kid LAROI|GO [Ft. Juice WRLD]
+2020|61|Ruby Fields|Pretty Grim
+2020|62|Joji|Run
+2020|63|Ball Park Music|Day & Age
+2020|64|The Amity Affliction|Soak Me In Bleach
+2020|65|Amy Shark|C'MON [Ft. Travis Barker]
+2020|66|Skegss|Fantasising
+2020|67|Doja Cat|Boss Bitch
+2020|68|Vera Blue|Lie To Me
+2020|69|Hope D|Second
+2020|70|Chet Faker|Low
+2020|71|Bring Me The Horizon & YUNGBLUD|Obey
+2020|72|Ocean Alley|Way Down
+2020|73|Genesis Owusu|Don't Need You
+2020|74|LAUREL|Scream Drive Faster
+2020|75|Remi Wolf|Photo ID
+2020|76|London Grammar|Baby It's You
+2020|77|Sofi Tukker & Gorgon City|House Arrest
+2020|78|G Flip|Lady Marmalade [triple j Like A Version 2020]
+2020|79|Billie Eilish|my future
+2020|80|FISHER|Freaks
+2020|81|Spacey Jane|Weightless
+2020|82|The Chats|The Clap
+2020|83|Cosmo's Midnight & Ruel|Down For You
+2020|84|Dominic Fike|Chicken Tenders
+2020|85|Dune Rats|Too Tough Terry
+2020|86|Drake|Laugh Now Cry Later [Ft. Lil Durk]
+2020|87|Teenage Joans|Three Leaf Clover
+2020|88|BRONSON|HEART ATTACK [Ft. lau.ra]
+2020|89|The Jungle Giants|In Her Eyes
+2020|90|Billie Eilish|No Time To Die
+2020|91|Bugs|Charlie [triple j Like A Version 2020]
+2020|92|Thelma Plum|These Days
+2020|93|Internet Money|Lemonade [Ft. Gunna/Don Toliver/NAV]
+2020|94|Aitch x AJ Tracey|Rain [Ft. Tay Keith]
+2020|95|Illy|Loose Ends [Ft. G Flip]
+2020|96|Hockey Dad|Germaphobe
+2020|97|Stormzy|Audacity [Ft. Headie One]
+2020|98|Joji|Your Man
+2020|99|Hockey Dad|Itch
+2020|100|BENEE|Kool
+2019|1|Billie Eilish|bad guy
+2019|2|Flume|Rushing Back {Ft. Vera Blue}
+2019|3|Mallrat|Charlie
+2019|4|Tones and I|Dance Monkey
+2019|5|Denzel Curry|Bulls On Parade {triple j Like A Version 2019}
+2019|6|G Flip|Drink Too Much
+2019|7|Lime Cordiale|Robbery
+2019|8|The Jungle Giants|Heavy Hearted
+2019|9|Thelma Plum|Better In Blak
+2019|10|Hilltop Hoods|Exit Sign {Ft. Illy/Ecca Vandal}
+2019|11|Post Malone|Circles
+2019|12|FIDLAR|By Myself
+2019|13|Lime Cordiale|Inappropriate Behaviour
+2019|14|Sofi Tukker|Purple Hat
+2019|15|Tones and I|Never Seen The Rain
+2019|16|Billie Eilish|everything i wanted
+2019|17|Lime Cordiale|I Touch Myself {triple j Like A Version 2019}
+2019|18|Tame Impala|Borderline
+2019|19|BENEE|Glitter
+2019|20|DMA'S|Silver
+2019|21|The Chats|Pub Feed
+2019|22|Ruel|Painkiller
+2019|23|Tyler, The Creator|EARFQUAKE
+2019|24|Ocean Alley|Infinity
+2019|25|BENEE|Find An Island
+2019|26|Tones and I|Johnny Run Away
+2019|27|Stormzy|Vossi Bop
+2019|28|Lizzo|Juice
+2019|29|MEDUZA|Piece Of Your Heart {Ft. Goodboys}
+2019|30|Flume|Friends {Ft. Reo Cragun}
+2019|31|Skegss|Save It For The Weekend
+2019|32|Lime Cordiale|Money
+2019|33|Dom Dolla|San Frandisco
+2019|34|Glass Animals|Tokyo Drifting {Ft. Denzel Curry}
+2019|35|Billie Eilish|bury a friend
+2019|36|PNAU|Solid Gold {Ft. Kira Divine/Marques Toliver}
+2019|37|Duke Dumont|Red Light Green Light {Ft. Shaun Ross}
+2019|38|Ruel|Face To Face
+2019|39|Catfish and the Bottlemen|Longshot
+2019|40|Halsey|Graveyard
+2019|41|Travis Scott|HIGHEST IN THE ROOM
+2019|42|Juice WRLD|Robbery
+2019|43|Tame Impala|It Might Be Time
+2019|44|Baker Boy|Cool As Hell
+2019|45|Denzel Curry|RICKY
+2019|46|Dean Lewis|7 Minutes
+2019|47|BROCKHAMPTON|SUGAR
+2019|48|Ziggy Alberts|Intentions (22)
+2019|49|Ruel|Free Time
+2019|50|Holy Holy|Teach Me About Dying
+2019|51|BENEE|Evil Spider
+2019|52|Tame Impala|Patience
+2019|53|FISHER|You Little Beauty
+2019|54|Ocean Alley|Stained Glass
+2019|55|Khalid|Talk {Ft. Disclosure}
+2019|56|J. Cole|MIDDLE CHILD
+2019|57|Slowly Slowly|Jellyfish
+2019|58|G Flip|Lover
+2019|59|Mallrat x Basenji|Nobody's Home
+2019|60|Hockey Dad|I Missed Out
+2019|61|Holy Holy|Maybe You Know
+2019|62|Bakar|Hell N Back
+2019|63|Halsey|Nightmare
+2019|64|George Alice|Circles
+2019|65|Thelma Plum|Homecoming Queen
+2019|66|G Flip|Stupid
+2019|67|Billie Eilish|wish you were gay
+2019|68|Illy|Then What
+2019|69|Violent Soho|Vacation Forever
+2019|70|E^ST|Talk Deep
+2019|71|The Weeknd|Blinding Lights
+2019|72|Angie McMahon|Pasta
+2019|73|Cub Sport|Party Pill
+2019|74|Hayden James and NAATIONS|Nowhere To Go
+2019|75|Golden Features x The Presets|Paradise
+2019|76|Meg Mac|Something Tells Me
+2019|77|G Flip|I Am Not Afraid
+2019|78|Thelma Plum|Not Angry Anymore
+2019|79|Dean Lewis|Stay Awake
+2019|80|Spacey Jane|Good For You
+2019|81|Flume|Let You Know {Ft. London Grammar}
+2019|82|Peking Duk & Jack River|Sugar
+2019|83|Alex Lahey|Welcome To The Black Parade {triple j Like A Version 2019}
+2019|84|DOPE LEMON|Hey You
+2019|85|Lana Del Rey|Doin' Time
+2019|86|Slipknot|Unsainted
+2019|87|Kanye West|Follow God
+2019|88|Meduza x Becky Hill x Goodboys|Lose Control
+2019|89|Sampa the Great|Final Form
+2019|90|Skegss|Here Comes Your Man {triple j Like A Version 2019}
+2019|91|Billie Eilish|all the good girls go to hell
+2019|92|Client Liaison|The Real Thing
+2019|93|Post Malone|Wow.
+2019|94|Allday|Protection
+2019|95|Adrian Eagle|A.O.K.
+2019|96|Bring Me The Horizon|Ludens
+2019|97|San Cisco|Skin
+2019|98|Baker Boy|Meditjin {Ft. JessB}
+2019|99|Cosmo's Midnight|C.U.D.I. (Can U Dig It)
+2019|100|Dune Rats|No Plans
+2018|1|Ocean Alley|Confidence
+2018|2|FISHER|Losing It
+2018|3|Travis Scott|SICKO MODE
+2018|4|Childish Gambino|This Is America
+2018|5|Amy Shark|I Said Hi
+2018|6|Dean Lewis|Be Alright
+2018|7|Mallrat|Groceries
+2018|8|Billie Eilish|when the party's over
+2018|9|Ruby Fields|Dinosaurs
+2018|10|Ocean Alley|Knees
+2018|11|Skegss|Up In The Clouds
+2018|12|The Wombats|Turn
+2018|13|A$AP Rocky|Praise The Lord (Da Shine) {Ft. Skepta}
+2018|14|Wafia|I'm Good
+2018|15|Hayden James|Just Friends {Ft. Boy Matthews}
+2018|16|Ocean Alley|Baby Come Back {triple j Like A Version 2018}
+2018|17|Billie Eilish|lovely {with Khalid}
+2018|18|Hockey Dad|Join The Club
+2018|19|Broods|Peach
+2018|20|KIAN|Waiting
+2018|21|The Rubens|Never Ever {Ft. Sarah}
+2018|22|RÃœFÃœS DU SOL|Underwater
+2018|23|RÃœFÃœS DU SOL|Treat You Better
+2018|24|Hilltop Hoods|Leave Me Lonely
+2018|25|Thundamentals|I Miss You
+2018|26|Vera Blue|All The Pretty Girls
+2018|27|Post Malone & Swae Lee|Sunflower
+2018|28|Kendrick Lamar & SZA|All The Stars
+2018|29|Peking Duk|Fire
+2018|30|Cub Sport|Sometimes
+2018|31|Alison Wonderland|Church
+2018|32|The Rubens|God Forgot
+2018|33|Post Malone|Better Now
+2018|34|King Princess|1950
+2018|35|Mac Miller|Ladders
+2018|36|Amy Shark|All Loved Up
+2018|37|Ziggy Alberts|Love Me Now
+2018|38|G Flip|About You
+2018|39|Ball Park Music|The Perfect Life Does Not Exist
+2018|40|Drake|Nice For What
+2018|41|DMA'S|In The Air
+2018|42|Ziggy Alberts|Laps Around The Sun
+2018|43|Drake|God's Plan
+2018|44|Hilltop Hoods|Clark Griswold {Ft. Adrian Eagle}
+2018|45|Bring Me The Horizon|MANTRA
+2018|46|Billie Eilish|you should see me in a crown
+2018|47|DZ Deathrays|Like People
+2018|48|San Cisco|When I Dream
+2018|49|Angie McMahon|Missing Me
+2018|50|RÃœFÃœS DU SOL|No Place
+2018|51|Baker Boy|Mr La Di Da Di
+2018|52|Khalid|Better
+2018|53|Vance Joy|We're Going Home
+2018|54|Vance Joy|Saturday Sun
+2018|55|Peking Duk|Wasted
+2018|56|Halsey|Without Me
+2018|57|The Presets|Martini
+2018|58|Bene|Soaked
+2018|59|Meg Mac|Give Me My Name Back
+2018|60|DMA'S|The End
+2018|61|Hockey Dad|I Wanna Be Everybody
+2018|62|G Flip|Killing My Time
+2018|63|BROCKHAMPTON|BOOGIE
+2018|64|Middle Kids|Mistake
+2018|65|Methyl Ethel|Scream Whole
+2018|66|Flight Facilities|Need You {Ft. NÃKA}
+2018|67|Anderson .Paak|Tints {Ft. Kendrick Lamar}
+2018|68|benny blanco|Eastside {Ft. Halsey/Khalid}
+2018|69|The Wombats|Cheetah Tongue
+2018|70|Mallrat|UFO {Ft. Allday}
+2018|71|Skegss|Smogged Out
+2018|72|Nothing But Thieves|What Can I Do If The Fire Goes Out {triple j Like A Version 2018}
+2018|73|Hockey Dad|Sweet Release
+2018|74|King Princess|Pussy Is God
+2018|75|Kira Puru|Molotov
+2018|76|Polish Club|Clarity
+2018|77|CHVRCHES|Miracle
+2018|78|Hayden James|Better Together {Ft. Running Touch}
+2018|79|Thelma Plum|Clumsy Love
+2018|80|Mark Ronson|Nothing Breaks Like A Heart {Ft. Miley Cyrus}
+2018|81|Jack River|Ballroom
+2018|82|Florence + The Machine|Hunger
+2018|83|BROCKHAMPTON|1999 WILDFIRE
+2018|84|Tash Sultana|Cigarettes
+2018|85|Anderson .Paak|Bubblin'
+2018|86|Lime Cordiale|Dirt Cheap
+2018|87|Ruel|Younger
+2018|88|WAAX|Labrador
+2018|89|Ruel|Dazed & Confused {Prod. M-Phazes}
+2018|90|Post Malone|Psycho {Ft. Ty Dolla $ign}
+2018|91|A$AP Rocky|Sundress
+2018|92|Thundamentals|Everybody But You
+2018|93|Trophy Eyes|You Can Count On Me
+2018|94|The Amity Affliction|Ivy (Doomsday)
+2018|95|Arctic Monkeys|Four Out Of Five
+2018|96|Odette|Take It To The Heart
+2018|97|DMA'S|Do I Need You Now?
+2018|98|Kanye West|Ghost Town
+2018|99|YUNGBLUD|Polygraph Eyes
+2018|100|Ocean Alley|Happy Sad
+2017|1|Kendrick Lamar|HUMBLE.
+2017|2|Gang Of Youths|Let Me Down Easy
+2017|3|Angus & Julia Stone|Chateau
+2017|4|Methyl Ethel|Ubu
+2017|5|Gang Of Youths|The Deepest Sighs, The Frankest Shadows
+2017|6|Lorde|Green Light
+2017|7|PNAU|Go Bang
+2017|8|Thundamentals|Sally {Ft. Mataya}
+2017|9|Vance Joy|Lay It On Me
+2017|10|Gang Of Youths|What Can I Do If The Fire Goes Out?
+2017|11|BROCKHAMPTON|SWEET
+2017|12|Peking Duk & AlunaGeorge|Fake Magic
+2017|13|Khalid|Young Dumb & Broke
+2017|14|Lorde|Homemade Dynamite
+2017|15|Vera Blue|Regular Touch
+2017|16|The Jungle Giants|Feel The Way I Do
+2017|17|Baker Boy|Marryuna {Ft. Yirrmal}
+2017|18|Ball Park Music|Exactly How You Are
+2017|19|The Killers|The Man
+2017|20|Peking Duk|Let You Down {Ft. Icona Pop}
+2017|21|The Smith Street Band|Birthdays
+2017|22|The Wombats|Lemon To A Knife Fight
+2017|23|Alex The Astronaut|Not Worth Hiding
+2017|24|Post Malone|rockstar {Ft. 21 Savage}
+2017|25|Amy Shark|Weekends
+2017|26|Portugal. The Man|Feel It Still
+2017|27|Winston Surfshirt|Be About You
+2017|28|Tash Sultana|Mystik
+2017|29|Vera Blue|Mended
+2017|30|Meg Mac|Low Blows
+2017|31|Touch Sensitive|Lay Down
+2017|32|Hayden James|NUMB {Ft. GRAACE}
+2017|33|Angie McMahon|Slow Mover
+2017|34|Kendrick Lamar|DNA.
+2017|35|Drake|Passionfruit
+2017|36|Alex Lahey|I Haven't Been Taking Care Of Myself
+2017|37|Calvin Harris|Slide {Ft. Frank Ocean/Migos}
+2017|38|Billie Eilish|Bellyache
+2017|39|Skegss|Got On My Skateboard
+2017|40|Holy Holy|True Lovers
+2017|41|Gang Of Youths|Blood {triple j Like A Version 2017}
+2017|42|CamelPhat & Elderbrook|Cola
+2017|43|Tash Sultana|Murder To The Mind
+2017|44|Allday|In Motion {Ft. Japanese Wallpaper}
+2017|45|Alex Lahey|Every Day's The Weekend
+2017|46|Mallrat|Better
+2017|47|HAIM|Want You Back
+2017|48|Ocean Alley|The Comedown
+2017|49|The Smith Street Band|Passiona
+2017|50|The Jungle Giants|On Your Way Down
+2017|51|Big Shaq|Man's Not Hot
+2017|52|Macklemore|Glorious {Ft. Skylar Grey}
+2017|53|Bliss N Eso|Moments {Ft. Gavin James}
+2017|54|Hockey Dad|Homely Feeling
+2017|55|Dune Rats|6 Pack
+2017|56|Odette|Watch Me Read You
+2017|57|The Jungle Giants|Bad Dream
+2017|58|Camp Cope|The Opener
+2017|59|The Jungle Giants|Used To Be In Love
+2017|60|Charli XCX|Boys
+2017|61|Thundamentals|21 Grams {Ft. Hilltop Hoods}
+2017|62|Khalid|Saved
+2017|63|E^ST|Life Goes On
+2017|64|Jack River|Fool's Gold
+2017|65|Arcade Fire|Everything Now
+2017|66|N.E.R.D. & Rihanna|Lemon
+2017|67|DZ Deathrays|Shred For Summer
+2017|68|Kingswood|Golden
+2017|69|Yungblud|I Love You, Will You Marry Me
+2017|70|Nothing But Thieves|Amsterdam
+2017|71|Lorde|Perfect Places
+2017|72|alt-J|In Cold Blood
+2017|73|King Gizzard & The Lizard Wizard|Nuclear Fusion
+2017|74|Lil Uzi Vert|XO TOUR Llif3
+2017|75|Dune Rats|Braindead
+2017|76|Baker Boy|Cloud 9 {Ft. Kian}
+2017|77|The Rubens|Million Man
+2017|78|Tash Sultana|Electric Feel {triple j Like A Version 2017}
+2017|79|San Cisco|Hey, Did I Do You Wrong?
+2017|80|The xx|Say Something Loving
+2017|81|Lorde|Liability
+2017|82|Logic|1-800-273-8255 {Ft. Alessia Cara/Khalid}
+2017|83|Amy Shark|Blood Brothers
+2017|84|Vallis Alps|Oceans
+2017|85|Boo Seeka|Does This Last
+2017|86|Meg Mac|Maybe It's My First Time
+2017|87|Queens Of The Stone Age|The Way You Used To Do
+2017|88|Paul Dempsey|Edge Of Town {triple j Like A Version 2017}
+2017|89|DMA's|Dawning
+2017|90|Flume|Hyperreal {Ft. KUČKA}
+2017|91|Stormzy|Big For Your Boots
+2017|92|Kendrick Lamar|LOVE. {Ft. ZACARI}
+2017|93|The Presets|Do What You Want
+2017|94|Kim Churchill|Second Hand Car
+2017|95|Future|Mask Off
+2017|96|Cub Sport|Chasin'
+2017|97|Kendrick Lamar|LOYALTY. {Ft. RIHANNA}
+2017|98|Angus & Julia Stone|Snow
+2017|99|Flight Facilities|Arty Boy {Ft. Emma Louise}
+2017|100|Snakehips & MØ|Don't Leave
+2016|1|Flume|Never Be Like You {Ft. Kai}
+2016|2|Amy Shark|Adore
+2016|3|Tash Sultana|Jungle
+2016|4|Hilltop Hoods|1955 {Ft. Montaigne/Tom Thum}
+2016|5|Childish Gambino|Redbone
+2016|6|DMA'S|Believe {triple j Like A Version 2016}
+2016|7|Illy|Papercuts {Ft. Vera Blue}
+2016|8|Flume|Say It {Ft. Tove Lo}
+2016|9|Peking Duk|Stranger {Ft. Elliphant}
+2016|10|The Weeknd|Starboy {Ft. Daft Punk}
+2016|11|Pnau|Chameleon
+2016|12|Milky Chance|Cocoon
+2016|13|Mura Masa|Love$ick {Ft. A$AP Rocky}
+2016|14|Violent Soho|Viceroy
+2016|15|Miike Snow|Genghis Khan
+2016|16|A.B. Original|January 26 {Ft. Dan Sultan}
+2016|17|Big Scary|The Opposite Of Us
+2016|18|Chance The Rapper|All Night {Ft. Knox Fortune}
+2016|19|Catfish And The Bottlemen|7
+2016|20|The xx|On Hold
+2016|21|The Smith Street Band|Death To The Lads
+2016|22|Kanye West|Ultralight Beam
+2016|23|Illy|Catch 22 {Ft. Anne-Marie}
+2016|24|Cub Sport|Come On Mess Me Up
+2016|25|Montaigne|Because I Love You
+2016|26|SAFIA|Make Them Wheels Roll
+2016|27|Gretta Ray|Drive
+2016|28|The Avalanches|Frankie Sinatra
+2016|29|Sticky Fingers|Our Town
+2016|30|RÜFÜS|Innerbloom {What So Not Remix}
+2016|31|Drake|One Dance {Ft. Wizkid/Kyla}
+2016|32|Tash Sultana|Notion
+2016|33|Dune Rats|Bullshit
+2016|34|Dune Rats|Scott Green
+2016|35|Client Liaison|World Of Our Love
+2016|36|Sticky Fingers|Sad Songs
+2016|37|Flume|Smoke & Retribution {Ft. Vince Staples/KUCKA}
+2016|38|Glass Animals|Youth
+2016|39|DMA'S|Step Up The Morphine
+2016|40|Kid Cudi|Surfin' {Ft. Pharrell Williams}
+2016|41|The Weeknd|I Feel It Coming {Ft. Daft Punk}
+2016|42|Broods|Heartlines
+2016|43|MØ|Final Song
+2016|44|D.D Dumbo|Satan
+2016|45|A.B. Original|Dumb Things {Ft. Paul Kelly/Dan Sultan} {Like A Version 2016}
+2016|46|Mac Miller|Dang! {Ft. Anderson .Paak}
+2016|47|D.D Dumbo|Walrus
+2016|48|Kingswood|Creepin
+2016|49|Hilltop Hoods|Higher {Ft. James Chatburn}
+2016|50|Gang Of Youths|Strange Diseases
+2016|51|Sticky Fingers|Outcast At Last
+2016|52|Halsey|Love Yourself {triple j Like A Version 2016}
+2016|53|Violent Soho|Blanket
+2016|54|Blink-182|Bored To Death
+2016|55|RÜFÜS|Say A Prayer For Me
+2016|56|Paces|Keeping Score {Ft. Guy Sebastian} {triple j Like A Version 2016}
+2016|57|Catfish And The Bottlemen|Twice
+2016|58|Ali Barter|Girlie Bits
+2016|59|Frank Ocean|Solo
+2016|60|Sofi Tukker|Drinkee
+2016|61|King Gizzard & The Lizard Wizard|Gamma Knife
+2016|62|DOPE LEMON|Marinade
+2016|63|Glass Animals|Life Itself
+2016|64|Maggie Rogers|Alaska
+2016|65|The Amity Affliction|All Fucked Up
+2016|66|Beyoncé|Hold Up
+2016|67|The Amity Affliction|I Bring The Weather With Me
+2016|68|L D R U|Next To You {Ft. Savoi}
+2016|69|Violent Soho|So Sentimental
+2016|70|Golden Features|Wolfie {Ft. Julia Stone}
+2016|71|Broods|Free
+2016|72|Kanye West|Famous
+2016|73|Violent Soho|No Shade
+2016|74|Camp Cope|Lost: Season One
+2016|75|The Avalanches|Because I'm Me
+2016|76|The Amity Affliction|This Could Be Heartbreak
+2016|77|Catfish And The Bottlemen|Soundcheck
+2016|78|Vera Blue|Settle
+2016|79|Radiohead|Burn The Witch
+2016|80|Banks|Gemini Feed
+2016|81|Desiigner|Panda
+2016|82|Thundamentals|Think About It {Ft. Peta & The Wolves}
+2016|83|Tkay Maidza|Simulation
+2016|84|Frank Ocean|Pink + White
+2016|85|SAFIA|My Love Is Gone
+2016|86|Bliss N Eso|Dopamine {Ft. Thief}
+2016|87|DOPE LEMON|Uptown Folks
+2016|88|Childish Gambino|Me And Your Mama
+2016|89|SAFIA|Over You
+2016|90|Luca Brasi|Anything Near Conviction
+2016|91|The Avalanches|Subways
+2016|92|Violent Soho|How To Taste
+2016|93|Empire Of The Sun|High And Low
+2016|94|Vallis Alps|Fading
+2016|95|Flume|Lose It {Ft. Vic Mensa}
+2016|96|Elk Road|Hanging By A Thread {Ft. Natalie Foster}
+2016|97|Alex Lahey|You Don't Think You Like People Like Me
+2016|98|Glass Animals|Season 2 Episode 3
+2016|99|Drake|Too Good {Ft. Rihanna}
+2016|100|Birds Of Tokyo|Brace
+2015|1|The Rubens|Hoops
+2015|2|Kendrick Lamar|King Kunta
+2015|3|Major Lazer|Lean On {Ft. M¯/DJ Snake}
+2015|4|Tame Impala|The Less I Know The Better
+2015|5|Tame Impala|Let It Happen
+2015|6|Marcus Marr & Chet Faker|The Trouble With Us
+2015|7|Jarryd James|Do You Remember
+2015|8|Hermitude|The Buzz {Ft. Mataya/Young Tapz}
+2015|9|The Weeknd|Can't Feel My Face
+2015|10|Disclosure|Magnets {Ft. Lorde}
+2015|11|Meg Mac|Never Be
+2015|12|RÜFÜS|You Were Right
+2015|13|Duke Dumont|Ocean Drive
+2015|14|Drake|Hotline Bling
+2015|15|Violent Soho|Like Soda
+2015|16|Vance Joy|Fire And The Flood
+2015|17|DJ Snake|Middle {Ft. Bipolar Sunshine}
+2015|18|Macklemore & Ryan Lewis|DOWNTOWN {Ft. Eric Nally/Melle Mel/Kool Moe Dee/Grandmaster Caz}
+2015|19|The Weeknd|The Hills
+2015|20|Foals|Mountain At My Gates
+2015|21|Gang Of Youths|Magnolia
+2015|22|L D R U|Keeping Score {Ft. Paige IV}
+2015|23|SAFIA|Embracing Me
+2015|24|Flume|Some Minds {Ft. Andrew Wyatt}
+2015|25|The Amity Affliction|Shine On
+2015|26|Jamie xx|I Know There's Gonna Be (Good Times) {Ft. Young Thug/Popcaan}
+2015|27|Vallis Alps|Young
+2015|28|RÜFÜS|Like An Animal
+2015|29|The Wombats|Greek Tragedy
+2015|30|Peking Duk|Say My Name {Ft. Benjamin Joseph}
+2015|31|Jamie xx|Loud Places {Ft. Romy}
+2015|32|Chvrches|Leave A Trace
+2015|33|Urthboy|Long Loud Hours {Ft. Bertie Blackman}
+2015|34|Tame Impala|Eventually
+2015|35|SAFIA|Counting Sheep
+2015|36|Snakehips|All My Friends {Ft. Tinashe/Chance The Rapper}
+2015|37|Kendrick Lamar|Alright
+2015|38|Florence + The Machine|Delilah
+2015|39|Illy|Swear Jar
+2015|40|Florence + The Machine|Ship To Wreck
+2015|41|Claptone|Puppet Theatre {Ft. Peter Bjorn & John}
+2015|42|Halsey|Hold Me Down
+2015|43|Courtney Barnett|Pedestrian At Best
+2015|44|Hayden James|Something About You
+2015|45|Bring Me The Horizon|Throne
+2015|46|The Chemical Brothers|Go {Ft. Q-Tip}
+2015|47|Asta|Dynamite {Ft. Allday}
+2015|48|Parkway Drive|Crushed
+2015|49|San Cisco|Too Much Time Together
+2015|50|BOO SEEKA|Deception Bay
+2015|51|Chvrches|Clearest Blue
+2015|52|Ratatat|Cream On Chrome
+2015|53|Matt Corby|Monday
+2015|54|ZHU x Skrillex x THEY.|Working For It
+2015|55|Unknown Mortal Orchestra|Multi-Love
+2015|56|Sia|Alive
+2015|57|Alpine|Foolish
+2015|58|Parkway Drive|Vice Grip
+2015|59|Alison Wonderland|Run
+2015|60|MØ|Kamikaze
+2015|61|Tame Impala|Cause I'm A Man
+2015|62|Disclosure|Omen {Ft. Sam Smith}
+2015|63|Boy & Bear|Walk The Wire
+2015|64|A$AP Rocky|L$D
+2015|65|Alabama Shakes|Don't Wanna Fight
+2015|66|Tkay Maidza|M.O.B.
+2015|67|The Wombats|Give Me A Try
+2015|68|Skepta|Shutdown
+2015|69|Japanese Wallpaper|Forces {Ft. Airling}
+2015|70|Florence + The Machine|What Kind Of Man
+2015|71|Grimes|Flesh Without Blood
+2015|72|Birds Of Tokyo|Anchor
+2015|73|Ngaiire|Once
+2015|74|Major Lazer|Powerful {Ft. Ellie Goulding/Tarrus Riley}
+2015|75|Courtney Barnett|Elevator Operator
+2015|76|British India|Suddenly
+2015|77|DMA's|Lay Down
+2015|78|Jack Garratt|Weathered
+2015|79|The Cat Empire|Wolves
+2015|80|A$AP Rocky|Everyday {Ft. Rod Stewart/Miguel/Mark Ronson}
+2015|81|Tuka|Big Jet Plane {triple j Like A Version}
+2015|82|Courtney Barnett|Depreston
+2015|83|Flight Facilities|Down To Earth {Radio Edit}
+2015|84|Sticky Fingers|Delete {triple j Like A Version}
+2015|85|Flight Facilities|Heart Attack {Ft. Owl Eyes} {Radio Edit}
+2015|86|Bring Me The Horizon|Happy Song
+2015|87|Purity Ring|Begin Again
+2015|88|The Bennies|Party Machine
+2015|89|Lana Del Rey|High By The Beach
+2015|90|What So Not|Gemini {Ft. George Maple}
+2015|91|The Wombats|Be Your Shadow
+2015|92|Golden Features|No One {Ft. Thelma Plum}
+2015|93|Jai Wolf|Indian Summer
+2015|94|Halsey|Ghost
+2015|95|Courtney Barnett|Nobody Really Cares If You Don't Go To The Party
+2015|96|Rudimental|Rumour Mill {Ft. Anne-Marie/Will Heard}
+2015|97|Methyl Ethel|Twilight Driving
+2015|98|Major Lazer|Be Together {Ft. Wild Belle}
+2015|99|Bring Me The Horizon|True Friends
+2015|100|Seth Sentry|Hell Boy
+2014|1|Chet Faker|Talk Is Cheap
+2014|2|Peking Duk|High {Ft. Nicole Millar}
+2014|3|Hilltop Hoods|Cosby Sweater
+2014|4|Milky Chance|Stolen Dance
+2014|5|Peking Duk|Take Me Over {Ft. SAFIA}
+2014|6|Mark Ronson|Uptown Funk {Ft. Bruno Mars}
+2014|7|Chet Faker|Gold
+2014|8|Chet Faker|1998
+2014|9|Sia|Chandelier
+2014|10|Asgeir|King And Cross
+2014|11|ZHU|Faded
+2014|12|Glass Animals|Gooey
+2014|13|Vance Joy|Mess Is Mine
+2014|14|alt-J|Every Other Freckle
+2014|15|The Kite String Tangle|Arcadia
+2014|16|alt-J|Left Hand Free
+2014|17|Illy|Tightrope {Ft. Scarlett Stevens}
+2014|18|Lorde|Yellow Flicker Beat
+2014|19|Ball Park Music|She Only Loves Me When I'm There
+2014|20|Sticky Fingers|Gold Snafu
+2014|21|Chet Faker|(Lover) You Don't Treat Me No Good {Like A Version 2014}
+2014|22|The Amity Affliction|Pittsburgh
+2014|23|Future Islands|Seasons (Waiting On You)
+2014|24|Meg Mac|Roll Up Your Sleeves
+2014|25|Bluejuice|I'll Go Crazy
+2014|26|alt-J|Hunger Of The Pine
+2014|27|Banks|Beggin For Thread
+2014|28|The Griswolds|Beware The Dog
+2014|29|The Preatures|Somebody's Talking
+2014|30|Thundamentals|Something I Said {Ft. Thom Crawford}
+2014|31|Childish Gambino|Sober
+2014|32|Lana Del Rey|West Coast
+2014|33|San Cisco|RUN
+2014|34|SBTRKT|NEW DORP. NEW YORK {Ft. Ezra Koenig}
+2014|35|Allday|You Always Know The DJ
+2014|36|Hilltop Hoods|Won't Let You Down {Ft. Maverick Sabre}
+2014|37|Alison Wonderland|I Want U
+2014|38|First Aid Kit|My Silver Lining
+2014|39|Flight Facilities|Two Bodies {Ft. Emma Louise}
+2014|40|Broods|Mother & Father
+2014|41|Carmada|Maybe
+2014|42|Kim Churchill|Window To The Sky
+2014|43|Jamie T|Zombie
+2014|44|Milky Chance|Flashed Junk Mind
+2014|45|FKA twigs|Two Weeks
+2014|46|Meg Mac|Grandma's Hands
+2014|47|Lorde|Tennis Court (Flume Remix)
+2014|48|DMA's|Delete
+2014|49|TV On The Radio|Happy Idiot
+2014|50|Vance Joy|First Time
+2014|51|Courtney Barnett|Pickles From The Jar
+2014|52|Flight Facilities|Sunshine {Ft. Reggie Watts}
+2014|53|Kendrick Lamar|i
+2014|54|Chvrches|Do I Wanna Know? {Like A Version 2014}
+2014|55|Caribou|Can't Do Without You
+2014|56|Kingswood|I Can Feel That You Don't Love Me
+2014|57|Hilltop Hoods|Walking Under Stars
+2014|58|Ball Park Music|Everything Is Shit Except My Friendship With You
+2014|59|Röyksopp|Monument (The Inevitable End Version) {Ft. Robyn}
+2014|60|Childish Gambino|Sweatpants
+2014|61|Andy Bull|Talk Too Much
+2014|62|Angus & Julia Stone|Heart Beats Slow
+2014|63|The War On Drugs|Red Eyes
+2014|64|The Amity Affliction|Don't Lean On Me
+2014|65|Allday|Right Now
+2014|66|clipping.|Work Work {Ft. Cocc Pistol Cree}
+2014|67|Jungle|Busy Earnin'
+2014|68|Bring Me The Horizon|Drown
+2014|69|The Smith Street Band|Surrender
+2014|70|Odd Mob|Is It A Banger?
+2014|71|The Amity Affliction|The Weigh Down
+2014|72|Run The Jewels|Close Your Eyes (And Count To Fuck) {Ft. Zack De La Rocha}
+2014|73|Röyksopp & Robyn|Do It Again
+2014|74|Duke Dumont|I Got U {Ft. Jax Jones}
+2014|75|360|Live It Up {Ft. Pez}
+2014|76|Kingswood|Micro Wars
+2014|77|Highasakite|Since Last Wednesday
+2014|78|Thundamentals|Quit Your Job
+2014|79|Jack White|Lazaretto
+2014|80|Rise Against|I Don't Want To Be Here Anymore
+2014|81|The Avener|Fade Out Lines
+2014|82|Hopium|Dreamers {Ft. Phoebe Lou}
+2014|83|British India|Wrong Direction
+2014|84|Foo Fighters|Something From Nothing
+2014|85|Chvrches|Get Away
+2014|86|Sticky Fingers|Just For You
+2014|87|Briggs|Bad Apples
+2014|88|DZ Deathrays|Gina Works At Hearts
+2014|89|Cold War Kids|First
+2014|90|Thundamentals|Got Love {Ft. Solo}
+2014|91|Meg Mac|Bridges {Like A Version 2014}
+2014|92|One Day|Love Me Less
+2014|93|Vance Joy|Georgia
+2014|94|Sticky Fingers|Liquorlip Loaded Gun
+2014|95|Thelma Plum|How Much Does Your Love Cost?
+2014|96|SAFIA|Paranoia, Ghosts & Other Sounds
+2014|97|Japanese Wallpaper|Between Friends {Ft. Jesse Davidson}
+2014|98|Bombay Bicycle Club|Luna
+2014|99|Ball Park Music|Trippin' The Light Fantastic
+2014|100|Tkay Maidza|Switch Lanes {Prod. Paces}
+Twenty Years '13|1|Oasis|Wonderwall
+Twenty Years '13|2|The White Stripes|Seven Nation Army
+Twenty Years '13|3|Jeff Buckley|Last Goodbye
+Twenty Years '13|4|Hilltop Hoods|The Nosebleed Section
+Twenty Years '13|5|The Verve|Bitter Sweet Symphony
+Twenty Years '13|6|Foo Fighters|Everlong
+Twenty Years '13|7|The Killers|Mr. Brightside
+Twenty Years '13|8|Powderfinger|These Days
+Twenty Years '13|9|Gotye|Somebody That I Used to Know {ft. Kimbra}
+Twenty Years '13|10|Powderfinger|My Happiness
+Twenty Years '13|11|Queens of the Stone Age|No One Knows
+Twenty Years '13|12|Gotye|Hearts a Mess
+Twenty Years '13|13|Radiohead|Paranoid Android
+Twenty Years '13|14|Mumford & Sons|Little Lion Man
+Twenty Years '13|15|The Prodigy|Breathe
+Twenty Years '13|16|Bon Iver|Skinny Love
+Twenty Years '13|17|Silverchair|Tomorrow
+Twenty Years '13|18|OutKast|Hey Ya!
+Twenty Years '13|19|blink-182|Dammit
+Twenty Years '13|20|The Living End|Prisoner of Society
+Twenty Years '13|21|The Smashing Pumpkins|1979
+Twenty Years '13|22|Blur|Song 2
+Twenty Years '13|23|Muse|Knights of Cydonia
+Twenty Years '13|24|Augie March|One Crowded Hour
+Twenty Years '13|25|The Smashing Pumpkins|Bullet With Butterfly Wings
+Twenty Years '13|26|System Of A Down|Chop Suey!
+Twenty Years '13|27|The Avalanches|Frontier Psychiatrist
+Twenty Years '13|28|Red Hot Chili Peppers|Scar Tissue
+Twenty Years '13|29|Franz Ferdinand|Take Me Out
+Twenty Years '13|30|Red Hot Chili Peppers|Californication
+Twenty Years '13|31|Massive Attack|Teardrop
+Twenty Years '13|32|Tool|Stinkfist
+Twenty Years '13|33|The Cranberries|Zombie
+Twenty Years '13|34|Ben Folds Five|Brick
+Twenty Years '13|35|Radiohead|Karma Police
+Twenty Years '13|36|Jeff Buckley|Hallelujah
+Twenty Years '13|37|Beastie Boys|Sabotage
+Twenty Years '13|38|The Temper Trap|Sweet Disposition
+Twenty Years '13|39|Nirvana|Heart Shaped Box
+Twenty Years '13|40|Nine Inch Nails|Closer
+Twenty Years '13|41|Coldplay|Yellow
+Twenty Years '13|42|Matt Corby|Brother
+Twenty Years '13|43|John Butler Trio|Betterman
+Twenty Years '13|44|Daft Punk|One More Time
+Twenty Years '13|45|Modest Mouse|Float On
+Twenty Years '13|46|Nick Cave & The Bad Seeds|Into My Arms
+Twenty Years '13|47|The Offspring|Self Esteem
+Twenty Years '13|48|The Strokes|Last Nite
+Twenty Years '13|49|Florence + the Machine|Dog Days Are Over
+Twenty Years '13|50|Pearl Jam|Better Man
+Twenty Years '13|51|The Dandy Warhols|Bohemian Like You
+Twenty Years '13|52|Gorillaz|Feel Good Inc
+Twenty Years '13|53|Placebo|Every You Every Me
+Twenty Years '13|54|Kings Of Leon|Sex On Fire
+Twenty Years '13|55|Fatboy Slim|Praise You
+Twenty Years '13|56|Underworld|Born Slippy .NUXX
+Twenty Years '13|57|Bloc Party|Banquet
+Twenty Years '13|58|The Whitlams|No Aphrodisiac
+Twenty Years '13|59|Daft Punk|Around The World
+Twenty Years '13|60|Bush|Glycerine
+Twenty Years '13|61|The Black Keys|Lonely Boy
+Twenty Years '13|62|Spiderbait|Buy Me A Pony
+Twenty Years '13|63|Grinspoon|Chemical Heart
+Twenty Years '13|64|MGMT|Kids
+Twenty Years '13|65|Daft Punk|Harder, Better, Faster, Stronger
+Twenty Years '13|66|You Am I|Berlin Chair
+Twenty Years '13|67|alt-J|Breezeblocks
+Twenty Years '13|68|Jet|Are You Gonna Be My Girl
+Twenty Years '13|69|Eminem|Lose Yourself
+Twenty Years '13|70|Regurgitator|! (The Song Formerly Known As)
+Twenty Years '13|71|Gorillaz|Clint Eastwood
+Twenty Years '13|72|Wolfmother|Joker And The Thief
+Twenty Years '13|73|Edward Sharpe & The Magnetic Zeros|Home
+Twenty Years '13|74|The Wombats|Let's Dance To Joy Division
+Twenty Years '13|75|The Killers|Somebody Told Me
+Twenty Years '13|76|MGMT|Electric Feel
+Twenty Years '13|77|The Presets|My People
+Twenty Years '13|78|Silverchair|Freak
+Twenty Years '13|79|Arctic Monkeys|I Bet You Look Good On The Dancefloor
+Twenty Years '13|80|Rage Against The Machine|Bulls On Parade
+Twenty Years '13|81|Angus & Julia Stone|Big Jet Plane
+Twenty Years '13|82|Wheatus|Teenage Dirtbag
+Twenty Years '13|83|Pulp|Common People
+Twenty Years '13|84|Kanye West|Gold Digger {ft. Jamie Foxx}
+Twenty Years '13|85|Coolio|Gangsta's Paradise
+Twenty Years '13|86|The Killers|When You Were Young
+Twenty Years '13|87|The Kooks|Naive
+Twenty Years '13|88|Something For Kate|Monsters
+Twenty Years '13|89|TV On The Radio|Wolf Like Me
+Twenty Years '13|90|Silverchair|Straight Lines
+Twenty Years '13|91|Jebediah|Harpoon
+Twenty Years '13|92|Of Monsters And Men|Little Talks
+Twenty Years '13|93|Soundgarden|Black Hole Sun
+Twenty Years '13|94|Foster The People|Pumped Up Kicks
+Twenty Years '13|95|Ben Lee|Cigarettes Will Kill You
+Twenty Years '13|96|The Cat Empire|Hello
+Twenty Years '13|97|M.I.A.|Paper Planes
+Twenty Years '13|98|Jebediah|Leaving Home
+Twenty Years '13|99|Lana Del Rey|Video Games
+Twenty Years '13|100|Beastie Boys|Intergalactic
+2013|1|Vance Joy|Riptide
+2013|2|Lorde|Royals
+2013|3|Daft Punk|Get Lucky {Ft. Pharrell Williams & Nile Rodgers}
+2013|4|Arctic Monkeys|Do I Wanna Know?
+2013|5|Flume & Chet Faker|Drop The Game
+2013|6|Arctic Monkeys|Why'd You Only Call Me When You're High?
+2013|7|Lana Del Rey|Young And Beautiful
+2013|8|Matt Corby|Resolution
+2013|9|The Preatures|Is This How You Feel?
+2013|10|London Grammar|Strong
+2013|11|HAIM|The Wire
+2013|12|Lorde|Tennis Court
+2013|13|James Blake|Retrograde
+2013|14|Violent Soho|Covered In Chrome
+2013|15|Lorde|Team
+2013|16|Arcade Fire|Reflektor
+2013|17|Daft Punk|Lose Yourself To Dance {Ft. Pharrell Williams}
+2013|18|Arctic Monkeys|Arabella
+2013|19|The Kite String Tangle|Given The Chance
+2013|20|Kanye West|Black Skinhead
+2013|21|RUFUS|Take Me
+2013|22|Birds Of Tokyo|Lanterns
+2013|23|Disclosure|When A Fire Starts To Burn
+2013|24|Rudimental|Waiting All Night {Ft. Ella Eyre}
+2013|25|The Wombats|Your Body Is A Weapon
+2013|26|Vampire Weekend|Step
+2013|27|HAIM|Falling
+2013|28|Chvrches|Recover
+2013|29|Foals|My Number
+2013|30|Empire Of The Sun|Alive
+2013|31|Vampire Weekend|Diane Young
+2013|32|Thundamentals|Smiles Don't Lie
+2013|33|Grouplove|Ways To Go
+2013|34|RUFUS|Desert Night
+2013|35|London Grammar|Hey Now
+2013|36|Bloc Party|Ratchet
+2013|37|Chvrches|Gun
+2013|38|Touch Sensitive|Pizza Guy
+2013|39|San Cisco|Get Lucky {Like A Version}
+2013|40|The Amity Affliction|Born To Die
+2013|41|Boy & Bear|Southern Sun
+2013|42|Max Frost|White Lies
+2013|43|Childish Gambino|3005
+2013|44|Dustin Tebbutt|The Breach
+2013|45|Robert Delong|Global Concepts
+2013|46|Queens Of The Stone Age|If I Had A Tail
+2013|47|Rudimental|Free {Ft. Emeli Sande}
+2013|48|Flight Facilities|Stand Still {Ft. Micky Green}
+2013|49|Daft Punk|Doin' It Right {Ft. Panda Bear}
+2013|50|John Newman|Love Me Again
+2013|51|Fatboy Slim & Riva Starr|Eat Sleep Rave Repeat
+2013|52|Cloud Control|Scar
+2013|53|Kingswood|Ohio
+2013|54|Arcade Fire|Afterlife
+2013|55|Boy & Bear|Harlequin Dream
+2013|56|HAIM|If I Could Change Your Mind
+2013|57|Andy Bull|Keep On Running
+2013|58|Daft Punk|Instant Crush {Ft. Julian Casablancas}
+2013|59|Kanye West|Bound 2
+2013|60|Chvrches|Lies
+2013|61|London Grammar|Wasting My Young Years
+2013|62|Goldroom|Embrace
+2013|63|Disclosure|You & Me {Flume Remix}
+2013|64|The National|Graceless
+2013|65|Chet Faker|Melt {Ft. Kilo Kish}
+2013|66|Illy|Ausmusic Month Medley {Like A Version}
+2013|67|Bliss N Eso|Act Your Age
+2013|68|Something For Kate|Sweet Nothing {Like A Version}
+2013|69|Disclosure|White Noise {Ft. AlunaGeorge}
+2013|70|Sticky Fingers|Australia Street
+2013|71|Two Door Cinema Club|Changing Of The Seasons
+2013|72|Queens Of The Stone Age|I Sat By The Ocean
+2013|73|Busta Rhymes|Thank You {Ft. Q-Tip, Kanye West & Lil Wayne}
+2013|74|Major Lazer|Jessica {Ft. Ezra Koenig}
+2013|75|Mikhael Paskalev|I Spy
+2013|76|SAFIA|Listen To Soul, Listen To Blues
+2013|77|Illy|Youngbloods {Ft. Ahren Stringer}
+2013|78|MS MR|Fantasy
+2013|79|A$AP Rocky|F**kin' Problems {Ft. Drake, 2 Chainz & Kendrick Lamar}
+2013|80|Panama|Always
+2013|81|Andy Bull|Baby I Am Nobody Now
+2013|82|Cloud Control|Dojo Rising
+2013|83|The Jezabels|The End
+2013|84|British India|Summer Forgive Me
+2013|85|Remi|Sangria
+2013|86|Bring Me The Horizon|Sleepwalking
+2013|87|John Butler Trio|Only One
+2013|88|Josh Pyke|Leeward Side
+2013|89|The Cat Empire|Brighter Than Gold
+2013|90|Vampire Weekend|Unbelievers
+2013|91|RUFUS|Tonight
+2013|92|Bring Me The Horizon|Shadow Moses
+2013|93|St Lucia|Elevate
+2013|94|Bliss N Eso|House Of Dreams
+2013|95|Vance Joy|Play With Fire
+2013|96|Big Scary|Luck Now
+2013|97|Queens Of The Stone Age|My God Is The Sun
+2013|98|Horrorshow|Dead Star Shine
+2013|99|Dillon Francis|Without You {Ft. Totally Enormous Extinct Dinosaurs}
+2013|100|Karnivool|We Are
+2012|1|Macklemore & Ryan Lewis|Thrift Shop {ft. Wanz}
+2012|2|Of Monsters And Men|Little Talks
+2012|3|alt-J|Breezeblocks
+2012|4|Flume|Holdin On
+2012|5|Mumford & Sons|I Will Wait
+2012|6|Major Lazer|Get Free {ft. Amber Coffman}
+2012|7|Tame Impala|Elephant
+2012|8|Frank Ocean|Lost
+2012|9|Tame Impala|Feels Like We Only Go Backwards
+2012|10|The Rubens|My Gun
+2012|11|Calvin Harris|Sweet Nothing {ft. Florence Welch}
+2012|12|Flume|Sleepless {ft. Jezzabell Doran}
+2012|13|The Black Keys|Gold On The Ceiling
+2012|14|Icona Pop|I Love It {ft. Charli XCX}
+2012|15|Macklemore & Ryan Lewis|Same Love {ft. Mary Lambert}
+2012|16|Rudimental|Not Giving In {ft. John Newman & Alex Clare}
+2012|17|Flight Facilities|Clair De Lune {ft. Christine Hoberg}
+2012|18|Hermitude|HyperParadise {Flume Remix}
+2012|19|The xx|Angels
+2012|20|Rudimental|Feel The Love {ft. John Newman}
+2012|21|Disclosure|Latch {ft. Sam Smith}
+2012|22|The Temper Trap|Trembling Hands
+2012|23|Ball Park Music|Coming Down
+2012|24|Chet Faker|I'm Into You
+2012|25|Skrillex|Bangarang {ft. Sirah}
+2012|26|Seth Sentry|Dear Science
+2012|27|Ball Park Music|Surrender
+2012|28|Django Django|Default
+2012|29|Loon Lake|Cherry Lips
+2012|30|Bat For Lashes|Laura
+2012|31|Alpine|Gasoline
+2012|32|Florence + The Machine|Spectrum (Say My Name) {Calvin Harris Remix}
+2012|33|Parachute Youth|Can't Get Better Than This
+2012|34|Lana Del Rey|Born To Die
+2012|35|360|Run Alone
+2012|36|Miike Snow|Paddling Out
+2012|37|Two Door Cinema Club|Sun
+2012|38|Grimes|Oblivion
+2012|39|Alabama Shakes|Hold On
+2012|40|Arctic Monkeys|R U Mine?
+2012|41|British India|I Can Make You Love Me
+2012|42|MS MR|Hurricane
+2012|43|The Lumineers|Ho Hey
+2012|44|Xavier Rudd|Follow The Sun
+2012|45|Chance Waters|Young & Dumb {ft. Bertie Blackman}
+2012|46|Passion Pit|Take A Walk
+2012|47|Of Monsters And Men|Mountain Sound
+2012|48|San Cisco|Fred Astaire
+2012|49|Thundamentals|Brother {Like A Version}
+2012|50|Asta|My Heart Is On Fire
+2012|51|Birds Of Tokyo|This Fire
+2012|52|The Presets|Ghosts
+2012|53|San Cisco|Wild Things
+2012|54|The Bamboos|I Got Burned {ft. Tim Rogers}
+2012|55|Knife Party|Internet Friends
+2012|56|Frank Ocean|Thinkin Bout You
+2012|57|Seth Sentry|Float Away
+2012|58|Mumford & Sons|Babel
+2012|59|Cosmo Jarvis|Love This
+2012|60|Jack White|Love Interruption
+2012|61|Sticky Fingers|Caress Your Soul
+2012|62|Kid Cudi|Just What I Am {ft. King Chip}
+2012|63|First Aid Kit|Wolf
+2012|64|alt-J|Tessellate
+2012|65|Grimes|Genesis
+2012|66|The Rubens|The Best We Got
+2012|67|Flume|On Top {ft. T-Shirt}
+2012|68|Avicii|Silhouettes
+2012|69|Matt Corby|Lonely Boy {Like A Version}
+2012|70|The Presets|Promises
+2012|71|Kendrick Lamar|Swimming Pools (Drank)
+2012|72|Regina Spektor|All The Rowboats
+2012|73|Ben Folds Five|Draw A Crowd
+2012|74|The Shins|Simple Song
+2012|75|Muse|Madness
+2012|76|Illy|Heard It All
+2012|77|Feed Me & Crystal Fighters|Love Is All I Got
+2012|78|Totally Enormous Extinct Dinosaurs|Household Goods
+2012|79|The Black Keys|Little Black Submarines
+2012|80|Frank Ocean|Super Rich Kids {ft. Earl Sweatshirt}
+2012|81|alt-J|Something Good
+2012|82|Santigold|Disparate Youth
+2012|83|The Jungle Giants|She's A Riot
+2012|84|Hilltop Hoods|Rattling The Keys To The Kingdom
+2012|85|Purity Ring|Fineshrine
+2012|86|Lana Del Rey|Summertime Sadness
+2012|87|The Bloody Beetroots & Greta Svabo Bech|Chronicles Of A Fallen Love
+2012|88|C2C|Down The Road
+2012|89|Chance Waters|Maybe Tomorrow {ft. Lilian Blue}
+2012|90|Two Door Cinema Club|Sleep Alone
+2012|91|Allday x C1|So Good
+2012|92|Lisa Mitchell|Spiritus
+2012|93|Snakadaktal|Dance Bear
+2012|94|The Gaslight Anthem|45
+2012|95|Last Dinosaurs|Andy
+2012|96|Kanye West, JAY Z & Big Sean|Clique
+2012|97|Jack White|I'm Shakin'
+2012|98|Kimbra|Warrior {ft. Mark Foster & A-Trak}
+2012|99|M.I.A.|Bad Girls
+2012|100|Everything Everything|Cough Cough
+Australian Albums '11|1|Powderfinger|Odyssey Number Five
+Australian Albums '11|2|Silverchair|Frogstomp
+Australian Albums '11|3|AC/DC|Back in Black
+Australian Albums '11|4|The Living End|The Living End
+Australian Albums '11|5|INXS|Kick
+Australian Albums '11|6|Powderfinger|Internationalist
+Australian Albums '11|7|The Presets|Apocalypso
+Australian Albums '11|8|Wolfmother|Wolfmother
+Australian Albums '11|9|The Avalanches|Since I Left You
+Australian Albums '11|10|Regurgitator|Unit
+Australian Albums '11|11|Gotye|Like Drawing Blood
+Australian Albums '11|12|Grinspoon|Guide to Better Living
+Australian Albums '11|13|Crowded House|Crowded House
+Australian Albums '11|14|Powderfinger|Vulture Street
+Australian Albums '11|15|Jebediah|Slightly Odway
+Australian Albums '11|16|Hilltop Hoods|The Hard Road
+Australian Albums '11|17|The Whitlams|Eternal Nightcap
+Australian Albums '11|18|Crowded House|Woodface
+Australian Albums '11|19|Tame Impala|Innerspeaker
+Australian Albums '11|20|The Temper Trap|Conditions
+Australian Albums '11|21|Midnight Oil|10,9,8,7,6,5,4,3,2,1
+Australian Albums '11|22|Silverchair|Diorama
+Australian Albums '11|23|Hilltop Hoods|The Calling
+Australian Albums '11|24|The John Butler Trio|Sunrise Over Sea
+Australian Albums '11|25|Jet|Get Born
+Australian Albums '11|26|You Am I|Hourly, Daily
+Australian Albums '11|27|Silverchair|Neon Ballroom
+Australian Albums '11|28|The Cat Empire|The Cat Empire
+Australian Albums '11|29|Missy Higgins|The Sound of White
+Australian Albums '11|30|Karnivool|Themata
+Australian Albums '11|31|Angus & Julia Stone|Down the Way
+Australian Albums '11|32|Birds of Tokyo|Universes
+Australian Albums '11|33|Midnight Oil|Diesel and Dust
+Australian Albums '11|34|Josh Pyke|Memories & Dust
+Australian Albums '11|35|You Am I|Hi Fi Way
+Australian Albums '11|36|Cut Copy|In Ghost Colours
+Australian Albums '11|37|The Vines|Highly Evolved
+Australian Albums '11|38|Angus & Julia Stone|A Book Like This
+Australian Albums '11|39|Birds of Tokyo|Birds of Tokyo
+Australian Albums '11|40|Something for Kate|Echolalia
+Australian Albums '11|41|Powderfinger|Double Allergic
+Australian Albums '11|42|Cold Chisel|East
+Australian Albums '11|43|Silverchair|Freak Show
+Australian Albums '11|44|Regurgitator|Tu-Plang
+Australian Albums '11|45|Karnivool|Sound Awake
+Australian Albums '11|46|Empire of the Sun|Walking on a Dream
+Australian Albums '11|47|Eskimo Joe|Black Fingernails, Red Wine
+Australian Albums '11|48|Spiderbait|Ivy and the Big Apples
+Australian Albums '11|49|John Farnham|Whispering Jack
+Australian Albums '11|50|Cog|The New Normal
+Australian Albums '11|51|Washington|I Believe You Liar
+Australian Albums '11|52|Nick Cave & The Bad Seeds|Murder Ballads
+Australian Albums '11|53|The John Butler Trio|Three
+Australian Albums '11|54|Bernard Fanning|Tea & Sympathy
+Australian Albums '11|55|Midnight Oil|Blue Sky Mining
+Australian Albums '11|56|Cloud Control|Bliss Release
+Australian Albums '11|57|The Cruel Sea|The Honeymoon Is Over
+Australian Albums '11|58|Grinspoon|New Detention
+Australian Albums '11|59|Sarah Blasko|As Day Follows Night
+Australian Albums '11|60|Sia|We Are Born
+Australian Albums '11|61|Pendulum|Hold Your Colour
+Australian Albums '11|62|The Panics|Cruel Guards
+Australian Albums '11|63|The John Butler Trio|Grand National
+Australian Albums '11|64|george|Polyserena
+Australian Albums '11|65|Cold Chisel|Cold Chisel
+Australian Albums '11|66|Bliss n Eso|Running on Air
+Australian Albums '11|67|Bliss n Eso|Flying Colours
+Australian Albums '11|68|Art vs. Science|The Experiment
+Australian Albums '11|69|Paul Kelly and The Coloured Girls|Gossip
+Australian Albums '11|70|Silverchair|Young Modern
+Australian Albums '11|71|The Presets|Beams
+Australian Albums '11|72|Something for Kate|Beautiful Sharks
+Australian Albums '11|73|AC/DC|Highway to Hell
+Australian Albums '11|74|Sarah Blasko|The Overture & the Underscore
+Australian Albums '11|75|Skyhooks|Living in the 70's
+Australian Albums '11|76|Hunters & Collectors|Human Frailty
+Australian Albums '11|77|Pendulum|Immersion
+Australian Albums '11|78|The Sleepy Jackson|Lovers
+Australian Albums '11|79|The Grates|Gravity Won't Get You High
+Australian Albums '11|80|The Saints|(I'm) Stranded
+Australian Albums '11|81|Pete Murray|Feeler
+Australian Albums '11|82|The Waifs|Up All Night
+Australian Albums '11|83|Lisa Mitchell|Wonder
+Australian Albums '11|84|The Go-Betweens|16 Lovers Lane
+Australian Albums '11|85|Hilltop Hoods|State of the Art
+Australian Albums '11|86|Dead Letter Circus|This Is the Warning
+Australian Albums '11|87|Eskimo Joe|A Song Is a City
+Australian Albums '11|88|The Butterfly Effect|Imago
+Australian Albums '11|89|Pnau|Pnau
+Australian Albums '11|90|Children Collide|The Long Now
+Australian Albums '11|91|Gypsy & The Cat|Gilgamesh
+Australian Albums '11|92|Frenzal Rhomb|A Man's Not a Camel
+Australian Albums '11|93|Augie March|Moo, You Bloody Choir
+Australian Albums '11|94|Paul Dempsey|Everything Is True
+Australian Albums '11|95|Hoodoo Gurus|Stoneage Romeos
+Australian Albums '11|96|Machine Gun Fellatio|Paging Mr. Strike
+Australian Albums '11|97|The Butterfly Effect|Begins Here
+Australian Albums '11|98|Nick Cave & The Bad Seeds|The Boatman's Call
+Australian Albums '11|99|Grinspoon|Thrills, Kills & Sunday Pills
+Australian Albums '11|100|The Cat Empire|Two Shoes
+2011|1|Gotye|Somebody That I Used to Know {ft. Kimbra}
+2011|2|The Black Keys|Lonely Boy
+2011|3|Matt Corby|Brother
+2011|4|Boy & Bear|Feeding Line
+2011|5|M83|Midnight City
+2011|6|Lana Del Rey|Video Games
+2011|7|San Cisco|Awkward
+2011|8|360|Boys Like You {ft. Gossling}
+2011|9|The Jezabels|Endless Summer
+2011|10|Hilltop Hoods|I Love It {ft. Sia}
+2011|11|Calvin Harris|Feel So Close
+2011|12|Architecture in Helsinki|Contact High
+2011|13|Florence and the Machine|Shake It Out
+2011|14|Foster the People|Call It What You Want
+2011|15|Foster the People|Helena Beat
+2011|16|Grouplove|Tongue Tied
+2011|17|Seeker Lover Keeper|Even Though I'm a Woman
+2011|18|The Wombats|Jump into the Fog
+2011|19|Nero|Promises
+2011|20|Bluejuice|Act Yr Age
+2011|21|Skrillex|Scary Monsters and Nice Sprites
+2011|22|Snakadaktal|Air
+2011|23|Emma Louise|Jungle
+2011|24|The Wombats|1996
+2011|25|Kimbra|Cameo Lover
+2011|26|The Wombats|Techno Fan
+2011|27|Example|Changed the Way You Kiss Me
+2011|28|Owl Eyes|Pumped Up Kicks {Like a Version}
+2011|29|Drapht|Sing It (The Life of Riley)
+2011|30|Calvin Harris|Bounce {ft. Kelis}
+2011|31|Ball Park Music|It's Nice to Be Alive
+2011|32|Noah & the Whale|L.I.F.E.G.O.E.S.O.N.
+2011|33|Jay-Z & Kanye West|Otis {ft. Otis Redding}
+2011|34|Gotye|I Feel Better
+2011|35|Illy|Cigarettes
+2011|36|Florence and the Machine|No Light, No Light
+2011|37|360|Killer
+2011|38|Ball Park Music|All I Want Is You
+2011|39|Benny Benassi|Cinema {ft. Gary Go} {Skrillex Remix}
+2011|40|Foster The People|Houdini
+2011|41|The Strokes|Under Cover of Darkness
+2011|42|Florence and the Machine|What the Water Gave Me
+2011|43|Grouplove|Itchin' on a Photograph
+2011|44|Hermitude|Speak of the Devil
+2011|45|The Kooks|Junk of the Heart (Happy)
+2011|46|Active Child|Hanging On
+2011|47|Sparkadia|Mary
+2011|48|Art vs. Science|A.I.M. Fire!
+2011|49|Boy & Bear|Milk & Sticks
+2011|50|Boy & Bear|Part Time Believer
+2011|51|The Drums|Money
+2011|52|Kimbra|Good Intent
+2011|53|Bon Iver|Holocene
+2011|54|The Grates|Turn Me On
+2011|55|Architecture In Helsinki|Escapee
+2011|56|Sparkadia|China
+2011|57|The Rubens|Lay It Down
+2011|58|Lykke Li|I Follow Rivers
+2011|59|Washington|Holy Moses
+2011|60|Joe Goddard|Gabriel {ft. Valentina}
+2011|61|Radiohead|Lotus Flower
+2011|62|Stonefield|Black Water Rising
+2011|63|Foo Fighters|Rope
+2011|64|Owl Eyes|Raiders
+2011|65|Kasabian|Re-Wired
+2011|66|Bon Iver|Perth
+2011|67|New Navy|Zimbabwe
+2011|68|Arctic Monkeys|Don't Sit Down 'Cause I've Moved Your Chair
+2011|69|Bon Iver|Calgary
+2011|70|Jebediah|She's Like a Comet
+2011|71|Luke Million|Arnold
+2011|72|Flight Facilities|Foreign Language {ft. Jess Higgs}
+2011|73|Skrillex|First of the Year (Equinox)
+2011|74|Drapht|Bali Party {ft. N'fa}
+2011|75|Example & Skream|Shot Yourself In the Foot Again
+2011|76|Redcoats|Dreamshaker
+2011|77|Metronomy|The Look
+2011|78|Husky|History's Door
+2011|79|SBTRKT|Wildfire {ft. Little Dragon}
+2011|80|Pnau|The Truth
+2011|81|Busby Marou|Biding My Time
+2011|82|Little Dragon|Ritual Union
+2011|83|The Kills|Future Starts Slow
+2011|84|360|Throw It Away {ft. Josh Pyke}
+2011|85|Cosmo Jarvis|Gay Pirates
+2011|86|Seeker Lover Keeper|Light All My Lights
+2011|87|Gotye|In Your Light
+2011|88|Bombay Bicycle Club|Shuffle
+2011|89|Beirut|Santa Fe
+2011|90|Beastie Boys|Make Some Noise
+2011|91|City and Colour|Fragile Bird
+2011|92|James Blake|The Wilhelm Scream
+2011|93|Kimbra|Two Way Street
+2011|94|The Wombats|Our Perfect Disease
+2011|95|Grouplove|Naked Kids
+2011|96|The Strokes|Machu Picchu
+2011|97|Foo Fighters|Arlandria
+2011|98|Jay-Z & Kanye West|Niggas in Paris
+2011|99|The Beards|You Should Consider Having Sex with a Bearded Man
+2011|100|Mr Little Jeans|The Suburbs
+2010|1|Angus & Julia Stone|Big Jet Plane
+2010|2|Little Red|Rock It
+2010|3|Ou Est Le Swimming Pool|Dance the Way I Feel
+2010|4|Birds of Tokyo|Plans
+2010|5|Boy & Bear|Fall at Your Feet
+2010|6|Adrian Lux|Teenage Crime
+2010|7|Cee-Lo Green|Fuck You!
+2010|8|The Wombats|Tokyo (Vampires & Wolves)
+2010|9|Art vs Science|Magic Fountain
+2010|10|Mark Ronson & The Business Intl.|Somebody to Love Me {ft. Boy George & Andrew Wyatt}
+2010|11|Pendulum|ABC News Theme Remix
+2010|12|Drapht|Rapunzel
+2010|13|Sia|Clap Your Hands
+2010|14|Kanye West|Runaway {ft. Pusha T}
+2010|15|Duck Sauce|Barbra Streisand
+2010|16|The Jezabels|Mace Spray
+2010|17|Mark Ronson & The Business Intl.|Bang Bang Bang {ft. Q-Tip & MNDR}
+2010|18|Cloud Control|There's Nothing in the Water We Can't Fight
+2010|19|Flight Facilities|Crave You {ft. Giselle}
+2010|20|Washington|Sunday Best
+2010|21|Two Door Cinema Club|Undercover Martyn
+2010|22|Children Collide|Jellylegs
+2010|23|Bliss n Eso|Addicted
+2010|24|Sparkadia|Talking Like I'm Falling Down Stairs
+2010|25|Gotye|Eyes Wide Open
+2010|26|Crystal Castles|Not in Love {ft. Robert Smith}
+2010|27|Dizzee Rascal & Florence and the Machine|You Got the Dirtee Love
+2010|28|Darwin Deez|Radar Detector
+2010|29|Illy|It Can Wait
+2010|30|Yeasayer|O.N.E.
+2010|31|The National|Bloodbuzz Ohio
+2010|32|Foster the People|Pumped Up Kicks
+2010|33|Tame Impala|Solitude Is Bliss
+2010|34|The Naked and Famous|Punching in a Dream
+2010|35|Mark Ronson & The Business Intl.|The Bike Song {ft. Kyle Falconer & Spank Rock}
+2010|36|Chiddy Bang|Opposite of Adults
+2010|37|Gorillaz|Doncamatic {ft. Daley}
+2010|38|The Naked and Famous|Young Blood
+2010|39|The John Butler Trio|Revolution
+2010|40|Gyroscope|Baby, I'm Gettin' Better
+2010|41|Bliss n Eso|Down by the River
+2010|42|Gorillaz|On Melancholy Hill
+2010|43|Yolanda Be Cool & DCUP|We No Speak Americano
+2010|44|Crystal Castles|Baptism
+2010|45|Boy & Bear|Rabbit Song
+2010|46|Bag Raiders|Way Back Home
+2010|47|Birds of Tokyo|Wild at Heart
+2010|48|Pendulum|Witchcraft
+2010|49|The Jezabels|Easy to Love
+2010|50|Hot Chip|One Life Stand
+2010|51|Yeasayer|Ambling Alp
+2010|52|The John Steel Singers|Overpass
+2010|53|Bliss n Eso|Reflections
+2010|54|Miami Horror|Holidays
+2010|55|Vampire Weekend|Giving Up the Gun
+2010|56|Sia|Bring Night
+2010|57|Example|Kickstarts
+2010|58|Arcade Fire|The Suburbs
+2010|59|Washington|Rich Kids
+2010|60|Children Collide|My Eagle
+2010|61|Ou Est Le Swimming Pool|Jackson's Last Stand
+2010|62|Angus & Julia Stone|Hold On
+2010|63|Arcade Fire|Ready to Start
+2010|64|Gypsy & the Cat|Jona Vark
+2010|65|Dead Letter Circus|One Step
+2010|66|Cold War Kids|Audience
+2010|67|Vampire Weekend|Holiday
+2010|68|Andy Bull|Dog {ft. Lisa Mitchell}
+2010|69|Pendulum|Watercolour
+2010|70|Groove Armada|Paper Romance
+2010|71|Gypsy & the Cat|The Piper's Song
+2010|72|Two Door Cinema Club|I Can Talk
+2010|73|Gypsy & the Cat|Time to Wander
+2010|74|Tame Impala|Lucidity
+2010|75|Hungry Kids of Hungary|Coming Around
+2010|76|Kings of Leon|Radioactive
+2010|77|Big Boi|Shutterbugg
+2010|78|Gorillaz|Stylo
+2010|79|Little Red|Slow Motion
+2010|80|The Black Keys|Howlin' for You
+2010|81|Klaxons|Echoes
+2010|82|The Black Keys|Tighten Up
+2010|83|Arcade Fire|Modern Man
+2010|84|Washington|The Hardest Part
+2010|85|Hot Chip|I Feel Better
+2010|86|Evil Eddie|Queensland
+2010|87|Birds of Tokyo|The Saddest Thing I Know
+2010|88|Kanye West|Monster {ft. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver}
+2010|89|Interpol|Barricade
+2010|90|Art vs Science|Finally See Our Way
+2010|91|The Bedroom Philosopher|Northcote (So Hungover)
+2010|92|LCD Soundsystem|I Can Change
+2010|93|The National|Anyone's Ghost
+2010|94|Xavier Rudd|Time to Smile
+2010|95|Broken Bells|The High Road
+2010|96|Jonsi|Go Do
+2010|97|Parkway Drive|Sleepwalker
+2010|98|Foals|Spanish Sahara
+2010|99|Dead Letter Circus|Big
+2010|100|Muse|Neutron Star Collision (Love Is Forever)
+All-time '09|1|Nirvana|Smells Like Teen Spirit
+All-time '09|2|Rage Against the Machine|Killing in the Name
+All-time '09|3|Jeff Buckley|Hallelujah
+All-time '09|4|Joy Division|Love Will Tear Us Apart
+All-time '09|5|Radiohead|Paranoid Android
+All-time '09|6|Queen|Bohemian Rhapsody
+All-time '09|7|Jeff Buckley|Last Goodbye
+All-time '09|8|Red Hot Chili Peppers|Under the Bridge
+All-time '09|9|Foo Fighters|Everlong
+All-time '09|10|Led Zeppelin|Stairway to Heaven
+All-time '09|11|John Lennon|Imagine
+All-time '09|12|Oasis|Wonderwall
+All-time '09|13|Radiohead|Creep
+All-time '09|14|The Verve|Bitter Sweet Symphony
+All-time '09|15|Radiohead|Karma Police
+All-time '09|16|Pink Floyd|Wish You Were Here
+All-time '09|17|Hilltop Hoods|The Nosebleed Section
+All-time '09|18|Muse|Knights of Cydonia
+All-time '09|19|Metallica|One
+All-time '09|20|The White Stripes|Seven Nation Army
+All-time '09|21|Powderfinger|These Days
+All-time '09|22|Massive Attack|Teardrop
+All-time '09|23|Hunters & Collectors|Throw Your Arms Around Me
+All-time '09|24|The Beatles|A Day in the Life
+All-time '09|25|Pearl Jam|Alive
+All-time '09|26|Michael Jackson|Thriller
+All-time '09|27|Powderfinger|My Happiness
+All-time '09|28|Radiohead|Fake Plastic Trees
+All-time '09|29|Pixies|Where Is My Mind?
+All-time '09|30|The Jimi Hendrix Experience|All Along the Watchtower
+All-time '09|31|Metallica|Enter Sandman
+All-time '09|32|New Order|Blue Monday
+All-time '09|33|Silverchair|Tomorrow
+All-time '09|34|The Living End|Prisoner of Society
+All-time '09|35|The Smashing Pumpkins|1979
+All-time '09|36|Nick Cave & The Bad Seeds|Into My Arms
+All-time '09|37|Tool|Stinkfist
+All-time '09|38|The Killers|Mr. Brightside
+All-time '09|39|Pearl Jam|Better Man
+All-time '09|40|Nirvana|Come as You Are
+All-time '09|41|Michael Jackson|Billie Jean
+All-time '09|42|Bloc Party|Banquet
+All-time '09|43|The Beach Boys|God Only Knows
+All-time '09|44|The Beatles|Hey Jude
+All-time '09|45|Queens of the Stone Age|No One Knows
+All-time '09|46|Faith No More|Epic
+All-time '09|47|The John Butler Trio|Betterman
+All-time '09|48|Beastie Boys|Sabotage
+All-time '09|49|Guns N' Roses|Sweet Child o' Mine
+All-time '09|50|Crowded House|Don't Dream It's Over
+All-time '09|51|The Smashing Pumpkins|Bullet with Butterfly Wings
+All-time '09|52|You Am I|Berlin Chair
+All-time '09|53|Pink Floyd|Comfortably Numb
+All-time '09|54|The Cure|Close to Me
+All-time '09|55|Bob Dylan|Like a Rolling Stone
+All-time '09|56|Jeff Buckley|Lover, You Should've Come Over
+All-time '09|57|Tool|Forty-Six & 2
+All-time '09|58|Daft Punk|Around the World
+All-time '09|59|Augie March|One Crowded Hour
+All-time '09|60|Johnny Cash|Hurt
+All-time '09|61|Blur|Song 2
+All-time '09|62|Nine Inch Nails|Closer
+All-time '09|63|AC/DC|Thunderstruck
+All-time '09|64|Violent Femmes|Blister in the Sun
+All-time '09|65|Underworld|Born Slippy .NUXX
+All-time '09|66|Elton John|Tiny Dancer
+All-time '09|67|Ben Folds Five|Brick
+All-time '09|68|Blink-182|Dammit (Growing Up)
+All-time '09|69|Jeff Buckley|Grace
+All-time '09|70|The Prodigy|Breathe
+All-time '09|71|The Smiths|How Soon Is Now?
+All-time '09|72|The Shins|New Slang
+All-time '09|73|The Clash|London Calling
+All-time '09|74|Nirvana|Lithium
+All-time '09|75|Green Day|Good Riddance (Time of Your Life)
+All-time '09|76|The Stone Roses|Fools Gold
+All-time '09|77|Gotye|Hearts a Mess
+All-time '09|78|The Smashing Pumpkins|Today
+All-time '09|79|David Bowie|Life on Mars?
+All-time '09|80|The Rolling Stones|Paint It, Black
+All-time '09|81|Pulp|Common People
+All-time '09|82|System of a Down|Chop Suey!
+All-time '09|83|Placebo|Every You Every Me
+All-time '09|84|Bob Marley & The Wailers|No Woman, No Cry
+All-time '09|85|The Dandy Warhols|Bohemian Like You
+All-time '09|86|The Beatles|Come Together
+All-time '09|87|Coldplay|Yellow
+All-time '09|88|The Rolling Stones|Gimme Shelter
+All-time '09|89|Rage Against the Machine|Bulls on Parade
+All-time '09|90|Kings of Leon|Sex on Fire
+All-time '09|91|AC/DC|Back in Black
+All-time '09|92|Bon Iver|Skinny Love
+All-time '09|93|Massive Attack|Unfinished Sympathy
+All-time '09|94|Modest Mouse|Float On
+All-time '09|95|Stevie Wonder|Superstition
+All-time '09|96|Daft Punk|One More Time
+All-time '09|97|Midnight Oil|Beds Are Burning
+All-time '09|98|Led Zeppelin|Kashmir
+All-time '09|99|TV on the Radio|Wolf Like Me
+All-time '09|100|Franz Ferdinand|Take Me Out
+2009|1|Mumford & Sons|Little Lion Man
+2009|2|Art vs Science|Parlez Vous Francais?
+2009|3|Hilltop Hoods|Chase That Feeling
+2009|4|Phoenix|Lisztomania
+2009|5|Bluejuice|Broken Leg
+2009|6|La Roux|Bulletproof
+2009|7|Lisa Mitchell|Coin Laundry
+2009|8|Lily Allen|Not Fair
+2009|9|Muse|Uprising
+2009|10|Florence and the Machine|Dog Days Are Over
+2009|11|Yeah Yeah Yeahs|Heads Will Roll
+2009|12|Dizzee Rascal and Armand Van Helden|Bonkers
+2009|13|Phoenix|1901
+2009|14|Jamie T|Sticks 'n' Stones
+2009|15|Edward Sharpe and the Magnetic Zeros|Home
+2009|16|Gossip|Heavy Cross
+2009|17|Kasabian|Fire
+2009|18|Bag Raiders|Shooting Stars
+2009|19|Muse|Undisclosed Desires
+2009|20|Passion Pit|Sleepyhead
+2009|21|The Temper Trap|Fader
+2009|22|Vampire Weekend|Cousins
+2009|23|The Bloody Beetroots|Warp 1.9 {ft. Steve Aoki}
+2009|24|Flight of the Conchords|Carol Brown
+2009|25|Yeah Yeah Yeahs|Zero
+2009|26|Metric|Help I'm Alive
+2009|27|La Roux|In for the Kill
+2009|28|Sarah Blasko|We Won't Run
+2009|29|Sarah Blasko|All I Want
+2009|30|Flight of the Conchords|Hurt Feelings
+2009|31|Seth Sentry|The Waitress Song
+2009|32|Paul Dempsey|Ramona Was a Waitress
+2009|33|Kid Cudi|Pursuit of Happiness {ft. MGMT & Ratatat}
+2009|34|Little Birdy|Brother
+2009|35|Muse|Resistance
+2009|36|Weezer|(If You're Wondering If I Want You To) I Want You To
+2009|37|Hilltop Hoods|Still Standing
+2009|38|Passion Pit|Little Secrets
+2009|39|The John Butler Trio|One Way Road
+2009|40|Angus & Julia Stone|And the Boys
+2009|41|Simian Mobile Disco|Audacity of Huge {ft. Chris Keating}
+2009|42|British India|Vanilla
+2009|43|The Bloody Beetroots|Awesome {ft. The Cool Kids}
+2009|44|Florence and the Machine|Rabbit Heart (Raise It Up)
+2009|45|Florence and the Machine|Drumming Song
+2009|46|Bon Iver|Blood Bank
+2009|47|Karnivool|Set Fire to the Hive
+2009|48|The Temper Trap|Science of Fear
+2009|49|Powderfinger|All of the Dreamers
+2009|50|Sia|Buttons {CSS Remix}
+2009|51|Kasabian|Where Did All the Love Go?
+2009|52|Vampire Weekend|Horchata
+2009|53|Miike Snow|Animal
+2009|54|Arctic Monkeys|Crying Lightning
+2009|55|Franz Ferdinand|No You Girls
+2009|56|The xx|Islands
+2009|57|Philadelphia Grand Jury|The Good News
+2009|58|The Temper Trap|Love Lost
+2009|59|Calvin Harris|I'm Not Alone
+2009|60|Lily Allen|22
+2009|61|Grizzly Bear|Two Weeks
+2009|62|Bloc Party|One More Chance
+2009|63|Karnivool|All I Know
+2009|64|The Middle East|Blood
+2009|65|Eskimo Joe|Foreign Land
+2009|66|Illy|Pictures
+2009|67|Washington|Cement
+2009|68|The Prodigy|Omen
+2009|69|Death Cab for Cutie|Meet Me on the Equinox
+2009|70|Animal Collective|My Girls
+2009|71|Bertie Blackman|Byrds of Prey
+2009|72|Sia|You've Changed
+2009|73|MSTRKRFT|Heartbreaker {ft. John Legend}
+2009|74|Art vs Science|Friend in the Field
+2009|75|Wolfmother|New Moon Rising
+2009|76|Julian Casablancas|11th Dimension
+2009|77|Jet|She's a Genius
+2009|78|Tame Impala|Remember Me
+2009|79|Yves Klein Blue|Getting Wise
+2009|80|Dizzee Rascal|Holiday
+2009|81|Mumford & Sons|The Cave
+2009|82|Miami Horror|Sometimes
+2009|83|Basement Jaxx|Raindrops
+2009|84|Muse|United States of Eurasia
+2009|85|Kasabian|Underdog
+2009|86|Flight of the Conchords|Too Many Dicks (On the Dance Floor)
+2009|87|The Middle East|The Darkest Side
+2009|88|NOFX|Creeping Out Sara
+2009|89|Jay-Z|D.O.A. (Death of Auto-Tune)
+2009|90|Florence and the Machine|Kiss with a Fist
+2009|91|Manchester Orchestra|I've Got Friends
+2009|92|Friendly Fires|Skeleton Boy
+2009|93|Bertie Blackman|Thump
+2009|94|Regina Spektor|Blue Lips
+2009|95|Silversun Pickups|Panic Switch
+2009|96|Deadmau5|Ghosts N Stuff
+2009|97|Regina Spektor|Laughing With
+2009|98|Them Crooked Vultures|New Fang
+2009|99|Tegan and Sara|Hell
+2009|100|Foo Fighters|Wheels
+2008|1|Kings of Leon|Sex on Fire
+2008|2|MGMT|Electric Feel
+2008|3|Kings of Leon|Use Somebody
+2008|4|Empire of the Sun|Walking on a Dream
+2008|5|MGMT|Kids
+2008|6|The Presets|Talk Like That
+2008|7|Pez|The Festival Song {ft. 360 & Hailey Cramer}
+2008|8|The Presets|This Boy's in Love
+2008|9|The Ting Tings|That's Not My Name
+2008|10|Drapht|Jimmy Recard
+2008|11|Ladyhawke|My Delirium
+2008|12|Pnau|Embrace {ft. Ladyhawke}
+2008|13|The Herd|The King Is Dead
+2008|14|The Rapture|No Sex for Ben
+2008|15|Cut Copy|Lights & Music
+2008|16|Ben Folds|You Don't Know Me {ft. Regina Spektor}
+2008|17|Dizzee Rascal|Dance Wiv Me {ft. Calvin Harris & Chrome}
+2008|18|MGMT|Time to Pretend
+2008|19|Flight of the Conchords|Business Time
+2008|20|Birds of Tokyo|Broken Bones
+2008|21|Bon Iver|Skinny Love
+2008|22|Birds of Tokyo|Silhouettic
+2008|23|The Living End|White Noise
+2008|24|Kings of Leon|Closer
+2008|25|Kaiser Chiefs|Never Miss a Beat
+2008|26|Ladyhawke|Paris Is Burning
+2008|27|Josh Pyke|The Lighthouse Song
+2008|28|Architecture in Helsinki|That Beep
+2008|29|Josh Pyke|Make You Happy
+2008|30|Vampire Weekend|Oxford Comma
+2008|31|Cog|Bird of Feather
+2008|32|Vampire Weekend|A-Punk
+2008|33|The Kooks|Always Where I Need to Be
+2008|34|The Grates|Burn Bridges
+2008|35|Nick Cave & The Bad Seeds|Dig, Lazarus, Dig!!!
+2008|36|Death Cab For Cutie|I Will Possess Your Heart
+2008|37|British India|I Said I'm Sorry
+2008|38|Cold War Kids|Something Is Not Right With Me
+2008|39|Ida Maria|I Like You So Much Better When You're Naked
+2008|40|Bliss n Eso|Eye of the Storm
+2008|41|Soko|I Will Never Love You More
+2008|42|Emiliana Torrini|Jungle Drum
+2008|43|Laura Marling|Ghosts
+2008|44|Art vs Science|Flippers
+2008|45|Muscles|Ice Cream {Triple J live acoustic version}
+2008|46|Lily Allen|The Fear
+2008|47|Little Red|Coca Cola
+2008|48|Something With Numbers|Stay With Me Bright Eyes
+2008|49|Mystery Jets|Young Love
+2008|50|Ash Grunwald|Breakout
+2008|51|Birds of Tokyo|Wild Eyed Boy
+2008|52|The Killers|Human
+2008|53|The Butterfly Effect|Window and the Watcher
+2008|54|Pnau|Baby
+2008|55|Ween|Your Party
+2008|56|The Presets|Yippiyo-Ay
+2008|57|Santogold|L.E.S. Artistes
+2008|58|Vampire Weekend|Cape Cod Kwassa Kwassa
+2008|59|The Getaway Plan|Where the City Meets the Sea
+2008|60|Flight of the Conchords|Most Beautiful Girl in the Room
+2008|61|Bliss n Eso|The Sea is Rising
+2008|62|Faker|Sleepwalking
+2008|63|The Herd|2020
+2008|64|Does It Offend You, Yeah?|Dawn of the Dead
+2008|65|Fleet Foxes|White Winter Hymnal
+2008|66|Children Collide|Farewell Rocketship
+2008|67|Flight of the Conchords|Hiphopopotamus vs. Rhymenoceros
+2008|68|Empire of the Sun|We Are the People
+2008|69|Hot Chip|Ready for the Floor
+2008|70|Kings of Leon|Crawl
+2008|71|Vampire Weekend|One (Blake's Got a New Face)
+2008|72|Band of Horses|No One's Gonna Love You
+2008|73|The Killers|Spaceman
+2008|74|Black Kids|I'm Not Gonna Teach Your Boyfriend How To Dance With You
+2008|75|Tame Impala|Half Full Glass of Wine
+2008|76|Yves Klein Blue|Polka
+2008|77|Drapht|Falling
+2008|78|The Ting Tings|Shut Up and Let Me Go
+2008|79|Sparkadia|Jealousy
+2008|80|The Grates|Aw Yeah
+2008|81|Weezer|Pork and Beans
+2008|82|Franz Ferdinand|Ulysses
+2008|83|The Grates|Carve Your Name
+2008|84|Rise Against|Re-Education (Through Labor)
+2008|85|Gyroscope|1981
+2008|86|Muph & Plutonic|Beautiful Ugly
+2008|87|Jack White and Alicia Keys|Another Way to Die
+2008|88|Metallica|The Day That Never Comes
+2008|89|Kanye West|Love Lockdown
+2008|90|Lily Allen|Fuck You
+2008|91|Lisa Mitchell|Neopolitan Dreams
+2008|92|Pendulum|Propane Nightmares
+2008|93|Sigur Ros|Gobbledigook
+2008|94|Bliss n Eso|Woodstock 2008
+2008|95|Wiley|Wearing My Rolex
+2008|96|Dizzee Rascal|Flex {Dave Spoon Reflex}
+2008|97|Cog|Are You Interested?
+2008|98|Lyrics Born|I Like It, I Love It
+2008|99|Muph & Plutonic|Don't Worry About Nothin'
+2008|100|Dukes of Windsor|It's A War
+2007|1|Muse|Knights of Cydonia
+2007|2|Silverchair|Straight Lines
+2007|3|Kings of Leon|On Call
+2007|4|The John Butler Trio|Better Than
+2007|5|Faker|This Heart Attack
+2007|6|Foo Fighters|The Pretender
+2007|7|Daft Punk|Harder, Better, Faster, Stronger {Alive 2007}
+2007|8|Cold War Kids|Hang Me Up to Dry
+2007|9|Soko|I'll Kill Her
+2007|10|The Panics|Don't Fight It
+2007|11|Bluejuice|Vitriol
+2007|12|The Wombats|Let's Dance to Joy Division
+2007|13|Kaiser Chiefs|Ruby
+2007|14|Muscles|Ice Cream
+2007|15|Powderfinger|Lost and Running
+2007|16|Gyroscope|Snakeskin
+2007|17|M.I.A|Paper Planes
+2007|18|The Presets|My People
+2007|19|Architecture in Helsinki|Heart It Races
+2007|20|Kanye West|Stronger
+2007|21|The Chemical Brothers|The Salmon Dance
+2007|22|The John Butler Trio|Used To Get High
+2007|23|The White Stripes|Icky Thump
+2007|24|Bloc Party|Hunting For Witches
+2007|25|Urthboy|We Get Around
+2007|26|Hilltop Hoods|Recapturing The Vibe (Restrung)
+2007|27|Operator Please|Just a Song About Ping Pong
+2007|28|Silversun Pickups|Lazy Eye
+2007|29|Regina Spektor|Real Love {Like A Version}
+2007|30|Silverchair|If You Keep Losing Sleep
+2007|31|Angus and Julia Stone|Wasted
+2007|32|Kisschasy|Opinions Won't Keep You Warm at Night
+2007|33|Kings of Leon|Fans
+2007|34|Feist|1234
+2007|35|Justice|D.A.N.C.E.
+2007|36|Architecture in Helsinki|Hold Music
+2007|37|Cold War Kids|Hospital Beds
+2007|38|The Beautiful Girls|I Thought About You
+2007|39|Cut Copy|Hearts on Fire
+2007|40|Bloc Party|I Still Remember
+2007|41|Modest Mouse|Dashboard
+2007|42|Tegan and Sara|Back In Your Head
+2007|43|Lupe Fiasco|Superstar
+2007|44|My Chemical Romance|Teenagers
+2007|45|Angus and Julia Stone|The Beast
+2007|46|British India|Tie Up My Hands
+2007|47|Cog|What If
+2007|48|Bloc Party|Flux
+2007|49|Arctic Monkeys|Fluorescent Adolescent
+2007|50|The Cat Empire|So Many Nights
+2007|51|Missy Higgins|Peachy
+2007|52|Kisschasy|Spray on Pants
+2007|53|Missy Higgins|Steer
+2007|54|Klaxons|Golden Skans
+2007|55|The John Butler Trio|Good Excuse
+2007|56|Xavier Rudd|Better People
+2007|57|Midnight Juggernauts|Into the Galaxy
+2007|58|Muse|Invincible
+2007|59|The Fratellis|Chelsea Dagger
+2007|60|Kings of Leon|Charmer
+2007|61|Birds of Tokyo|Wayside
+2007|62|The Cat Empire|No Longer There
+2007|63|Karnivool|The Only Way {Gotye cover}
+2007|64|The Shins|Australia
+2007|65|Editors|Smokers Outside the Hospital Doors
+2007|66|Powderfinger|I Don't Remember
+2007|67|Amy Winehouse|Rehab {Jay-Z Remix}
+2007|68|Ben Kweller|Penny on the Train Track
+2007|69|Digitalism|Pogo
+2007|70|Tegan and Sara|The Con
+2007|71|The Butterfly Effect|Reach
+2007|72|Jose Gonzalez|Down the Line
+2007|73|Grinspoon|Black Tattoo
+2007|74|British India|Run the Red Light
+2007|75|Kasabian|Shoot the Runner
+2007|76|Muscles|Sweaty
+2007|77|Operator Please|Get What You Want
+2007|78|Arctic Monkeys|Brianstorm
+2007|79|Josh Pyke|Lines On Palms
+2007|80|Silverchair|Reflections of a Sound
+2007|81|Arcade Fire|No Cars Go
+2007|82|Foo Fighters|Long Road to Ruin
+2007|83|Wolfmother|Pleased to Meet You
+2007|84|The Chemical Brothers|Do It Again
+2007|85|Yeah Yeah Yeahs|Down Boy
+2007|86|Midnight Juggernauts|Tombstone
+2007|87|Jackson Jackson|Eliza
+2007|88|The Cops|The Message
+2007|89|Queens of the Stone Age|Sick, Sick, Sick
+2007|90|Clare Bowditch and the Feeding Set|When the Lights Went Down
+2007|91|Josh Pyke|Sew My Name
+2007|92|The Waifs|Sun Dirt Water
+2007|93|The Bumblebeez|Dr. Love
+2007|94|Radiohead|Jigsaw Falling Into Place
+2007|95|Regina Spektor|Samson
+2007|96|Ben Lee|Love Me Like the World Is Ending
+2007|97|Josh Pyke|Forever Song
+2007|98|Interpol|The Heinrich Maneuver
+2007|99|The Hives|Tick Tick Boom
+2007|100|Pnau|Wild Strawberries
+2006|1|Augie March|One Crowded Hour
+2006|2|Eskimo Joe|Black Fingernails, Red Wine
+2006|3|Hilltop Hoods|The Hard Road
+2006|4|The Killers|When You Were Young
+2006|5|Scissor Sisters|I Don't Feel Like Dancin'
+2006|6|Gnarls Barkley|Crazy
+2006|7|Snow Patrol|Chasing Cars
+2006|8|Gotye|Hearts a Mess
+2006|9|Muse|Starlight
+2006|10|The Grates|19-20-20
+2006|11|Little Birdy|Come On, Come On
+2006|12|The John Butler Trio|Funky Tonight
+2006|13|My Chemical Romance|Welcome to the Black Parade
+2006|14|OK Go|Here It Goes Again
+2006|15|Lily Allen|Smile
+2006|16|Peter Bjorn and John|Young Folks
+2006|17|The Grates|Science is Golden
+2006|18|Muse|Supermassive Black Hole
+2006|19|Lupe Fiasco|Kick, Push
+2006|20|Regina Spektor|Fidelity
+2006|21|Youth Group|Forever Young
+2006|22|Tool|Vicarious
+2006|23|Hilltop Hoods|Clown Prince
+2006|24|Yeah Yeah Yeahs|Gold Lion
+2006|25|Placebo|Meds
+2006|26|Camille|Ta Douleur
+2006|27|The Strokes|You Only Live Once
+2006|28|The Saboteurs|Steady, As She Goes
+2006|29|Tool|The Pot
+2006|30|Arctic Monkeys|When the Sun Goes Down
+2006|31|The Killers|Bones
+2006|32|The Butterfly Effect|Gone
+2006|33|The Cops|Call Me Anytime
+2006|34|Red Hot Chili Peppers|Dani California
+2006|35|Lily Allen|LDN
+2006|36|Bob Evans|Nowhere Without You
+2006|37|Bob Evans|Don't You Think It's Time
+2006|38|Josh Pyke|Memories and Dust
+2006|39|The Butterfly Effect|A Slow Descent
+2006|40|Basement Jaxx|Take Me Back to Your House
+2006|41|Hilltop Hoods|What a Great Night
+2006|42|The Grates|Inside Outside
+2006|43|Angus and Julia Stone|Paper Aeroplane
+2006|44|Lady Sovereign|Love Me or Hate Me
+2006|45|Karnivool|Roquefort {ft. The Cat Empire}
+2006|46|AFI|Miss Murder
+2006|47|Pony Up!|The Truth About Cats & Dogs (Is That They Die)
+2006|48|Regina Spektor|On the Radio
+2006|49|Arctic Monkeys|Fake Tales of San Francisco
+2006|50|The Strokes|Heart in a Cage
+2006|51|Something for Kate|Cigarettes and Suitcases
+2006|52|The Herd|Unpredictable
+2006|53|The Living End|Wake Up
+2006|54|Eagles of Death Metal|I Want You So Hard (Boy's Bad News)
+2006|55|Wolfmother|Woman {MSTRKRFT Remix}
+2006|56|Hilltop Hoods|Stopping All Stations
+2006|57|Josh Pyke|Private Education
+2006|58|Sarah Blasko|Always On This Line
+2006|59|Placebo|Song to Say Goodbye
+2006|60|Hot Chip|Over and Over
+2006|61|Foo Fighters|Everlong {Acoustic Live}
+2006|62|Justice Vs Simian|We Are Your Friends
+2006|63|TV on the Radio|Wolf Like Me
+2006|64|Something With Numbers|Apple of the Eye (Lay Me Down)
+2006|65|Bloc Party|The Prayer
+2006|66|Yeah Yeah Yeahs|Phenomena
+2006|67|AFI|Love Like Winter
+2006|68|Darren Hanlon|Happiness Is A Chemical
+2006|69|Beck|Nausea
+2006|70|Ben Folds|Such Great Heights
+2006|71|The Grates|Lies Are Much More Fun
+2006|72|Jet|Put Your Money Where Your Mouth Is
+2006|73|Matisyahu|King Without a Crown
+2006|74|Snow Patrol|Hands Open
+2006|75|Ben Kweller|Sundress
+2006|76|Jet|Rip It Up
+2006|77|Hilltop Hoods|Recapturing The Vibe
+2006|78|Placebo|Infra-red
+2006|79|Sarah Blasko|Explain
+2006|80|Wolfmother|Love Train
+2006|81|Gnarls Barkley|Gone Daddy Gone
+2006|82|Freestylers/Pendulum|Painkiller
+2006|83|Butterfingers|Get Up Outta The Dirt
+2006|84|Thom Yorke|Black Swan
+2006|85|Infadels|Love Like Semtex
+2006|86|Kanye West|Touch the Sky {ft. Lupe Fiasco}
+2006|87|Ben Harper|Better Way
+2006|88|Pendulum|Tarantula
+2006|89|Arctic Monkeys|Mardy Bum
+2006|90|Jurassic 5|Work It Out {ft. Dave Matthews Band}
+2006|91|Panic! at the Disco|The Only Difference Between Martyrdom and Suicide Is Press Coverage
+2006|92|Lily Allen|Alfie
+2006|93|Lily Allen|Everything's Just Wonderful
+2006|94|Gotye|Learnalilgivinanlovin
+2006|95|Eskimo Joe|New York
+2006|96|Red Riders|Slide In Next To Me
+2006|97|Pearl Jam|World Wide Suicide
+2006|98|The Gossip|Standing In The Way Of Control
+2006|99|Audioslave|Original Fire
+2006|100|Blue King Brown|Come And Check Your Head
+2005|1|Bernard Fanning|Wish You Well
+2005|2|Ben Lee|Catch My Disease
+2005|3|Gorillaz|Feel Good Inc.
+2005|4|Foo Fighters|Best of You
+2005|5|Gorillaz|DARE
+2005|6|Wolfmother|Mind's Eye
+2005|7|The White Stripes|My Doorbell
+2005|8|End of Fashion|O Yeah
+2005|9|Wolfmother|Joker and the Thief
+2005|10|Franz Ferdinand|Do You Want To
+2005|11|Butterfingers|Figjam (Fuck I'm Good, Just Ask Me)
+2005|12|Datarock|Computer Camp Love
+2005|13|Kanye West|Gold Digger
+2005|14|Bernard Fanning|Songbird
+2005|15|Sarah Blasko|Flame Trees
+2005|16|Wolfmother|Apple Tree
+2005|17|The White Stripes|Blue Orchid
+2005|18|The Herd|I Was Only 19
+2005|19|Josh Pyke|Middle Of The Hill
+2005|20|Foo Fighters|DOA
+2005|21|Faker|Hurricane
+2005|22|Kisschasy|Do-Do's & Whoa-Oh's
+2005|23|Bloc Party|Two More Years
+2005|24|The Bloodhound Gang|Foxtrot Uniform Charlie Kilo
+2005|25|The Cat Empire|The Car Song
+2005|26|Coldplay|Fix You
+2005|27|System of a Down|B.Y.O.B.
+2005|28|Kaiser Chiefs|Everyday I Love You Less And Less
+2005|29|Gyroscope|Fast Girl
+2005|30|After The Fall|Concrete Boots
+2005|31|Missy Higgins|The Special Two
+2005|32|Cog|My Enemy
+2005|33|The Butterfly Effect|Phoenix
+2005|34|Kaiser Chiefs|I Predict a Riot
+2005|35|Beck|Girl
+2005|36|Coldplay|Speed of Sound
+2005|37|Wolfmother|Dimension
+2005|38|The Cat Empire|Sly
+2005|39|Wolfmother|Colossal
+2005|40|Bloc Party|Helicopter
+2005|41|Gorillaz|Dirty Harry
+2005|42|Grinspoon|Sweet as Sugar
+2005|43|Lior|Autumn Flow
+2005|44|Emiliana Torrini|Sunny Road
+2005|45|Bloc Party|Positive Tension
+2005|46|The Strokes|Juicebox
+2005|47|Missy Higgins|Stuff and Nonsense
+2005|48|The Bravery|An Honest Mistake
+2005|49|The Living End|What's on Your Radio
+2005|50|Arctic Monkeys|I Bet You Look Good on the Dancefloor
+2005|51|Audioslave|Be Yourself
+2005|52|DVDA (from Team America: World Police)|America, Fuck Yeah
+2005|53|Ben Lee|We're All In This Together
+2005|54|The Cat Empire|Two Shoes
+2005|55|Ben Folds|Landed
+2005|56|Architecture in Helsinki|It'5!
+2005|57|System of a Down|Radio/Video
+2005|58|Queens of the Stone Age|Little Sister
+2005|59|Martha Wainwright|Bloody Mother Fucking Asshole
+2005|60|The Dandy Warhols|All the Money or the Simple Life Honey
+2005|61|Green Day|Jesus of Suburbia
+2005|62|Gyroscope|Beware Wolf
+2005|63|Clare Bowditch|Divorcee By 23
+2005|64|Jack Johnson|Sitting, Waiting, Wishing
+2005|65|Sarah Blasko|Always Worth It
+2005|66|Ween|Gabrielle
+2005|67|The White Stripes|The Denial Twist
+2005|68|The Beautiful Girls|Ashes
+2005|69|Butterfingers|Jesus I Was Evil
+2005|70|The Mountain Goats|This Year
+2005|71|Cog|Run
+2005|72|The Bedroom Philosopher|I'm So Postmodern
+2005|73|Jack Johnson|Better Together
+2005|74|Missy Higgins|The Sound Of White
+2005|75|Beck|Que Onda Guero
+2005|76|System of a Down|Hypnotize
+2005|77|Bright Eyes|First Day of My Life
+2005|78|After The Fall|The Fighter
+2005|79|Babyshambles|Fuck Forever
+2005|80|The Chemical Brothers|Believe
+2005|81|The Beautiful Girls|Let's Take the Long Way Home
+2005|82|The Dandy Warhols|Smoke It
+2005|83|Scissor Sisters|Filthy/Gorgeous
+2005|84|Wolfmother|White Unicorn
+2005|85|Epicure|Tightrope Walker
+2005|86|Ben Lee|Into the Dark
+2005|87|The Herd|We Can't Hear You
+2005|88|Bloc Party|Like Eating Glass
+2005|89|Ben Folds|Bastard
+2005|90|Franz Ferdinand|Walk Away
+2005|91|Emiliana Torrini|Heartstopper
+2005|92|Xavier Rudd|Messages
+2005|93|Franz Ferdinand|The Fallen
+2005|94|Clare Bowditch|On This Side
+2005|95|Kisschasy|Face Without a Name
+2005|96|Little Birdy|Six Months in a Leaky Boat
+2005|97|Karnivool|Themata
+2005|98|Garbage|Why Do You Love Me
+2005|99|The Wrights|Evie Pt. 1
+2005|100|The Cat Empire|Party Started
+2004|1|Franz Ferdinand|Take Me Out
+2004|2|Missy Higgins|Scar
+2004|3|Eskimo Joe|From the Sea
+2004|4|The Killers|Somebody Told Me
+2004|5|Spiderbait|Black Betty
+2004|6|Missy Higgins|Ten Days
+2004|7|John Butler Trio|Somethings Gotta Give
+2004|8|Little Birdy|Beautiful to Me
+2004|9|Powderfinger|Bless My Soul
+2004|10|The White Stripes|Jolene {Live}
+2004|11|Modest Mouse|Float On
+2004|12|The Dresden Dolls|Coin-Operated Boy
+2004|13|The Killers|Mr. Brightside
+2004|14|Evermore|It's Too Late
+2004|15|Ben Lee|Gamble Everything for Love
+2004|16|Grinspoon|Hard Act to Follow
+2004|17|Butterfingers|Yo Mama
+2004|18|The Streets|Fit But You Know It
+2004|19|The Streets|Dry Your Eyes
+2004|20|Spiderbait|Fucken Awesome
+2004|21|William Shatner|Common People
+2004|22|Green Day|American Idiot
+2004|23|Scissor Sisters|Take Your Mama
+2004|24|Jet|Look What You've Done
+2004|25|John Butler Trio|Treat Yo' Mama
+2004|26|Grinspoon|Better Off Alone
+2004|27|Sarah Blasko|Don't U Eva
+2004|28|Beastie Boys|Ch-Check It Out
+2004|29|Franz Ferdinand|This Fire
+2004|30|The Dresden Dolls|Girl Anachronism
+2004|31|Kings of Leon|The Bucket
+2004|32|Eskimo Joe|Older Than You
+2004|33|The Bees|Chicken Payback
+2004|34|Machine Gun Fellatio|What the Fuck?
+2004|35|Scribe|Not Many - The Remix!
+2004|36|Jeff Buckley|Forget Her
+2004|37|Ben Folds|Adelaide
+2004|38|U2|Vertigo
+2004|39|The Killers|Smile Like You Mean It
+2004|40|Little Birdy|This is a Love Song
+2004|41|Faithless|Mass Destruction
+2004|42|Lior|This Old Love
+2004|43|Dogs Die in Hot Cars|Godhopping
+2004|44|Scissor Sisters|Take Me Out {Franz Ferdinand cover}
+2004|45|Wolfmother|Woman
+2004|46|Rammstein|Amerika
+2004|47|The Living End|I Can't Give You What I Haven't Got
+2004|48|Elliott Smith|Memory Lane
+2004|49|Missy Higgins|Casualty
+2004|50|Franz Ferdinand|The Dark of the Matinee
+2004|51|John Butler Trio|What You Want
+2004|52|Regurgitator|My Friend Robot
+2004|53|Placebo|English Summer Rain
+2004|54|The Waifs|Bridal Train
+2004|55|The Hives|Walk Idiot Walk
+2004|56|Xavier Rudd|Shelter
+2004|57|Evermore|For One Day
+2004|58|Scissor Sisters|Laura
+2004|59|Xavier Rudd|Solace
+2004|60|Your Wedding Night|Lachlan
+2004|61|Deep Dish|Flash Dance
+2004|62|Eskimo Joe|Smoke
+2004|63|N.E.R.D.|She Wants to Move
+2004|64|Epicure|Self Destruct in 5
+2004|65|Chemical Brothers|Galvanize
+2004|66|Devendra Banhart|Little Yellow Spider
+2004|67|The Black Keys|10am Automatic
+2004|68|Powderfinger|Process This
+2004|69|The Freestylers|Push Up
+2004|70|Starsailor|Four to the Floor {Thin White Duke Remix}
+2004|71|The Von Bondies|C'mon C'mon
+2004|72|The Polyphonic Spree|Hold Me Now
+2004|73|The Panda Band|Sleepy Little Deathtoll Town
+2004|74|Interpol|Slow Hands
+2004|75|The Spazzys|Paco Doesn't Love Me
+2004|76|Interpol|Evil
+2004|77|Snow Patrol|Run
+2004|78|Little Birdy|Tonight's the Night
+2004|79|Dallas Crane|Dirty Hearts
+2004|80|The Dissociatives|Young Man Old Man
+2004|81|End of Fashion|Rough Diamonds
+2004|82|Mylo|Drop the Pressure
+2004|83|Dallas Crane|Numb All Over
+2004|84|Dogs Die in Hot Cars|I Love You Because I Have To
+2004|85|Regurgitator|The Drop
+2004|86|The Unicorns|I Was Born (A Unicorn)
+2004|87|Sia|Breathe Me
+2004|88|A Perfect Circle|Imagine
+2004|89|Jet|Get What You Need
+2004|90|The Greenskeepers|Lotion
+2004|91|Decoder Ring|Somersault
+2004|92|Scissor Sisters|Comfortably Numb
+2004|93|John Butler Trio|Hello
+2004|94|The Vines|Ride
+2004|95|Placebo|Twenty Years
+2004|96|After the Fall|Mirror Mirror
+2004|97|Gyroscope|Safe Forever
+2004|98|Gomez|Catch Me Up
+2004|99|The Butterfly Effect|Always
+2004|100|Fabienne Delsol|I'm Gonna Haunt You
+2003|1|Jet|Are You Gonna Be My Girl?
+2003|2|OutKast|Hey Ya!
+2003|3|The White Stripes|Seven Nation Army
+2003|4|Powderfinger|(Baby I've Got You) On My Mind
+2003|5|Coldplay|Clocks {Royksopp Remix}
+2003|6|The Cat Empire|Hello
+2003|7|Powderfinger|Sunsets
+2003|8|The John Butler Trio|Zebra
+2003|9|Hilltop Hoods|The Nosebleed Section
+2003|10|Powderfinger|Love Your Way
+2003|11|Something for Kate|Deja Vu
+2003|12|The Waifs|Lighthouse
+2003|13|The Dandy Warhols|We Used to Be Friends
+2003|14|The White Stripes|The Hardest Button to Button
+2003|15|Butterfingers|I Love Work
+2003|16|Little Birdy|Relapse
+2003|17|Jack Johnson|Taylor
+2003|18|Ben Harper|Diamonds on the Inside
+2003|19|Jet|Rollover DJ
+2003|20|Pete Murray|Feeler
+2003|21|Epicure|Armies Against Me
+2003|22|Red Hot Chili Peppers|Fortune Faded
+2003|23|The Living End|Who's Gonna Save Us?
+2003|24|Jack Johnson|The Horizon Has Been Defeated
+2003|25|Little Birdy|Baby Blue
+2003|26|Frenzal Rhomb|Russell Crowe's Band
+2003|27|Ben Folds|There's Always Someone Cooler Than You
+2003|28|Electric Six|Danger! High Voltage
+2003|29|Ben Harper|With My Own Two Hands
+2003|30|Placebo|The Bitter End
+2003|31|Muse|Time Is Running Out
+2003|32|The Dandy Warhols|You Were The Last High
+2003|33|Electric Six|Gay Bar
+2003|34|Michael Franti and Spearhead|Everyone Deserves Music
+2003|35|Magic Dirt|Plastic Loveless Letter
+2003|36|Jane's Addiction|Just Because
+2003|37|The Cat Empire|Days Like These
+2003|38|Butterfingers|Everytime
+2003|39|Alex Lloyd|Coming Home
+2003|40|Jack Johnson|Times Like These
+2003|41|The Beautiful Girls|Black Bird
+2003|42|Muse|Stockholm Syndrome
+2003|43|The Strokes|12:51
+2003|44|Hilltop Hoods|Dumb Enough
+2003|45|A Perfect Circle|Weak and Powerless
+2003|46|The Herd|77%
+2003|47|Michael Franti and Spearhead|Bomb The World
+2003|48|Radiohead|There There
+2003|49|Radiohead|2 + 2 = 5
+2003|50|The Waifs|Fisherman's Daughter
+2003|51|The John Butler Trio|Sista (Live)
+2003|52|The Bens|Just Pretend
+2003|53|Blink-182|Feeling This
+2003|54|Xavier Rudd|Let Me Be
+2003|55|Missy Higgins|Greed For Your Love
+2003|56|NOFX|Franco Un-American
+2003|57|Missy Elliott|Work It
+2003|58|AFI|The Leaving Song, Pt. II
+2003|59|Gus and Frank|So Entertaining
+2003|60|Magic Dirt|Watch Out Boys
+2003|61|Metallica|St. Anger
+2003|62|The Beautiful Girls|Music
+2003|63|Something for Kate|Song For A Sleepwalker
+2003|64|Belle and Sebastian|Step into My Office, Baby
+2003|65|Andromeda|Something White And Sigmund
+2003|66|The Living End|Tabloid Magazine
+2003|67|Amiel|Lovesong
+2003|68|The Butterfly Effect|1 Second Of Insanity
+2003|69|Muse|Hysteria
+2003|70|A Perfect Circle|The Outsider
+2003|71|AFI|Girl's Not Grey
+2003|72|Placebo|Running Up That Hill
+2003|73|Epicure|Life Sentence
+2003|74|Cody ChesnuTT|Look Good In Leather
+2003|75|The Roots|The Seed (2.0) {ft. Cody ChesnuTT}
+2003|76|Powderfinger|Rockin' Rocks
+2003|77|Powderfinger|Stumblin'
+2003|78|Gerling|Who's Ya Daddy?
+2003|79|Kelis|Milkshake
+2003|80|Benny Benassi Presents The Biz|Satisfaction
+2003|81|The Chemical Brothers|The Golden Path {ft. The Flaming Lips}
+2003|82|Basement Jaxx|Good Luck {ft. Lisa Kekaula}
+2003|83|The Strokes|Reptilia
+2003|84|Chicks On Speed|We Don't Play Guitars {ft. Peaches}
+2003|85|Missy Elliott|Pass That Dutch
+2003|86|Pete Murray|Lines
+2003|87|Junior Senior|Move Your Feet
+2003|88|Machine Gun Fellatio|Voices In My Head
+2003|89|The White Stripes|Girl, You Have No Faith In Medicine
+2003|90|Offcutts|Break It (Down James Brown)
+2003|91|The Sleepy Jackson|Vampire Racecourse
+2003|92|Gyroscope|Doctor, Doctor
+2003|93|The White Stripes|I Just Don't Know What to Do with Myself
+2003|94|The White Stripes|In The Cold, Cold Night
+2003|95|Placebo|Special Needs
+2003|96|Soggy Bottom Boys|Man of Constant Sorrow {Skeewiff Remix}
+2003|97|The Darkness|Growing On Me
+2003|98|Blur|Out of Time
+2003|99|The Mars Volta|Inertiatic ESP
+2003|100|The Cat Empire|The Chariot
+2002|1|Queens of the Stone Age|No One Knows
+2002|2|Grinspoon|Chemical Heart
+2002|3|The Waifs|London Still
+2002|4|1200 Techniques|Karma
+2002|5|The Vines|Get Free
+2002|6|Machine Gun Fellatio|Rollercoaster
+2002|7|Eminem|Lose Yourself
+2002|8|Machine Gun Fellatio|Pussytown
+2002|9|Red Hot Chili Peppers|By the Way
+2002|10|Silverchair|The Greatest View
+2002|11|Foo Fighters|The One
+2002|12|Nirvana|You Know You're Right
+2002|13|Foo Fighters|All My Life
+2002|14|Grinspoon|Lost Control
+2002|15|Grinspoon|No Reason
+2002|16|Red Hot Chili Peppers|The Zephyr Song
+2002|17|Eminem|Without Me
+2002|18|System of a Down|Toxicity
+2002|19|The Vines|Highly Evolved
+2002|20|Audioslave|Cochise
+2002|21|The Vines|Outtathaway!!
+2002|22|Ben Lee|Something Borrowed, Something Blue
+2002|23|Foo Fighters|Times Like These
+2002|24|Weezer|Keep Fishin'
+2002|25|Silverchair|Without You
+2002|26|Salmon Hater|6.66
+2002|27|John Butler Trio|Home Is Where the Heart Is
+2002|28|Pearl Jam|I Am Mine
+2002|29|Motor Ace|Carry On
+2002|30|The Vines|Ms. Jackson
+2002|31|Bodyjar|One in a Million
+2002|32|George|Release
+2002|33|The Hives|Hate to Say I Told You So
+2002|34|Pacifier|Comfort Me
+2002|35|Silverchair|Luv Your Life
+2002|36|Waikiki|Here Comes September
+2002|37|System of a Down|Aerials
+2002|38|The Drugs|The Bold and the Beautiful
+2002|39|Coldplay|In My Place
+2002|40|The Whitlams|Fall For You
+2002|41|28 Days|What's the Deal
+2002|42|The Streets|Don't Mug Yourself
+2002|43|George|Breaking It Slowly
+2002|44|Queens of the Stone Age|God is in the Radio
+2002|45|Darren Hanlon|Punk's Not Dead
+2002|46|N.E.R.D|Rock Star
+2002|47|Grinspoon|1000 Miles
+2002|48|Queens of the Stone Age|Go with the Flow
+2002|49|Jurassic 5|What's Golden
+2002|50|Jamiroquai|You Give Me Something
+2002|51|Wilcannia Mob|Down River
+2002|52|The Living End|One Said to the Other
+2002|53|Basement Jaxx|Get Me Off
+2002|54|The Androids|Do it With Madonna
+2002|55|Foo Fighters|Disenchanted Lullaby
+2002|56|Queens of the Stone Age|First It Giveth
+2002|57|Jamiroquai|Love Foolosphy
+2002|58|PJ Harvey and Gordon Gano|Hitting the Ground
+2002|59|Machine Gun Fellatio|Take It Slow
+2002|60|JXL vs Elvis Presley|A Little Less Conversation
+2002|61|Moby|We Are All Made of Stars
+2002|62|Silverchair|Across the Night
+2002|63|Something for Kate|Say Something
+2002|64|Gomez|Shot Shot
+2002|65|Area-7|Nobody Likes a Bogan
+2002|66|Augie March|This Train Will Be Taking No Passengers
+2002|67|Waikiki|New Technology
+2002|68|Black Rebel Motorcycle Club|Whatever Happened to My Rock'n Roll
+2002|69|Coldplay|Clocks
+2002|70|Frenzal Rhomb|Bucket Bong
+2002|71|Basement Jaxx|Do Your Thing
+2002|72|Audioslave|Show Me How to Live
+2002|73|Weezer|Dope Nose
+2002|74|Sonic Animation|I'm a DJ
+2002|75|Ms. Dynamite|Dy-na-mi-tee
+2002|76|Silverchair|World Upon Your Shoulders
+2002|77|The Streets|Has it Come to This?
+2002|78|Badly Drawn Boy|Something to Talk About
+2002|79|You Am I|Who Put the Devil in You
+2002|80|The Waifs|Highway One
+2002|81|Queens of the Stone Age|You Think I Ain't Worth a Dollar
+2002|82|Ben Harper|Strawberry Fields Forever
+2002|83|28 Days|Take Me Away
+2002|84|Oasis|Little By Little
+2002|85|The Chemical Brothers|Star Guitar
+2002|86|Eminem|Cleaning Out My Closet
+2002|87|System of a Down|Innervision
+2002|88|The Fergusons|Everything's Gone Bad
+2002|89|Groove Armada|Purple Haze
+2002|90|Badly Drawn Boy|Silent Sigh
+2002|91|Rocket Science|Being Followed
+2002|92|Antiskeptic|Called
+2002|93|Tori Amos|A Sorta Fairytale
+2002|94|Spiderbait|Arse Huggin' Pants
+2002|95|Machine Translations|She Wears a Mask
+2002|96|The Waifs|Lies
+2002|97|U2|Electrical Storm
+2002|98|Cartman|Shock (Living Without You)
+2002|99|Bodyjar|Too Drunk to Drive
+2002|100|Coldplay|A Rush of Blood to the Head
+2001|1|Alex Lloyd|Amazing
+2001|2|Something for Kate|Monsters
+2001|3|System of a Down|Chop Suey!
+2001|4|Basement Jaxx|Where's Your Head At?
+2001|5|John Butler Trio|Betterman
+2001|6|Alien Ant Farm|Smooth Criminal
+2001|7|Weezer|Island In The Sun
+2001|8|The Avalanches|Since I Left You
+2001|9|Gorillaz|Clint Eastwood
+2001|10|Cake|Short Skirt/Long Jacket
+2001|11|Garbage|Cherry Lips (Go Baby Go!)
+2001|12|The Strokes|Last Nite
+2001|13|Something for Kate|Three Dimensions
+2001|14|Tool|Schism
+2001|15|Gorillaz|19-2000
+2001|16|28 Days/Apollo 440|Say What?
+2001|17|Ben Folds|Rockin' The Suburbs
+2001|18|Rage Against the Machine|Renegades of Funk
+2001|19|George|Special Ones
+2001|20|Weezer|Hash Pipe
+2001|21|Fatboy Slim|Weapon of Choice
+2001|22|Ben Harper|Drugs Don't Work
+2001|23|PJ Harvey/Thom Yorke|This Mess We're In
+2001|24|Gerling|Dust Me Selecta
+2001|25|Eskimo Joe|Wake Up
+2001|26|Jamiroquai|Little L
+2001|27|Regurgitator|Fat Cop
+2001|28|Jebediah|Fall Down
+2001|29|John Butler Trio|Take
+2001|30|Machine Gun Fellatio|The Girl Of My Dreams (Is Giving Me Nightmares)
+2001|31|Eskimo Joe|Planet Earth
+2001|32|Placebo|Special K
+2001|33|James|Getting Away With It (All Messed Up)
+2001|34|Eskimo Joe|Who Sold Her Out
+2001|35|Dido|Thank You
+2001|36|Radiohead|Pyramid Song
+2001|37|Something for Kate|Twenty Years
+2001|38|New Order|Crystal
+2001|39|The Cruel Sea|Cocaine
+2001|40|U2|Elevation {Tomb Raider Remix}
+2001|41|Regurgitator|Superstraight
+2001|42|The Whitlams|Duffy's Song (I Will Not Go Quietly)
+2001|43|The Eels|Souljacker
+2001|44|Garbage|Androgyny
+2001|45|Tori Amos|Strange Little Girl
+2001|46|The Smashing Pumpkins|Untitled
+2001|47|Augie March|There Is No Such Place
+2001|48|Groove Armada|Superstylin'
+2001|49|Tool|Parabola
+2001|50|Paul Mac|Just The Thing
+2001|51|Nick Cave & The Bad Seeds|Fifteen Feet Of Pure White Snow
+2001|52|They Might Be Giants|Man It's So Loud In Here
+2001|53|Motor Ace|Hey Driver
+2001|54|Blink-182|The Rock Show
+2001|55|Linkin Park|One Step Closer
+2001|56|You Am I|Kick A Hole In The Sky
+2001|57|You Am I|Get Up
+2001|58|Jimmy Eat World|Bleed American
+2001|59|The Strokes|Hard To Explain
+2001|60|At the Drive-In|Pattern Against User
+2001|61|Daft Punk|One More Time
+2001|62|Jamiroquai|You Give Me Something
+2001|63|Alex Lloyd|Downtown
+2001|64|The White Stripes|Hotel Yorba
+2001|65|Ash|Burn Baby Burn
+2001|66|The Strokes|New York City Cops
+2001|67|Ben Folds|Not The Same
+2001|68|Blueline Medic|Making The Nouveau Riche
+2001|69|Unwritten Law|Up All Night
+2001|70|Rammstein|Links 2-3-4
+2001|71|Spiderbait|Outta My Head
+2001|72|The Living End|Roll On
+2001|73|Muse|Plug In Baby
+2001|74|Radiohead|Knives Out
+2001|75|Groove Armada|My Friend
+2001|76|The Avalanches|Radio
+2001|77|Big Heavy Stuff|Hibernate
+2001|78|Cruel Sea|A Simple Goodbye
+2001|79|R.E.M.|Imitation of Life
+2001|80|Muse|Bliss
+2001|81|Crazy Town|Butterfly
+2001|82|Lazaro's Dog|Home Entertainment System
+2001|83|Ash|Shining Light
+2001|84|Supermen Lovers|Starlight
+2001|85|At the Drive-In|Invalid Litter Dept.
+2001|86|Rhubarb|Light On Your Shoulder
+2001|87|Michael Franti and Spearhead|Rock The Nation
+2001|88|Spiderbait|Four On The Floor
+2001|89|Muse|New Born
+2001|90|New Order|60 Miles an Hour
+2001|91|Sum 41|Fat Lip
+2001|92|George|Run
+2001|93|Butthole Surfers|The Shame of Life
+2001|94|Depeche Mode|I Feel Loved
+2001|95|Good Charlotte|Little Things
+2001|96|Pennywise|Fuck Authority
+2001|97|Superheist|Step Back
+2001|98|Faithless|We Come 1
+2001|99|The Chemical Brothers|It Began in Afrika
+2001|100|Endorphin|Sex And Violence
+2000|1|Powderfinger|My Happiness
+2000|2|U2|Beautiful Day
+2000|3|Powderfinger|My Kind of Scene
+2000|4|Wheatus|Teenage Dirtbag
+2000|5|Coldplay|Yellow
+2000|6|The Avalanches|Frontier Psychiatrist
+2000|7|Red Hot Chili Peppers|Californication
+2000|8|Foo Fighters|Generator
+2000|9|Paul Kelly|Every Fucking City
+2000|10|Dandy Warhols|Bohemian Like You
+2000|11|28 Days|Rip It Up
+2000|12|Magic Dirt|Dirty Jeans
+2000|13|Rage Against the Machine|Sleep Now in the Fire
+2000|14|Green Day|Minority
+2000|15|Lo-Tel|Teenager Of The Year
+2000|16|Machine Gun Fellatio|Unsent Letter
+2000|17|The Superjesus|Gravity
+2000|18|Foo Fighters|Stacked Actors
+2000|19|The Living End|Pictures in the Mirror
+2000|20|Bodyjar|Not The Same
+2000|21|Limp Bizkit|My Generation
+2000|22|Moby|Porcelain
+2000|23|You Am I|Damage
+2000|24|Bomfunk MCs|Freestyler
+2000|25|Shihad|Pacifier
+2000|26|The Eels|Mr. E's Beautiful Blues
+2000|27|Limp Bizkit|Take a Look Around
+2000|28|George|Bastard Son
+2000|29|Stone Temple Pilots|Sour Girl
+2000|30|Jebediah|Please Leave
+2000|31|Travis|Why Does It Always Rain On Me?
+2000|32|Spiller|Groovejet (If This Ain't Love)
+2000|33|Grinspoon|Rock Show
+2000|34|A Perfect Circle|Judith
+2000|35|Gomez|We Haven't Turned Around
+2000|36|Cypress Hill|Rock Superstar
+2000|37|The Whitlams|Thank You (For Loving Me at My Worst)
+2000|38|Gomez|Machismo
+2000|39|Placebo|Taste in Men
+2000|40|Papa Roach|Last Resort
+2000|41|Millencolin|Penguins & Polarbears
+2000|42|Radiohead|Everything in Its Right Place
+2000|43|Fatboy Slim|Sunset (Bird of Prey)
+2000|44|Sinead O'Connor|Daddy I'm Fine
+2000|45|Moloko|The Time Is Now
+2000|46|Filter|Take a Picture
+2000|47|Placebo|Slave to the Wage
+2000|48|Regurgitator|Crush The Losers
+2000|49|Dandy Warhols|Get Off
+2000|50|Skulker|Naughty
+2000|51|The Offspring|Original Prankster
+2000|52|28 Days|Sucker
+2000|53|The Hippos|Wasting My Life
+2000|54|Blink-182|Man Overboard
+2000|55|R.E.M.|The Great Beyond
+2000|56|Friendly|I Love You But
+2000|57|Groove Armada|I See You Baby
+2000|58|The Fauves|Give Up Your Day Job
+2000|59|Something for Kate|Beautiful Sharks
+2000|60|Sinead O'Connor|No Man's Woman
+2000|61|George|Spawn
+2000|62|Fiona Apple|Fast as You Can
+2000|63|Coldplay|Shiver
+2000|64|Everlast|Black Jesus
+2000|65|Motor Ace|American Shoes
+2000|66|Bodyjar|Fall to the Ground
+2000|67|Machine Gun Fellatio|Mofo On A Motor Cycle
+2000|68|OPM|Heaven Is A Halfpipe
+2000|69|MxPx|Responsibility
+2000|70|Killing Heidi|Superman/Supergirl
+2000|71|Frenzal Rhomb|Nothing's Wrong
+2000|72|Tex Perkins|I Know You Know I Know
+2000|73|Grinspoon|Secrets
+2000|74|Groove Terminator|One More Time (Sunshine Song)
+2000|75|Slipknot|Wait and Bleed
+2000|76|NOFX|Bottles To The Ground
+2000|77|Rage Against the Machine|Maria
+2000|78|The Smashing Pumpkins|Stand Inside Your Love
+2000|79|Metallica|No Leaf Clover
+2000|80|Skulker|Hej
+2000|81|Korn|Make Me Bad
+2000|82|Muse|Sunburn
+2000|83|Skunkhour|Kick In The Door
+2000|84|Metallica|I Disappear
+2000|85|Pearl Jam|Nothing as It Seems
+2000|86|Klinger|Hello Cruel World
+2000|87|Madonna|Music
+2000|88|Morcheeba|Rome Wasn't Built In A Day
+2000|89|Brassy|Work It Out
+2000|90|PJ Harvey|Good Fortune
+2000|91|Area-7|Start Making Sense
+2000|92|Killing Heidi|Live Without It
+2000|93|Reef|Set The Record Straight
+2000|94|U2|The Ground Beneath Her Feet
+2000|95|Rage Against the Machine|Renegades of Funk
+2000|96|Silverchair|Paint Pastel Princess
+2000|97|Klinger|Ben Lee
+2000|98|Motor Ace|Death Defy
+2000|99|Madison Avenue|Who the Hell Are You
+2000|100|Green Day|Warning
+1999|1|Powderfinger|These Days
+1999|2|Killing Heidi|Weir
+1999|3|The Tenants|You Shit Me To Tears
+1999|4|Fatboy Slim|Praise You
+1999|5|Placebo|Every You Every Me
+1999|6|Bloodhound Gang|The Bad Touch
+1999|7|Rage Against The Machine|Guerrilla Radio
+1999|8|Limp Bizkit|Nookie
+1999|9|Pearl Jam|Last Kiss
+1999|10|Red Hot Chili Peppers|Scar Tissue
+1999|11|The Foo Fighters|Learn To Fly
+1999|12|Garbage|When I Grow Up
+1999|13|Blink-182|What's My Age Again?
+1999|14|Killing Heidi|Mascara
+1999|15|Silverchair|Ana's Song (Open Fire)
+1999|16|Korn|Freak On A Leash
+1999|17|Korn|Falling Away From Me
+1999|18|Sonic Animation|Theophilus Thistler (An Exercise In Vowels)
+1999|19|Jebediah|Animal
+1999|20|Rhubarb|Exerciser
+1999|21|Alex Lloyd|Lucky Star
+1999|22|Madison Avenue|Don't Call Me Baby
+1999|23|Fatboy Slim|Right Here, Right Now
+1999|24|Macy Gray|I Try
+1999|25|Powderfinger|Already Gone
+1999|26|Frenzal Rhomb|Never Had So Much Fun
+1999|27|The Chemical Brothers|Hey Boy Hey Girl
+1999|28|Jebediah|Feet Touch the Ground
+1999|29|Silverchair|Anthem for the Year 2000
+1999|30|Silverchair|Miss You Love
+1999|31|Blink-182|All the Small Things
+1999|32|The Tea Party|Heaven Coming Down
+1999|33|Grinspoon|Ready 1
+1999|34|Frenzal Rhomb|You Are Not My Friend
+1999|35|Peter Helliar|Bevan The Musical
+1999|36|Bodyjar|Hazy Shade Of Winter
+1999|37|Red Hot Chili Peppers|Around The World
+1999|38|The Whitlams|Chunky Chunky Air Guitar
+1999|39|Eskimo Joe|Turn Up Your Stereo
+1999|40|Spiderbait|Shazam!
+1999|41|The Living End|All Torn Down
+1999|42|Custard|Ringo (I Feel Like)
+1999|43|Silverchair|Emotion Sickness
+1999|44|Something For Kate|Electricity
+1999|45|Gerling|Enter, Space Capsule
+1999|46|Bush|The Chemicals Between Us
+1999|47|Blur|Coffee & TV
+1999|48|The Living End|West End Riot
+1999|49|Area-7|Second Class Citizen
+1999|50|The Fauves|Bigger Than Tina
+1999|51|Ben Folds Five|Army
+1999|52|The Cruel Sea|It Won't Last
+1999|53|Beck|Sexx Laws
+1999|54|The Whitlams|Thank You (For Loving Me at My Worst)
+1999|55|Diana Ah Naid|Perfect Family
+1999|56|Metallica|No Leaf Clover
+1999|57|Blur|Tender
+1999|58|Regurgitator|I Want To Be A Nudist
+1999|59|Machine Gun Fellatio|Mutha Fukka On A Motorcycle
+1999|60|VAST|Touched
+1999|61|Augie March|Asleep In Perfection
+1999|62|Regurgitator|Happiness (Rotting My Brain)
+1999|63|Jamiroquai|Canned Heat
+1999|64|Frenzal Rhomb|We're Going Out Tonight
+1999|65|Ben Harper|Burn to Shine
+1999|66|Testeagles|Turn That Shit Up
+1999|67|Madonna|Beautiful Stranger
+1999|68|Powderfinger|Good-Day Ray
+1999|69|Nine Inch Nails|Starfuckers, Inc.
+1999|70|Something For Kate|Whatever You Want
+1999|71|The Mutton Birds|Pulled Along By Love
+1999|72|Something For Kate|Hallways
+1999|73|Supergrass|Pumping on Your Stereo
+1999|74|Deadstar|Deeper Water
+1999|75|Friendly|Some Kind Of Love Song
+1999|76|Everlast|What It's Like
+1999|77|Bob Marley/Funkstar De Luxe|Sun Is Shining
+1999|78|The Cardigans|My Favourite Game
+1999|79|Moby|Bodyrock
+1999|80|Moloko|Sing It Back
+1999|81|Ben Lee|Nothing Much Happens
+1999|82|Skunkhour|Home
+1999|83|Custard|Hit Song
+1999|84|Spiderbait|Stevie
+1999|85|Ben Harper|Steal My Kisses
+1999|86|Orgy|Blue Monday
+1999|87|Placebo|You Don't Care About Us
+1999|88|Moby|Run On
+1999|89|Green Day|Nice Guys Finish Last
+1999|90|Rammstein|Stripped
+1999|91|Pennywise|Down Under
+1999|92|Macy Gray|Sex-O-Matic Venus Freak
+1999|93|Elliott Smith|Waltz #2
+1999|94|Turnstyle|Spray Water On The Stereo
+1999|95|Public Image Ltd.|The Order Of Death
+1999|96|Spiderbait|Plastic
+1999|97|The Offspring|The Kids Aren't Alright
+1999|98|Sugar Ray|Every Morning
+1999|99|Eskimo Joe|Ruby Wednesday
+1999|100|Powderfinger|Passenger
+All-time '98|1|Nirvana|Smells Like Teen Spirit
+All-time '98|2|Hunters & Collectors|Throw Your Arms Around Me
+All-time '98|3|Pearl Jam|Alive
+All-time '98|4|Jeff Buckley|Last Goodbye
+All-time '98|5|Radiohead|Creep
+All-time '98|6|Led Zeppelin|Stairway To Heaven
+All-time '98|7|Metallica|One
+All-time '98|8|Queen|Bohemian Rhapsody
+All-time '98|9|Metallica|Enter Sandman
+All-time '98|10|Pearl Jam|Black
+All-time '98|11|U2|One
+All-time '98|12|Marilyn Manson|The Beautiful People
+All-time '98|13|Radiohead|Paranoid Android
+All-time '98|14|Nine Inch Nails|Closer
+All-time '98|15|Violent Femmes|Blister In The Sun
+All-time '98|16|Joy Division|Love Will Tear Us Apart
+All-time '98|17|Rage Against The Machine|Killing In The Name
+All-time '98|18|The Living End|Prisoner Of Society
+All-time '98|19|Faith No More|Epic
+All-time '98|20|Blink-182|Dammit (Growing Up)
+All-time '98|21|Live|Lightning Crashes
+All-time '98|22|Pearl Jam|Better Man
+All-time '98|23|U2|With Or Without You
+All-time '98|24|Tool|Stinkfist
+All-time '98|25|Soft Cell|Tainted Love
+All-time '98|26|Nick Cave & The Bad Seeds|The Ship Song
+All-time '98|27|Tori Amos|Cornflake Girl
+All-time '98|28|The Smiths|How Soon Is Now?
+All-time '98|29|Jeff Buckley|Grace
+All-time '98|30|New Order|Blue Monday
+All-time '98|31|Red Hot Chili Peppers|Under The Bridge
+All-time '98|32|Ben Folds Five|Brick
+All-time '98|33|The Smashing Pumpkins|Bullet with Butterfly Wings
+All-time '98|34|Massive Attack|Unfinished Sympathy
+All-time '98|35|Faith No More|Ashes To Ashes
+All-time '98|36|The Whitlams|No Aphrodisiac
+All-time '98|37|The B-52's|Love Shack
+All-time '98|38|Beastie Boys|(You Gotta) Fight for Your Right (To Party!)
+All-time '98|39|The Stone Roses|Fools Gold
+All-time '98|40|The Smashing Pumpkins|Today
+All-time '98|41|Pink Floyd|Wish You Were Here
+All-time '98|42|Andy Prieboy|Tomorrow Wendy
+All-time '98|43|The Whitlams|You Sound Like Louis Burdett
+All-time '98|44|Beastie Boys|Sabotage
+All-time '98|45|Nirvana|Lithium
+All-time '98|46|Blur|Song 2
+All-time '98|47|Jeff Buckley|Lover, You Should've Come Over
+All-time '98|48|Tool|Sober
+All-time '98|49|The Beatles|A Day In The Life
+All-time '98|50|Jebediah|Leaving Home
+All-time '98|51|R.E.M.|Everybody Hurts
+All-time '98|52|Ben Folds Five|Underground
+All-time '98|53|Deee-Lite|Groove Is In The Heart
+All-time '98|54|Radiohead|Karma Police
+All-time '98|55|The Offspring|Come Out And Play
+All-time '98|56|Pearl Jam|Rearviewmirror
+All-time '98|57|Tool|Forty-Six & 2
+All-time '98|58|Soundgarden|Black Hole Sun
+All-time '98|59|Silverchair|Tomorrow
+All-time '98|60|New Order|Bizarre Love Triangle
+All-time '98|61|You Am I|Berlin Chair
+All-time '98|62|Nirvana|Come As You Are
+All-time '98|63|Led Zeppelin|Kashmir
+All-time '98|64|Cake|I Will Survive
+All-time '98|65|The Eagles|Hotel California
+All-time '98|66|The Cure|The Lovecats
+All-time '98|67|Sex Pistols|Anarchy In The UK
+All-time '98|68|Hunters & Collectors|Holy Grail
+All-time '98|69|Jane's Addiction|Been Caught Stealing
+All-time '98|70|The Jimi Hendrix Experience|All Along the Watchtower
+All-time '98|71|The Smashing Pumpkins|1979
+All-time '98|72|Nine Inch Nails|The Perfect Drug
+All-time '98|73|R.E.M.|Losing My Religion
+All-time '98|74|The Cure|A Forest
+All-time '98|75|Portishead|Glory Box
+All-time '98|76|Crowded House|Don't Dream It's Over
+All-time '98|77|Guns N' Roses|Sweet Child O' Mine
+All-time '98|78|They Might Be Giants|Birdhouse In Your Soul
+All-time '98|79|The Buggles|Video Killed The Radio Star
+All-time '98|80|The Offspring|Self Esteem
+All-time '98|81|Blind Melon|No Rain
+All-time '98|82|Jebediah|Jerks Of Attention
+All-time '98|83|Silverchair|Abuse Me
+All-time '98|84|Nick Cave & The Bad Seeds|Into My Arms
+All-time '98|85|The Cure|Just Like Heaven
+All-time '98|86|Spiderbait|Buy Me A Pony
+All-time '98|87|Nirvana|Aneurysm
+All-time '98|88|Grinspoon|Just Ace
+All-time '98|89|The Cure|Close To Me
+All-time '98|90|Pink Floyd|Comfortably Numb
+All-time '98|91|Metallica|The Unforgiven
+All-time '98|92|Pauline Pantsdown|Backdoor Man
+All-time '98|93|U2|I Still Haven't Found What I'm Looking For
+All-time '98|94|Cold Chisel|Khe Sanh
+All-time '98|95|Prodigy|Breathe
+All-time '98|96|Nick Cave & The Bad Seeds|Red Right Hand
+All-time '98|97|Beck|Loser
+All-time '98|98|The Cure|Boys Don't Cry
+All-time '98|99|The Verve|Bitter Sweet Symphony
+All-time '98|100|David Bowie|Heroes
+1998|1|The Offspring|Pretty Fly (For a White Guy)
+1998|2|Ben Lee|Cigarettes Will Kill You
+1998|3|Custard|Girls Like That (Don't Go For Guys Like Us)
+1998|4|Hole|Celebrity Skin
+1998|5|Korn|Got the Life
+1998|6|Regurgitator|! (Song Formerly Known As)
+1998|7|Jebediah|Harpoon
+1998|8|Powderfinger|The Day You Come
+1998|9|You Am I|Heavy Heart
+1998|10|The Living End|Save The Day
+1998|11|U2|The Sweetest Thing
+1998|12|Ben Folds Five|Brick
+1998|13|They Might Be Giants|Dr. Worm
+1998|14|Blink-182|Josie (Everything's Gonna Be Fine)
+1998|15|The Living End|Second Solution
+1998|16|Josh Abrahams & Amiel Daemion|Addicted to Bass
+1998|17|The Living End|Tainted Love {Live}
+1998|18|Grinspoon|Just Ace
+1998|19|Wyclef Jean|Bubblegoose
+1998|20|Chef|Simultaneous
+1998|21|Marcy Playground|Sex and Candy
+1998|22|Grinspoon|Black Friday
+1998|23|Massive Attack|Teardrop
+1998|24|Custard|Music Is Crap
+1998|25|Beastie Boys|Intergalactic
+1998|26|Regurgitator|Polyester Girl
+1998|27|Regurgitator|I Like Your Old Remix Better Than Your New Remix
+1998|28|Happyland|Don't You Know Who I Am
+1998|29|Jeff Buckley|Everybody Here Wants You
+1998|30|Cake|Never There
+1998|31|Paul McDermott|Throw Your Arms Around Me
+1998|32|Regurgitator|Black Bugs
+1998|33|Eskimo Joe|Sweater
+1998|34|Barenaked Ladies|One Week
+1998|35|Harvey Danger|Flagpole Sitta
+1998|36|TISM|Whatareya?
+1998|37|The Whitlams|Buy Now Pay Later (Charlie No 2)
+1998|38|The Mighty Mighty Bosstones|The Impression That I Get
+1998|39|Adam Sandler|Somebody Kill Me
+1998|40|Ben Folds Five|Song For The Dumped
+1998|41|Placebo|Pure Morning
+1998|42|Jebediah|Teflon
+1998|43|The Whitlams|Melbourne
+1998|44|Marilyn Manson|The Dope Show
+1998|45|The Smashing Pumpkins|Ava Adore
+1998|46|Powderfinger|Don't Wanna Be Left Out
+1998|47|Pearl Jam|Do the Evolution
+1998|48|Catatonia|Road Rage
+1998|49|Hole|Malibu
+1998|50|Run-D.M.C. vs Jason Nevins|It's Like That
+1998|51|Pearl Jam|Given to Fly
+1998|52|Green Day|The Grouch
+1998|53|Everclear|Father of Mine
+1998|54|Frenzal Rhomb|Mum Changed The Locks
+1998|55|Radiohead|No Surprises
+1998|56|The Whitlams|Charlie No 3
+1998|57|Garbage|I Think I'm Paranoid
+1998|58|Pauline Pantsdown|I Don't Like It
+1998|59|Propellerheads & Shirley Bassey|History Repeating
+1998|60|Ani DiFranco|Untouchable Face
+1998|61|The Mavis's|Cry
+1998|62|The Offspring|Gone Away
+1998|63|Fatboy Slim|The Rockafeller Skank
+1998|64|Antenna|Come On Spring
+1998|65|You Am I|Rumble
+1998|66|Rage Against the Machine|No Shelter
+1998|67|Metallica|The Unforgiven II
+1998|68|Dandy Warhols|Every Day Should Be A Holiday
+1998|69|Pollyanna|Cinnamon Lip
+1998|70|Manic Street Preachers|If You Tolerate This Your Children Will Be Next
+1998|71|Happyland|Hello
+1998|72|Frenzal Rhomb|Mr Charisma
+1998|73|Stardust|Music Sounds Better with You
+1998|74|Foo Fighters|My Hero
+1998|75|Rob Zombie|Dragula
+1998|76|Marcy Playground|Saint Joe on the School Bus
+1998|77|Metallica|Fuel
+1998|78|Fuel|Shimmer
+1998|79|Grinspoon|Don't Go Away
+1998|80|Babybird|Bad Old Man
+1998|81|Bran Van 3000|Drinking in L.A.
+1998|82|Drugstore|El President
+1998|83|The Superjesus|Now And Then
+1998|84|Green Day|Good Riddance (Time of Your Life)
+1998|85|Something for Kate|Harpoon
+1998|86|Ben Harper|Mama's Trippin'
+1998|87|Garbage|Push It
+1998|88|Pearl Jam|Wishlist
+1998|89|Garbage|Special
+1998|90|Chef|No Substitute
+1998|91|Jebediah|Benedict
+1998|92|Space with Cerys Matthews|The Ballad of Tom Jones
+1998|93|Silverchair|Untitled
+1998|94|The Smashing Pumpkins|Perfect
+1998|95|Beck|Tropicalia
+1998|96|Midnight Oil|Redneck Wonderland
+1998|97|Even|Black Umbrella
+1998|98|Foo Fighters|Baker Street
+1998|99|Superjesus|Saturation
+1998|100|Not From There|Sich Offnen
+1997|1|The Whitlams|No Aphrodisiac
+1997|2|Blur|Song 2
+1997|3|Chumbawamba|Tubthumping
+1997|4|The Verve|Bitter Sweet Symphony
+1997|5|Pauline Pantsdown|Backdoor Man
+1997|6|Blink-182|Dammit (Growing Up)
+1997|7|Radiohead|Paranoid Android
+1997|8|Marilyn Manson|The Beautiful People
+1997|9|Radiohead|Karma Police
+1997|10|Jebediah|Leaving Home
+1997|11|Smash Mouth|Walkin' on the Sun
+1997|12|Ben Folds Five|One Angry Dwarf And 200 Solemn Faces
+1997|13|Silverchair|Freak
+1997|14|The Superjesus|Down Again
+1997|15|The Living End|Prisoner Of Society
+1997|16|Quindon Tarver/Lee Perry|Everybody's Free (To Wear Sunscreen)
+1997|17|Cordrazine|Crazy
+1997|18|Nick Cave & The Bad Seeds|Into My Arms
+1997|19|Regurgitator|Every Day Formula
+1997|20|Cake|I Will Survive
+1997|21|Foo Fighters|Monkey Wrench
+1997|22|The Verve|The Drugs Don't Work
+1997|23|Spiderbait|Calypso
+1997|24|Korn|A.D.I.D.A.S.
+1997|25|Green Day|Hitchin' a Ride
+1997|26|Nine Inch Nails|The Perfect Drug
+1997|27|Silverchair|The Door
+1997|28|Dana Lyons|Cows With Guns
+1997|29|Third Eye Blind|Semi-Charmed Life
+1997|30|Tool|Forty-Six & 2
+1997|31|Faith No More|Ashes To Ashes
+1997|32|Pendulum {Melbourne}|Coma
+1997|33|Jebediah|Military Strongmen
+1997|34|Grinspoon|Dcx3
+1997|35|The Sundays|Summertime
+1997|36|Ween|Mutilated Lips
+1997|37|The Mavis's|Naughty Boy
+1997|38|Metallica|The Memory Remains
+1997|39|Something for Kate|Captain (Million Miles)
+1997|40|The Bloodhound Gang|Why's Everybody Always Pickin' On Me?
+1997|41|Beck|Deadweight
+1997|42|Cornershop|Brimful of Asha
+1997|43|Ammonia|You're Not The Only One
+1997|44|The Tea Party|Temptation
+1997|45|The Cure|Wrong Number
+1997|46|The Bloodhound Gang|Fire Water Burn
+1997|47|Filter And The Crystal Method|(Can't You) Trip Like I Do
+1997|48|Custard|Anatomically Correct
+1997|49|The Living End|From Here On In
+1997|50|Arkarna|Eat Me
+1997|51|Everclear|So Much For The Afterglow
+1997|52|Garbage|#1 Crush
+1997|53|The Whitlams|You Sound Like Louis Burdett
+1997|54|Everclear|Everything To Everyone
+1997|55|Red Hot Chili Peppers|Love Rollercoaster
+1997|56|The Prodigy|Funky Shit
+1997|57|My Drug Hell|Girl At The Bus Stop
+1997|58|Diana Ah Naid|I Go Off
+1997|59|White Town|Your Woman
+1997|60|They Might Be Giants|New York City
+1997|61|Chemical Brothers|Block Rockin' Beats
+1997|62|The Smashing Pumpkins|The End Is the Beginning Is the End
+1997|63|Grinspoon|Repeat
+1997|64|Faith No More|Stripsearch
+1997|65|The Lemonheads|Outdoor Type
+1997|66|Powderfinger|JC
+1997|67|The Offspring|I Choose
+1997|68|Jamiroquai|Cosmic Girl
+1997|69|Ween|Waving My Dick In The Wind
+1997|70|Reef|Place Your Hands
+1997|71|Robyn Loau|Sick With Love
+1997|72|Front End Loader|Pulse
+1997|73|Live|Lakini's Juice
+1997|74|Rage Against the Machine|The Ghost of Tom Joad
+1997|75|Space|Female of the Species
+1997|76|Imani Coppola|Legend Of A Cowgirl
+1997|77|The Cardigans|Lovefool
+1997|78|The Mark of Cain|Degenerate Boy
+1997|79|Portishead|All Mine
+1997|80|Ben Harper|Faded
+1997|81|Kylie Minogue|Did It Again
+1997|82|Primus|Shake Hands with Beef
+1997|83|Lard|I Wanna Be A Drug-Sniffing Dog
+1997|84|Dave Graney|Feelin' Kinda Sporty
+1997|85|Brainbug|Nightmare
+1997|86|Blackeyed Susans|Smokin' Johnny Cash
+1997|87|Sneaker Pimps|6 Underground
+1997|88|Beaverloop|Nothing
+1997|89|Dandy Warhols|Last Junkie on Earth
+1997|90|Pennywise|Society
+1997|91|Blue Boy|Remember Me
+1997|92|Sidewinder|Titanic Days
+1997|93|Skunkhour|Weightlessness
+1997|94|Rebecca's Empire|Way Of All Things
+1997|95|Faithless|Don't Leave
+1997|96|Local H|Bound for the Floor
+1997|97|Arkarna|Futures Overrated
+1997|98|Daft Punk|Da Funk
+1997|99|Luscious Jackson|Naked Eye
+1997|100|Effigy|I Give In
+1996|1|Spiderbait|Buy Me a Pony
+1996|2|Tool|Stinkfist
+1996|3|Ben Folds Five|Underground
+1996|4|Butthole Surfers|Pepper
+1996|5|Bush|Glycerine
+1996|6|Powderfinger|Pick You Up
+1996|7|The Prodigy|Breathe
+1996|8|Allen Ginsberg|Ballad of the Skeletons
+1996|9|Weezer|El Scorcho
+1996|10|Baby Bird|You're Gorgeous
+1996|11|311|Down
+1996|12|Underworld|Born Slippy
+1996|13|The Smashing Pumpkins|1979
+1996|14|Fun Lovin' Criminals|Scooby Snacks
+1996|15|Regurgitator|Kong Foo Sing
+1996|16|Babylon Zoo|Spaceman
+1996|17|The Prodigy|Firestarter
+1996|18|Powderfinger|D.A.F.
+1996|19|Bush|Swallowed
+1996|20|The Fauves|Dogs Are the Best People
+1996|21|Foo Fighters|Down in the Park
+1996|22|Ash|Oh Yeah
+1996|23|Regurgitator|I Sucked a Lot of Cock to Get Where I Am
+1996|24|Everclear|Santa Monica
+1996|25|No Doubt|Just a Girl
+1996|26|Chemical Brothers|Setting Sun
+1996|27|Cake|The Distance
+1996|28|The Smashing Pumpkins|Zero
+1996|29|Beck|Devil's Haircut
+1996|30|The Fauves|Self Abuser
+1996|31|Skin|Mah Na Mah Na
+1996|32|Powderfinger|Living Type
+1996|33|2Pac|California Love
+1996|34|Tracy Bonham|Mother Mother
+1996|35|Fugees|Killing Me Softly
+1996|36|Primitive Radio Gods|Standing Outside a Broken Phone Booth with Money in My Hand
+1996|37|Jamiroquai|Virtual Insanity
+1996|38|Bush|Comedown
+1996|39|The Eels|Novocaine for the Soul
+1996|40|Tricky/Garbage|Milk
+1996|41|Geggy Tah|Whoever You Are
+1996|42|Fini Scad|Coppertone
+1996|43|Beck|Where It's At
+1996|44|The Cranberries|Salvation
+1996|45|Nirvana|Aneurysm {Muddy Banks of the Wishka live version}
+1996|46|Rage Against the Machine|Bulls on Parade
+1996|47|Pearl Jam|Hail, Hail
+1996|48|Nada Surf|Popular
+1996|49|Definition of Sound|Pass the Vibes
+1996|50|The Presidents of the USA|Mach 5
+1996|51|Garbage|Only Happy When It Rains
+1996|52|Metallica|Until It Sleeps
+1996|53|Bjork|Hyperballad
+1996|54|The Lemonheads|If I Could Talk I'd Tell You
+1996|55|The Smashing Pumpkins|Tonight, Tonight
+1996|56|The Eels|Susan's House
+1996|57|Rebecca's Empire|So Rude
+1996|58|Everclear|Heartspark Dollarsign
+1996|59|Tumbleweed|Silver Lizard
+1996|60|Kula Shaker|Hey Dude
+1996|61|Def FX|I'll Be Your Majick
+1996|62|Metallica|Hero of the Day
+1996|63|Bad Religion|Punk Rock Song
+1996|64|Angelique Kidjo|Wombo Lombo
+1996|65|Goldfinger|Here in Your Bedroom
+1996|66|Frente!|What's Come Over Me
+1996|67|Crowded House|Everything Is Good for You
+1996|68|Mullen/Clayton|Mission Impossible
+1996|69|Insurge|Speculator
+1996|70|Deadstar|Don't It Get You Down
+1996|71|Pulp|Disco 2000
+1996|72|Frenzal Rhomb|Punch in the Face
+1996|73|Hole|Gold Dust Woman
+1996|74|Ministry|Lay Lady Lay
+1996|75|Midnight Oil|Surf's Up Tonight
+1996|76|Spacehog|In the Meantime
+1996|77|Soundgarden|Burden in My Hand
+1996|78|OMC|How Bizarre
+1996|79|The Whitlams|I Make Hamburgers
+1996|80|You Am I|Soldiers
+1996|81|The Superjesus|Shut My Eyes
+1996|82|Luscious Jackson|Naked Eye
+1996|83|Hoodoo Gurus|Waking Up Tired
+1996|84|You Am I|Good Mornin'
+1996|85|Ash|Goldfinger
+1996|86|Neneh Cherry|Woman
+1996|87|R.E.M.|E-Bow the Letter
+1996|88|Hunting Party|Grooving
+1996|89|Snout|Cromagnon Man
+1996|90|Pearl Jam|Leaving Here
+1996|91|Barry Adamson|Set the Controls
+1996|92|The Mavis's|Thunder
+1996|93|Skunk Anansie|All I Want
+1996|94|Pearl Jam|Mankind
+1996|95|Frank Bennett|Creep
+1996|96|Matthew Trapnell|Ella's Uncle
+1996|97|AC/DC|Hail Caesar
+1996|98|Tori Amos|Professional Widow
+1996|99|Republica|Ready to Go
+1996|100|Ben Harper|Gold to Me
+1995|1|Oasis|Wonderwall
+1995|2|Smashing Pumpkins|Bullet with Butterfly Wings
+1995|3|Coolio|Gangsta's Paradise
+1995|4|Presidents of the U.S.A.|Kitty
+1995|5|Bjork|It's Oh So Quiet
+1995|6|Everclear|Heroin Girl
+1995|7|Custard|Apartment
+1995|8|Nick Cave & The Bad Seeds and Kylie Minogue|Where the Wild Roses Grow
+1995|9|TISM|(He'll Never Be An) Ol' Man River
+1995|10|TISM|Greg! The Stop Sign!!
+1995|11|Presidents of the U.S.A.|Lump
+1995|12|Mindless Drug Hoover|The Reefer Song
+1995|13|Oasis|Morning Glory
+1995|14|Jeff Buckley|Last Goodbye
+1995|15|Garbage|Vow
+1995|16|Dave Graney 'n' The Coral Snakes|Rock 'n' Roll is where I hide
+1995|17|Regurgitator|Blubber Boy
+1995|18|Jill Sobule|I Kissed a Girl
+1995|19|Tripping Daisy|I Got a Girl
+1995|20|Red Hot Chili Peppers|My Friends
+1995|21|Garbage|Queer
+1995|22|Live|Lightning Crashes
+1995|23|Passengers|Miss Sarajevo
+1995|24|You Am I|Purple Sneakers
+1995|25|Insurge|Political Prisoners
+1995|26|Neil Young|Downtown
+1995|27|Ammonia|Drugs
+1995|28|Red Hot Chili Peppers|Aeroplane
+1995|29|Faith No More|Evidence
+1995|30|Natalie Merchant|Carnival
+1995|31|Rancid|Time Bomb
+1995|32|Swoop|Apple Eyes
+1995|33|Bush|Everything Zen
+1995|34|Live|I Alone
+1995|35|Pearl Jam|I Got Id
+1995|36|Tricky|Black Steel
+1995|37|Foo Fighters|This Is a Call
+1995|38|Pulp|Common People
+1995|39|Alanis Morissette|You Oughta Know
+1995|40|Primus|Wynona's Big Brown Beaver
+1995|41|Skunk Anansie|I Can Dream
+1995|42|Sonic Youth|The Diamond Sea
+1995|43|Spiderbait|Monty
+1995|44|Pearl Jam|Better Man
+1995|45|Portishead|Glory Box
+1995|46|Green Day|Geek Stink Breath
+1995|47|Christine Anu|My Island Home
+1995|48|Technohead|I Wanna be a Hippy
+1995|49|White Zombie|More Human than Human
+1995|50|Buffalo Tom|Summer
+1995|51|Def FX|Psychoactive Summer
+1995|52|The Murmurs|You Suck
+1995|53|Blur|Country House
+1995|54|The Vaughans|Who Farted?
+1995|55|Skunkhour|Up to Our Necks In It
+1995|56|Phunk Junkeez|Chuck
+1995|57|U2|Hold Me, Thrill Me, Kiss Me, Kill Me
+1995|58|Pollyanna|Lemonsuck
+1995|59|Jill Sobule|Supermodel
+1995|60|Teenage Fanclub|Sparky's Dream
+1995|61|Screaming Jets|Sad Song
+1995|62|Rebecca's Empire|Empty
+1995|63|The Offspring|Smash It Up
+1995|64|N-Trance|Stayin' Alive
+1995|65|Shaggy|Boombastic
+1995|66|The Tea Party|Fire in the Head
+1995|67|Chris Isaak|Baby Did a Bad, Bad Thing
+1995|68|Pollyanna|Pale Grey Eyes
+1995|69|Dash Rip Rock|(Let's Go) Smoke Some Pot
+1995|70|Foo Fighters|I'll Stick Around
+1995|71|Live|All Over You
+1995|72|Rail|Immune Deficiency
+1995|73|The Cure|Dredd Song
+1995|74|Grinspoon|Sickfest
+1995|75|Red Hot Chili Peppers|Warped
+1995|76|Bad Religion|21st Century (Digital Boy)
+1995|77|Severed Heads|Heart of the Party
+1995|78|Strawpeople|Trick with a Knife
+1995|79|Supergrass|Alright
+1995|80|Green Day|Brain Stew
+1995|81|The Caulfields|Devil's Diary
+1995|82|Mr Blonde|Sunday
+1995|83|Bjork|Army of Me
+1995|84|You Am I|Cathy's Clown
+1995|85|Alanis Morissette|Hand in My Pocket
+1995|86|TLC|Waterfalls
+1995|87|Yothu Yindi|Jailbreak
+1995|88|Alice in Chains|Grind
+1995|89|Jeff Buckley|Grace
+1995|90|Alanis Morissette|All I Really Want
+1995|91|Faith No More|Digging the Grave
+1995|92|Matthew Sweet|Sick of Myself
+1995|93|TISM|All Homeboys Are Dickheads
+1995|94|You Am I|Jewels and Bullets
+1995|95|Massive Attack|Protection
+1995|96|Tumbleweed|Hang Around
+1995|97|Pop!|Tingly {ft. Angie Hart}
+1995|98|Hecate|By Myself
+1995|99|Green Day|When I Come Around
+1995|100|Todd Snider|Talkin' Seattle Grunge Rock Blues
+1994|1|The Cranberries|Zombie
+1994|2|Nine Inch Nails|Closer
+1994|3|The Offspring|Self Esteem
+1994|4|The Offspring|Come Out & Play
+1994|5|Silverchair|Tomorrow
+1994|6|Veruca Salt|Seether
+1994|7|Nirvana|About a Girl
+1994|8|Max Sharam|Coma
+1994|9|Tom Jones|If I Only Knew
+1994|10|Severed Heads|Dead Eyes Opened {1994 Remix}
+1994|11|Nick Cave & The Bad Seeds|Do You Love Me?
+1994|12|James|Laid
+1994|13|Bomb The Bass|Bug Powder Dust
+1994|14|The Cruel Sea|Better Get A Lawyer
+1994|15|Sheryl Crow|All I Wanna Do
+1994|16|Beastie Boys|Sabotage
+1994|17|Stone Temple Pilots|Interstate Love Song
+1994|18|Green Day|Longview
+1994|19|Underground Lovers|Losin' It
+1994|20|Nick Barker|Time Bomb
+1994|21|Itch-E and Scratch-E|Sweetness & Light
+1994|22|Soundgarden|Black Hole Sun
+1994|23|You Am I|Berlin Chair
+1994|24|Green Day|Basket Case
+1994|25|Smashing Pumpkins|Today
+1994|26|Youssou N'dour & Neneh Cherry|7 Seconds
+1994|27|Live|I Alone
+1994|28|Hole|Doll Parts
+1994|29|Beck|Beercan
+1994|30|Kylie Minogue|Confide in Me
+1994|31|Single Gun Theory|Fall
+1994|32|Mazzy Star|Fade into You
+1994|33|Liz Phair|Supernova
+1994|34|Hole|Miss World
+1994|35|Tori Amos|Cornflake Girl
+1994|36|Pearl Jam|Spin the Black Circle
+1994|37|The Prodigy|Voodoo People
+1994|38|Rebecca's Empire|Atomic Electric
+1994|39|Dave Pike Set|Mathar
+1994|40|Weezer|Undone - The Sweater Song
+1994|41|Kristin Hersh|Your Ghost
+1994|42|Pet Shop Boys|Absolutely Fabulous
+1994|43|Christine Anu|Monkey & The Turtle
+1994|44|The Grid|Swamp Thing
+1994|45|Beck|Loser
+1994|46|Soundgarden|My Wave
+1994|47|Counting Crows|Einstein on the Beach (For An Eggman)
+1994|48|Counting Crows|Mr. Jones
+1994|49|Falling Joys|Amen {Remix}
+1994|50|Tumbleweed|Daddy Long Legs
+1994|51|Soundgarden|Spoonman
+1994|52|Penny Flanagan|Lap It Up
+1994|53|Soundgarden|Fell on Black Days
+1994|54|Stone Temple Pilots|Vasoline
+1994|55|Ed Kuepper|La Di Doh
+1994|56|Frente!|Bizarre Love Triangle
+1994|57|The Cure|Burn
+1994|58|Pop Will Eat Itself|Everything's Cool
+1994|59|The Jesus and Mary Chain|Sometimes Always
+1994|60|Pavement|Cut Your Hair
+1994|61|Gin Blossoms|Hey Jealousy
+1994|62|Pale|Lemon Sparked
+1994|63|Blur|Parklife
+1994|64|The Black Crowes|A Conspiracy
+1994|65|Sonic Youth|Bull in the Heather
+1994|66|Whale|Hobo Humpin Slobo Babe
+1994|67|L7|Andres
+1994|68|Dinosaur Jr.|Feel the Pain
+1994|69|Crash Test Dummies|Mmm Mmm Mmm Mmm
+1994|70|R.E.M.|What's The Frequency Kenneth?
+1994|71|Urge Overkill|Dropout
+1994|72|Lucas|Lucas With The Lid Off
+1994|73|The Sharp|Alone Like Me
+1994|74|Swoop|Neighbourhood Freak
+1994|75|PM Dawn|You Got Me Floatin'
+1994|76|Francis Dunnery|American Life in the Summertime
+1994|77|You Am I|Jaimme's Got A Gal
+1994|78|Cracker|Low
+1994|79|Dave Graney 'n' the Coral Snakes|I'm Gonna Release Your Soul
+1994|80|Alice in Chains|No Excuses
+1994|81|Sisters Underground|In The Neighbourhood
+1994|82|Neil Young|Piece Of Crap
+1994|83|Love Spit Love|Am I Wrong?
+1994|84|The Breeders|Saints
+1994|85|G Love & Special Sauce|Blues Music
+1994|86|Nick Cave & The Bad Seeds|Thirsty Dog
+1994|87|Morrissey|The More You Ignore Me, the Closer I Get
+1994|88|The Cure|Purple Haze
+1994|89|Warren G & Nate Dogg|Regulate
+1994|90|Smashing Pumpkins|Dancing in the Moonlight
+1994|91|Counting Crows|Round Here
+1994|92|Collective Soul|Shine
+1994|93|Things of Stone and Wood|Wildflowers
+1994|94|Page and Plant|Gallows Pole
+1994|95|Def FX|Masses Like Asses
+1994|96|Blur|Girls & Boys {Remix}
+1994|97|Ini Kamoze|Here Comes the Hotstepper
+1994|98|The Tea Party|A Certain Slant of Light
+1994|99|Angelique Kidjo|Agolo
+1994|100|Lisa Loeb & Nine Stories|Stay (I Missed You)
+1993|1|Denis Leary|Asshole
+1993|2|Radiohead|Creep
+1993|3|The Cranberries|Linger
+1993|4|Blind Melon|No Rain
+1993|5|The Breeders|Cannonball
+1993|6|Rage Against the Machine|Killing in the Name
+1993|7|U2|Lemon
+1993|8|Pearl Jam|Go
+1993|9|The Cruel Sea|The Honeymoon Is Over
+1993|10|Atomic Swing|Stone Me into the Groove
+1993|11|R.E.M.|Everybody Hurts
+1993|12|Stone Temple Pilots|Plush
+1993|13|Red Hot Chili Peppers|Soul to Squeeze
+1993|14|Violent Femmes|I Held Her in My Arms
+1993|15|Iggy Pop|Wild America
+1993|16|Urge Overkill|Sister Havana
+1993|17|Cypress Hill|Hits From the Bong
+1993|18|Pet Shop Boys|Go West
+1993|19|Neneh Cherry & Michael Stipe|Trout
+1993|20|Nirvana|Heart-Shaped Box
+1993|21|The Cruel Sea|Black Stick
+1993|22|Nick Cave & The Bad Seeds|The Ship Song
+1993|23|Bjork|Human Behaviour
+1993|24|4 Non Blondes|What's Up?
+1993|25|Belly|Feed the Tree
+1993|26|Efua|Somewhere
+1993|27|Tool|Sober
+1993|28|Lenny Kravitz|Are You Gonna Go My Way
+1993|29|Ace of Base|All That She Wants
+1993|30|k.d. lang|Constant Craving
+1993|31|U2|Numb
+1993|32|Paw|Jessie
+1993|33|Porno for Pyros|Pets
+1993|34|US3|Cantaloop
+1993|35|Salt-N-Pepa|Shoop
+1993|36|Hoodoo Gurus|The Right Time
+1993|37|Juliana Hatfield|My Sister
+1993|38|Dinosaur Jr.|Get Me
+1993|39|The Cure|Friday I'm in Love
+1993|40|Ween|Push th' Little Daisies
+1993|41|Yothu Yindi|World Turning
+1993|42|Gabrielle|Dreams
+1993|43|The Smashing Pumpkins|Cherub Rock
+1993|44|Headless Chickens|Juice
+1993|45|Dinosaur Jr.|Start Choppin
+1993|46|King Missile|Detachable Penis
+1993|47|Chaka Demus & Pliers|Tease Me
+1993|48|Dave Graney 'n' the Coral Snakes|Night of the Wolverine
+1993|49|Living Colour|Bi
+1993|50|You Am I|Adam's Ribs
+1993|51|Alice in Chains|Would?
+1993|52|Soul Asylum|Runaway Train
+1993|53|Buffalo Tom|Taillights Fade
+1993|54|Hunters and Collectors|Holy Grail
+1993|55|Deborah Conway|Alive and Brilliant
+1993|56|Pet Shop Boys|Can You Forgive Her?
+1993|57|Headless Chickens|Choppers
+1993|58|King Missile|Jesus Was Way Cool
+1993|59|Dave Graney 'n' the Coral Snakes|You're Just too Hip Baby
+1993|60|Crowded House|Distant Sun
+1993|61|Christine Anu & Paul Kelly|Last Train
+1993|62|Faith No More|Easy
+1993|63|The Sharp|Scratch My Back
+1993|64|Screaming Trees|Nearly Lost You
+1993|65|New Order|Regret
+1993|66|Utah Saints|Something Good
+1993|67|Apache Indian|Boom Shack-A-Lak
+1993|68|Culture Beat|Mr Vain
+1993|69|Suede|Animal Nitrate
+1993|70|Ed Kuepper|Sleepy Head
+1993|71|Living Colour|Nothingness {Remix}
+1993|72|Barefoot|Baby
+1993|73|Arrested Development|Mr. Wendal
+1993|74|Sub Sub|Ain't No Love (Ain't No Use)
+1993|75|Suede|The Drowners
+1993|76|Caligula|Before
+1993|77|The Badloves|Lost
+1993|78|East 17|Deep
+1993|79|The Lemonheads|Mrs. Robinson
+1993|80|Alice in Chains|Rooster
+1993|81|Cypress Hill|Insane in the Brain
+1993|82|The Badloves|Green Limousine
+1993|83|Underground Lovers|Your Eyes {Remix}
+1993|84|Rage Against the Machine|Bullet in the Head
+1993|85|Green Jelly|Three Little Pigs
+1993|86|New Order|World (The Price of Love)
+1993|87|Swoop|Do It
+1993|88|Grant Lee Buffalo|Dixie Drug Store
+1993|89|Mixed Relations|Aboriginal Woman
+1993|90|Blur|For Tomorrow
+1993|91|Things of Stone and Wood|Happy Birthday Helen
+1993|92|Depeche Mode|I Feel You
+1993|93|R.E.M.|Man on the Moon
+1993|94|Inner Circle|Sweat (A La La La La Long)
+1993|95|The Cruel Sea|Delivery Man
+1993|96|10,000 Maniacs|Candy Everybody Wants
+1993|97|Kate Bush|Rubberband Girl
+1993|98|Kev Carmody|Freedom
+1993|99|The Shamen|Ebeneezer Goode
+1993|100|Van Morrison & John Lee Hooker|Gloria
+All-time '91|1|Nirvana|Smells Like Teen Spirit
+All-time '91|2|Joy Division|Love Will Tear Us Apart
+All-time '91|3|Nirvana|Lithium
+All-time '91|4|Hunters & Collectors|Throw Your Arms Around Me
+All-time '91|5|Andy Prieboy|Tomorrow Wendy
+All-time '91|6|The Smiths|How Soon Is Now?
+All-time '91|7|The Stone Roses|Fools Gold
+All-time '91|8|The Cure|A Forest
+All-time '91|9|Violent Femmes|Blister In The Sun
+All-time '91|10|New Order|Blue Monday
+All-time '91|11|The Cure|Just Like Heaven
+All-time '91|12|R.E.M.|It's The End Of The World
+All-time '91|13|The The|Uncertain Smile
+All-time '91|14|Nick Cave & The Bad Seeds|The Ship Song
+All-time '91|15|Jane's Addiction|Been Caught Stealing
+All-time '91|16|The Cult|She Sells Sanctuary
+All-time '91|17|Jane's Addiction|Jane Says
+All-time '91|18|Violent Femmes|Add It Up
+All-time '91|19|Kate Bush|Wuthering Heights
+All-time '91|20|Falling Joys|Lock It
+All-time '91|21|Violent Femmes|Kiss Off
+All-time '91|22|Billy Bragg|Sexuality
+All-time '91|23|The Jam|That's Entertainment
+All-time '91|24|New Order|Bizarre Love Triangle
+All-time '91|25|Sex Pistols|Anarchy in the U.K.
+All-time '91|26|Dead Kennedys|Holiday in Cambodia
+All-time '91|27|Guns N' Roses|Sweet Child o' Mine
+All-time '91|28|Pixies|Debaser
+All-time '91|29|The Smiths|This Charming Man
+All-time '91|30|Led Zeppelin|Stairway to Heaven
+All-time '91|31|The Church|Under the Milky Way
+All-time '91|32|R.E.M.|Losing My Religion
+All-time '91|33|Clouds|Hieronymus
+All-time '91|34|Died Pretty|DC
+All-time '91|35|The Cure|Primary
+All-time '91|36|The Smiths|There Is a Light That Never Goes Out
+All-time '91|37|The Cure|Close to Me
+All-time '91|38|Boys Next Door|Shivers
+All-time '91|39|Red Hot Chili Peppers|Give It Away
+All-time '91|40|R.E.M.|The One I Love
+All-time '91|41|Ratcat|That Ain't Bad
+All-time '91|42|Sinead O'Connor|Troy
+All-time '91|43|The Cure|Boys Don't Cry
+All-time '91|44|The Cure|Lullaby
+All-time '91|45|Hunters & Collectors|Talking to a Stranger
+All-time '91|46|They Might Be Giants|Birdhouse in Your Soul
+All-time '91|47|Radio Birdman|Aloha Steve and Danno
+All-time '91|48|The Cure|In Between Days
+All-time '91|49|Queen|Bohemian Rhapsody
+All-time '91|50|This Mortal Coil|Song to the Siren
+All-time '91|51|Tall Tales and True|Trust
+All-time '91|52|The Triffids|Wide Open Road
+All-time '91|53|Hunters & Collectors|The Slab
+All-time '91|54|Soft Cell|Tainted Love
+All-time '91|55|New Order|True Faith
+All-time '91|56|Sonic Youth|Kool Thing
+All-time '91|57|Billy Bragg|Waiting for the Great Leap Forward
+All-time '91|58|Pink Floyd|Wish You Were Here
+All-time '91|59|The Doors|The End
+All-time '91|60|Metallica|Enter Sandman
+All-time '91|61|The Jimi Hendrix Experience|All Along the Watchtower
+All-time '91|62|R.E.M.|Orange Crush
+All-time '91|63|Metallica|The Unforgiven
+All-time '91|64|Massive Attack|Unfinished Sympathy
+All-time '91|65|R.E.M.|Fall On Me
+All-time '91|66|Straitjacket Fits|Down in Splendour
+All-time '91|67|Clouds|4 PM
+All-time '91|68|The Cure|Pictures of You
+All-time '91|69|Frente!|Labour of Love
+All-time '91|70|The Church|The Unguarded Moment
+All-time '91|71|Ned's Atomic Dustbin|Grey Cell Green
+All-time '91|72|The Smiths|Bigmouth Strikes Again
+All-time '91|73|Pink Floyd|Comfortably Numb
+All-time '91|74|The Cure|The Lovecats
+All-time '91|75|Billy Bragg|Levi Stubbs Tears
+All-time '91|76|Nirvana|Come As You Are
+All-time '91|77|The B-52's|Rock Lobster
+All-time '91|78|The Doors|L.A Woman
+All-time '91|79|Dinosaur Jr|Freak Scene
+All-time '91|80|Def FX|Surfers of the Mind
+All-time '91|81|The Stone Roses|She Bangs The Drums
+All-time '91|82|Ride|Vapour Trail
+All-time '91|83|Yothu Yindi|Treaty
+All-time '91|84|The Only Ones|Another Girl, Another Planet
+All-time '91|85|Dramarama|Anything, Anything (I'll Give You)
+All-time '91|86|The Wonder Stuff|The Size of a Cow
+All-time '91|87|The Rolling Stones|Sympathy for the Devil
+All-time '91|88|Nick Cave & The Bad Seeds|Mercy Seat
+All-time '91|89|Metallica|One
+All-time '91|90|My Bloody Valentine|Soon
+All-time '91|91|Pixies|Monkey Gone to Heaven
+All-time '91|92|Public Enemy|Bring the Noise
+All-time '91|93|XTC|Dear God
+All-time '91|94|Pixies|Wave Of Mutilation
+All-time '91|95|Jesus Jones|Info Freako
+All-time '91|96|The Go-Betweens|Cattle and Cane
+All-time '91|97|The Clash|London Calling
+All-time '91|98|U2|Bad
+All-time '91|99|Nick Cave & The Bad Seeds|Deanna
+All-time '91|100|Prince|Cream
+All-time '90|1|Joy Division|Love Will Tear Us Apart
+All-time '90|2|Hunters & Collectors|Throw Your Arms Around Me
+All-time '90|3|The Smiths|How Soon Is Now?
+All-time '90|4|The The|Uncertain Smile
+All-time '90|5|New Order|Blue Monday
+All-time '90|6|The Stone Roses|Fool's Gold
+All-time '90|7|The Smiths|This Charming Man
+All-time '90|8|The B-52's|Rock Lobster
+All-time '90|9|R.E.M.|It's The End Of The World
+All-time '90|10|The Jam|That's Entertainment
+All-time '90|11|The Cure|A Forest
+All-time '90|12|Dead Kennedys|Holiday in Cambodia
+All-time '90|13|Sinead O'Connor|Troy
+All-time '90|14|The Church|Under the Milky Way
+All-time '90|15|Boys Next Door|Shivers
+All-time '90|16|The Sugarcubes|Birthday
+All-time '90|17|Kate Bush|Wuthering Heights
+All-time '90|18|Pixies|Debaser
+All-time '90|19|The Cure|Primary
+All-time '90|20|Sex Pistols|Anarchy in the U.K.
+All-time '90|21|New Order|Bizarre Love Triangle
+All-time '90|22|The Cult|She Sells Sanctuary
+All-time '90|23|The Cure|Boys Don't Cry
+All-time '90|24|Black Box|Ride On Time
+All-time '90|25|The Cure|Just Like Heaven
+All-time '90|26|Hunters & Collectors|The Slab
+All-time '90|27|The Go-Betweens|Cattle And Cane
+All-time '90|28|The Clash|London Calling
+All-time '90|29|Public Enemy|Fight the Power
+All-time '90|30|The Only Ones|Another Girl, Another Planet
+All-time '90|31|This Mortal Coil|Song to the Siren
+All-time '90|32|Hunters & Collectors|Talking to a Stranger
+All-time '90|33|N.W.A.|Fuck tha Police
+All-time '90|34|Pixies|Monkey Gone to Heaven
+All-time '90|35|Pink Floyd|Wish You Were Here
+All-time '90|36|Neneh Cherry|Buffalo Stance
+All-time '90|37|Prince|Sign 'O' the Times
+All-time '90|38|Soft Cell|Tainted Love
+All-time '90|39|Prince|Kiss
+All-time '90|40|Soul II Soul|Back to Life (However Do You Want Me)
+All-time '90|41|Violent Femmes|Blister In The Sun
+All-time '90|42|Aretha Franklin|Respect
+All-time '90|43|The Cure|Lullaby
+All-time '90|44|The Smiths|There Is a Light That Never Goes Out
+All-time '90|45|Jesus Jones|Info Freako
+All-time '90|46|R.E.M.|The One I Love
+All-time '90|47|Died Pretty|Everybody Moves
+All-time '90|48|ABBA|Dancing Queen
+All-time '90|49|The Triffids|Wide Open Road
+All-time '90|50|David Bowie|Heroes
+All-time '90|51|The Stone Roses|She Bangs The Drums
+All-time '90|52|The Doors|The End
+All-time '90|53|The Smiths|Bigmouth Strikes Again
+All-time '90|54|Radio Birdman|Aloha Steve and Danno
+All-time '90|55|Pixies|Here Comes Your Man
+All-time '90|56|The Sundays|Can't Be Sure
+All-time '90|57|The Church|The Unguarded Moment
+All-time '90|58|Billy Bragg|Waiting for the Great Leap Forwards
+All-time '90|59|Billy Bragg|Greetings to the New Brunette
+All-time '90|60|Nick Cave & The Bad Seeds|Deanna
+All-time '90|61|Led Zeppelin|Stairway to Heaven
+All-time '90|62|The Doors|L.A. Woman
+All-time '90|63|Elvis Costello|Alison
+All-time '90|64|Simple Minds|Love Song
+All-time '90|65|New Order|Temptation
+All-time '90|66|John Lennon|Imagine
+All-time '90|67|The Cure|The Lovecats
+All-time '90|68|New Order|True Faith
+All-time '90|69|Sinead O'Connor|Nothing Compares 2 U
+All-time '90|70|Pop Will Eat Itself|Wise Up! Sucker
+All-time '90|71|Hunters & Collectors|Say Goodbye
+All-time '90|72|The Cure|In Between Days
+All-time '90|73|Elvis Costello|I Want You
+All-time '90|74|Dinosaur Jr|Freak Scene
+All-time '90|75|Sakamoto And Sylvian|Forbidden Colours
+All-time '90|76|Concrete Blonde|God Is a Bullet
+All-time '90|77|The Rolling Stones|Sympathy for the Devil
+All-time '90|78|R.E.M.|Fall On Me
+All-time '90|79|Talking Heads|Once In A Lifetime
+All-time '90|80|Madonna|Into the Groove
+All-time '90|81|Double Trouble And Rebel MC|Street Tuff
+All-time '90|82|Billy Bragg|Levi Stubbs Tears
+All-time '90|83|The Jimi Hendrix Experience|All Along the Watchtower
+All-time '90|84|Joy Division|Atmosphere
+All-time '90|85|The Go-Betweens|Bye Bye Pride
+All-time '90|86|Laughing Clowns|Eternally Yours
+All-time '90|87|Violent Femmes|Add It Up
+All-time '90|88|The B-52's|Love Shack
+All-time '90|89|Sonic Youth|Teen Age Riot
+All-time '90|90|Marvin Gaye|Sexual Healing
+All-time '90|91|De La Soul|Say No Go
+All-time '90|92|The Church|Reptile
+All-time '90|93|Tall Tales And True|Trust
+All-time '90|94|The The|This Is the Day
+All-time '90|95|Pink Floyd|Comfortably Numb
+All-time '90|96|Concrete Blonde|Happy Birthday
+All-time '90|97|The B-52's|Roam
+All-time '90|98|Lou Reed|Walk On The Wild Side
+All-time '90|99|R.E.M.|Orange Crush
+All-time '90|100|Depeche Mode|Just Can't Get Enough
+All-time '89|1|Joy Division|Love Will Tear Us Apart
+All-time '89|2|Hunters & Collectors|Throw Your Arms Around Me
+All-time '89|3|The The|Uncertain Smile
+All-time '89|4|The Jam|That's Entertainment
+All-time '89|5|New Order|Blue Monday
+All-time '89|6|Dead Kennedys|Holiday in Cambodia
+All-time '89|7|The Smiths|How Soon Is Now?
+All-time '89|8|Hunters & Collectors|Talking To A Stranger
+All-time '89|9|The Sugarcubes|Birthday
+All-time '89|10|The Cure|A Forest
+All-time '89|11|The Go-Betweens|Cattle And Cane
+All-time '89|12|Boys Next Door|Shivers
+All-time '89|13|The Smiths|This Charming Man
+All-time '89|14|The B-52's|Rock Lobster
+All-time '89|15|This Mortal Coil|Song To The Siren
+All-time '89|16|Elvis Costello|Alison
+All-time '89|17|Sex Pistols|Anarchy in the U.K.
+All-time '89|18|The Clash|London Calling
+All-time '89|19|The Cure|Primary
+All-time '89|20|Billy Bragg|Waiting For The Great Leap Forwards
+All-time '89|21|Aretha Franklin|Respect
+All-time '89|22|R.E.M.|It's The End Of The World As We Know It
+All-time '89|23|Radio Birdman|Aloha Steve And Danno
+All-time '89|24|Art Of Noise and Tom Jones|Kiss
+All-time '89|25|Machinations|Average Inadequacy
+All-time '89|26|The Only Ones|Another Girl, Another Planet
+All-time '89|27|The Smiths|Bigmouth Strikes Again
+All-time '89|28|The Saints|Know Your Product
+All-time '89|29|The Cure|Boys Don't Cry
+All-time '89|30|Led Zeppelin|Stairway to Heaven
+All-time '89|31|John Lennon|Imagine
+All-time '89|32|Talking Heads|Psycho Killer
+All-time '89|33|Pink Floyd|Wish You Were Here
+All-time '89|34|Prince|Kiss
+All-time '89|35|The Cult|She Sells Sanctuary
+All-time '89|36|Simple Minds|Love Song
+All-time '89|37|Prince|Sign 'O' the Times
+All-time '89|38|Billy Bragg|Greetings To The New Brunette
+All-time '89|39|David Bowie|Heroes
+All-time '89|40|The Doors|L.A. Woman
+All-time '89|41|Sinead O'Connor|Troy
+All-time '89|42|The Church|The Unguarded Moment
+All-time '89|43|Kate Bush|Wuthering Heights
+All-time '89|44|The Damned|Smash It Up
+All-time '89|45|R.E.M.|The One I Love
+All-time '89|46|Violent Femmes|Blister In The Sun
+All-time '89|47|Iggy Pop|Lust For Life
+All-time '89|48|Enya|Orinoco Flow
+All-time '89|49|The Jimi Hendrix Experience|All Along the Watchtower
+All-time '89|50|The Doors|The End
+All-time '89|51|The Saints|(I'm) Stranded
+All-time '89|52|Womack & Womack|Teardrops
+All-time '89|53|Sex Pistols|God Save the Queen
+All-time '89|54|Echo & The Bunnymen|The Cutter
+All-time '89|55|Television|Marquee Moon
+All-time '89|56|The Sunnyboys|Alone With You
+All-time '89|57|Midnight Oil|Wedding Cake Island
+All-time '89|58|Elvis Costello|I Want You
+All-time '89|59|Art Of Noise|Moments In Love
+All-time '89|60|Sakamoto And Sylvian|Forbidden Colours
+All-time '89|61|Neneh Cherry|Buffalo Stance
+All-time '89|62|Marvin Gaye|Sexual Healing
+All-time '89|63|The Rolling Stones|Sympathy for the Devil
+All-time '89|64|The Smiths|There Is a Light That Never Goes Out
+All-time '89|65|Sex Pistols|Pretty Vacant
+All-time '89|66|The Cure|Close To Me
+All-time '89|67|New Order|Bizarre Love Triangle
+All-time '89|68|The Triffids|Wide Open Road
+All-time '89|69|The Beatles|A Day in the Life
+All-time '89|70|Nick Cave & The Bad Seeds|Deanna
+All-time '89|71|Elvis Costello|Pump It Up
+All-time '89|72|The Go-Betweens|Bachelor Kisses
+All-time '89|73|Elvis Costello|Watching The Detectives
+All-time '89|74|Propaganda|Duel
+All-time '89|75|The Jam|Going Underground
+All-time '89|76|Derek And The Dominos|Layla
+All-time '89|77|Lou Reed|Walk On The Wild Side
+All-time '89|78|The Saints|Ghost Ships
+All-time '89|79|Warumpi Band|My Island Home
+All-time '89|80|Cocteau Twins|Blue Bell Knoll
+All-time '89|81|XTC|Making Plans For Nigel
+All-time '89|82|The Stranglers|Golden Brown
+All-time '89|83|Hunters & Collectors|The Slab
+All-time '89|84|Talking Heads|Burning Down The House
+All-time '89|85|Grandmaster Flash|The Message
+All-time '89|86|The Doors|Riders On The Storm
+All-time '89|87|The Jam|Down in the Tube Station at Midnight
+All-time '89|88|Midnight Oil|Power And The Passion
+All-time '89|89|The Go-Betweens|Bye Bye Pride
+All-time '89|90|Daddy Cool|Eagle Rock
+All-time '89|91|Elvis Presley|Suspicious Minds
+All-time '89|92|Aretha Franklin|I Say A Little Prayer
+All-time '89|93|Lime Spiders|Slave Girl
+All-time '89|94|Blondie|Heart of Glass
+All-time '89|95|Cold Chisel|Khe Sanh
+All-time '89|96|Laurie Anderson|O Superman
+All-time '89|97|Hunters & Collectors|Say Goodbye
+All-time '89|98|Do-Re-Mi|Man Overboard
+All-time '89|99|Outline|Cicada That Ate Five Dock
+All-time '89|100|Nick Cave & The Bad Seeds|The Mercy Seat
+poll|position|artist|track

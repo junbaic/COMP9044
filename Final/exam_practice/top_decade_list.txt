@@ -1,0 +1,282 @@
+poll|position|artist|track
+Of The Decade '20|1|Tame Impala|The Less I Know The Better
+Of The Decade '20|2|Gotye|Somebody That I Used To Know {Ft. Kimbra}
+Of The Decade '20|3|Arctic Monkeys|Do I Wanna Know?
+Of The Decade '20|4|Violent Soho|Covered In Chrome
+Of The Decade '20|5|RÜFÜS DU SOL|Innerbloom
+Of The Decade '20|6|Gang of Youths|Magnolia
+Of The Decade '20|7|Foster The People|Pumped Up Kicks
+Of The Decade '20|8|Flume|Never Be Like You {Ft. Kai}
+Of The Decade '20|9|Angus & Julia Stone|Big Jet Plane
+Of The Decade '20|10|Matt Corby|Brother
+Of The Decade '20|11|Nick Murphy / Chet Faker|Talk Is Cheap
+Of The Decade '20|12|alt-J|Breezeblocks
+Of The Decade '20|13|Vance Joy|Riptide
+Of The Decade '20|14|Kanye West|Runaway {ft. Pusha T}
+Of The Decade '20|15|Sticky Fingers|Australia Street
+Of The Decade '20|16|Lorde|Royals
+Of The Decade '20|17|Ball Park Music|It's Nice To Be Alive
+Of The Decade '20|18|Flume|Holdin On
+Of The Decade '20|19|Gang of Youths|Let Me Down Easy
+Of The Decade '20|20|Hilltop Hoods|Cosby Sweater
+2020|1|Glass Animals|Heat Waves
+2020|2|Spacey Jane|Booster Seat
+2020|3|Flume|The Difference [Ft. Toro y Moi]
+2020|4|Ball Park Music|Cherub
+2020|5|Tame Impala|Lost In Yesterday
+2020|6|Cardi B|WAP [Ft. Megan Thee Stallion]
+2020|7|G Flip|Hyperfine
+2020|8|The Jungle Giants|Sending Me Ur Loving
+2020|9|Hilltop Hoods|I'm Good?
+2020|10|Billie Eilish|Therefore I Am
+2020|11|Lime Cordiale|On Our Own
+2020|12|Mashd N Kutcher|Get On The Beers [Ft. Dan Andrews]
+2020|13|Mallrat|Rockstar
+2020|14|Ocean Alley|Tombstone
+2020|15|Spacey Jane|Skin
+2020|16|Lime Cordiale|Screw Loose
+2020|17|Tame Impala|Is It True
+2020|18|Glass Animals|Tangerine
+2020|19|Halsey|you should be sad
+2020|20|Lime Cordiale|Addicted To The Sunshine
+2019|1|Billie Eilish|bad guy
+2019|2|Flume|Rushing Back {Ft. Vera Blue}
+2019|3|Mallrat|Charlie
+2019|4|Tones and I|Dance Monkey
+2019|5|Denzel Curry|Bulls On Parade {triple j Like A Version 2019}
+2019|6|G Flip|Drink Too Much
+2019|7|Lime Cordiale|Robbery
+2019|8|The Jungle Giants|Heavy Hearted
+2019|9|Thelma Plum|Better In Blak
+2019|10|Hilltop Hoods|Exit Sign {Ft. Illy/Ecca Vandal}
+2019|11|Post Malone|Circles
+2019|12|FIDLAR|By Myself
+2019|13|Lime Cordiale|Inappropriate Behaviour
+2019|14|Sofi Tukker|Purple Hat
+2019|15|Tones and I|Never Seen The Rain
+2019|16|Billie Eilish|everything i wanted
+2019|17|Lime Cordiale|I Touch Myself {triple j Like A Version 2019}
+2019|18|Tame Impala|Borderline
+2019|19|BENEE|Glitter
+2019|20|DMA'S|Silver
+2018|1|Ocean Alley|Confidence
+2018|2|FISHER|Losing It
+2018|3|Travis Scott|SICKO MODE
+2018|4|Childish Gambino|This Is America
+2018|5|Amy Shark|I Said Hi
+2018|6|Dean Lewis|Be Alright
+2018|7|Mallrat|Groceries
+2018|8|Billie Eilish|when the party's over
+2018|9|Ruby Fields|Dinosaurs
+2018|10|Ocean Alley|Knees
+2018|11|Skegss|Up In The Clouds
+2018|12|The Wombats|Turn
+2018|13|A$AP Rocky|Praise The Lord (Da Shine) {Ft. Skepta}
+2018|14|Wafia|I'm Good
+2018|15|Hayden James|Just Friends {Ft. Boy Matthews}
+2018|16|Ocean Alley|Baby Come Back {triple j Like A Version 2018}
+2018|17|Billie Eilish|lovely {with Khalid}
+2018|18|Hockey Dad|Join The Club
+2018|19|Broods|Peach
+2018|20|KIAN|Waiting
+2017|1|Kendrick Lamar|HUMBLE.
+2017|2|Gang Of Youths|Let Me Down Easy
+2017|3|Angus & Julia Stone|Chateau
+2017|4|Methyl Ethel|Ubu
+2017|5|Gang Of Youths|The Deepest Sighs, The Frankest Shadows
+2017|6|Lorde|Green Light
+2017|7|PNAU|Go Bang
+2017|8|Thundamentals|Sally {Ft. Mataya}
+2017|9|Vance Joy|Lay It On Me
+2017|10|Gang Of Youths|What Can I Do If The Fire Goes Out?
+2017|11|BROCKHAMPTON|SWEET
+2017|12|Peking Duk & AlunaGeorge|Fake Magic
+2017|13|Khalid|Young Dumb & Broke
+2017|14|Lorde|Homemade Dynamite
+2017|15|Vera Blue|Regular Touch
+2017|16|The Jungle Giants|Feel The Way I Do
+2017|17|Baker Boy|Marryuna {Ft. Yirrmal}
+2017|18|Ball Park Music|Exactly How You Are
+2017|19|The Killers|The Man
+2017|20|Peking Duk|Let You Down {Ft. Icona Pop}
+2016|1|Flume|Never Be Like You {Ft. Kai}
+2016|2|Amy Shark|Adore
+2016|3|Tash Sultana|Jungle
+2016|4|Hilltop Hoods|1955 {Ft. Montaigne/Tom Thum}
+2016|5|Childish Gambino|Redbone
+2016|6|DMA'S|Believe {triple j Like A Version 2016}
+2016|7|Illy|Papercuts {Ft. Vera Blue}
+2016|8|Flume|Say It {Ft. Tove Lo}
+2016|9|Peking Duk|Stranger {Ft. Elliphant}
+2016|10|The Weeknd|Starboy {Ft. Daft Punk}
+2016|11|Pnau|Chameleon
+2016|12|Milky Chance|Cocoon
+2016|13|Mura Masa|Love$ick {Ft. A$AP Rocky}
+2016|14|Violent Soho|Viceroy
+2016|15|Miike Snow|Genghis Khan
+2016|16|A.B. Original|January 26 {Ft. Dan Sultan}
+2016|17|Big Scary|The Opposite Of Us
+2016|18|Chance The Rapper|All Night {Ft. Knox Fortune}
+2016|19|Catfish And The Bottlemen|7
+2016|20|The xx|On Hold
+2015|1|The Rubens|Hoops
+2015|2|Kendrick Lamar|King Kunta
+2015|3|Major Lazer|Lean On {Ft. M¯/DJ Snake}
+2015|4|Tame Impala|The Less I Know The Better
+2015|5|Tame Impala|Let It Happen
+2015|6|Marcus Marr & Chet Faker|The Trouble With Us
+2015|7|Jarryd James|Do You Remember
+2015|8|Hermitude|The Buzz {Ft. Mataya/Young Tapz}
+2015|9|The Weeknd|Can't Feel My Face
+2015|10|Disclosure|Magnets {Ft. Lorde}
+2015|11|Meg Mac|Never Be
+2015|12|RÜFÜS|You Were Right
+2015|13|Duke Dumont|Ocean Drive
+2015|14|Drake|Hotline Bling
+2015|15|Violent Soho|Like Soda
+2015|16|Vance Joy|Fire And The Flood
+2015|17|DJ Snake|Middle {Ft. Bipolar Sunshine}
+2015|18|Macklemore & Ryan Lewis|DOWNTOWN {Ft. Eric Nally/Melle Mel/Kool Moe Dee/Grandmaster Caz}
+2015|19|The Weeknd|The Hills
+2015|20|Foals|Mountain At My Gates
+2014|1|Chet Faker|Talk Is Cheap
+2014|2|Peking Duk|High {Ft. Nicole Millar}
+2014|3|Hilltop Hoods|Cosby Sweater
+2014|4|Milky Chance|Stolen Dance
+2014|5|Peking Duk|Take Me Over {Ft. SAFIA}
+2014|6|Mark Ronson|Uptown Funk {Ft. Bruno Mars}
+2014|7|Chet Faker|Gold
+2014|8|Chet Faker|1998
+2014|9|Sia|Chandelier
+2014|10|Asgeir|King And Cross
+2014|11|ZHU|Faded
+2014|12|Glass Animals|Gooey
+2014|13|Vance Joy|Mess Is Mine
+2014|14|alt-J|Every Other Freckle
+2014|15|The Kite String Tangle|Arcadia
+2014|16|alt-J|Left Hand Free
+2014|17|Illy|Tightrope {Ft. Scarlett Stevens}
+2014|18|Lorde|Yellow Flicker Beat
+2014|19|Ball Park Music|She Only Loves Me When I'm There
+2014|20|Sticky Fingers|Gold Snafu
+Twenty Years '13|1|Oasis|Wonderwall
+Twenty Years '13|2|The White Stripes|Seven Nation Army
+Twenty Years '13|3|Jeff Buckley|Last Goodbye
+Twenty Years '13|4|Hilltop Hoods|The Nosebleed Section
+Twenty Years '13|5|The Verve|Bitter Sweet Symphony
+Twenty Years '13|6|Foo Fighters|Everlong
+Twenty Years '13|7|The Killers|Mr. Brightside
+Twenty Years '13|8|Powderfinger|These Days
+Twenty Years '13|9|Gotye|Somebody That I Used to Know {ft. Kimbra}
+Twenty Years '13|10|Powderfinger|My Happiness
+Twenty Years '13|11|Queens of the Stone Age|No One Knows
+Twenty Years '13|12|Gotye|Hearts a Mess
+Twenty Years '13|13|Radiohead|Paranoid Android
+Twenty Years '13|14|Mumford & Sons|Little Lion Man
+Twenty Years '13|15|The Prodigy|Breathe
+Twenty Years '13|16|Bon Iver|Skinny Love
+Twenty Years '13|17|Silverchair|Tomorrow
+Twenty Years '13|18|OutKast|Hey Ya!
+Twenty Years '13|19|blink-182|Dammit
+Twenty Years '13|20|The Living End|Prisoner of Society
+2013|1|Vance Joy|Riptide
+2013|2|Lorde|Royals
+2013|3|Daft Punk|Get Lucky {Ft. Pharrell Williams & Nile Rodgers}
+2013|4|Arctic Monkeys|Do I Wanna Know?
+2013|5|Flume & Chet Faker|Drop The Game
+2013|6|Arctic Monkeys|Why'd You Only Call Me When You're High?
+2013|7|Lana Del Rey|Young And Beautiful
+2013|8|Matt Corby|Resolution
+2013|9|The Preatures|Is This How You Feel?
+2013|10|London Grammar|Strong
+2013|11|HAIM|The Wire
+2013|12|Lorde|Tennis Court
+2013|13|James Blake|Retrograde
+2013|14|Violent Soho|Covered In Chrome
+2013|15|Lorde|Team
+2013|16|Arcade Fire|Reflektor
+2013|17|Daft Punk|Lose Yourself To Dance {Ft. Pharrell Williams}
+2013|18|Arctic Monkeys|Arabella
+2013|19|The Kite String Tangle|Given The Chance
+2013|20|Kanye West|Black Skinhead
+2012|1|Macklemore & Ryan Lewis|Thrift Shop {ft. Wanz}
+2012|2|Of Monsters And Men|Little Talks
+2012|3|alt-J|Breezeblocks
+2012|4|Flume|Holdin On
+2012|5|Mumford & Sons|I Will Wait
+2012|6|Major Lazer|Get Free {ft. Amber Coffman}
+2012|7|Tame Impala|Elephant
+2012|8|Frank Ocean|Lost
+2012|9|Tame Impala|Feels Like We Only Go Backwards
+2012|10|The Rubens|My Gun
+2012|11|Calvin Harris|Sweet Nothing {ft. Florence Welch}
+2012|12|Flume|Sleepless {ft. Jezzabell Doran}
+2012|13|The Black Keys|Gold On The Ceiling
+2012|14|Icona Pop|I Love It {ft. Charli XCX}
+2012|15|Macklemore & Ryan Lewis|Same Love {ft. Mary Lambert}
+2012|16|Rudimental|Not Giving In {ft. John Newman & Alex Clare}
+2012|17|Flight Facilities|Clair De Lune {ft. Christine Hoberg}
+2012|18|Hermitude|HyperParadise {Flume Remix}
+2012|19|The xx|Angels
+2012|20|Rudimental|Feel The Love {ft. John Newman}
+Australian Albums '11|1|Powderfinger|Odyssey Number Five
+Australian Albums '11|2|Silverchair|Frogstomp
+Australian Albums '11|3|AC/DC|Back in Black
+Australian Albums '11|4|The Living End|The Living End
+Australian Albums '11|5|INXS|Kick
+Australian Albums '11|6|Powderfinger|Internationalist
+Australian Albums '11|7|The Presets|Apocalypso
+Australian Albums '11|8|Wolfmother|Wolfmother
+Australian Albums '11|9|The Avalanches|Since I Left You
+Australian Albums '11|10|Regurgitator|Unit
+Australian Albums '11|11|Gotye|Like Drawing Blood
+Australian Albums '11|12|Grinspoon|Guide to Better Living
+Australian Albums '11|13|Crowded House|Crowded House
+Australian Albums '11|14|Powderfinger|Vulture Street
+Australian Albums '11|15|Jebediah|Slightly Odway
+Australian Albums '11|16|Hilltop Hoods|The Hard Road
+Australian Albums '11|17|The Whitlams|Eternal Nightcap
+Australian Albums '11|18|Crowded House|Woodface
+Australian Albums '11|19|Tame Impala|Innerspeaker
+Australian Albums '11|20|The Temper Trap|Conditions
+2011|1|Gotye|Somebody That I Used to Know {ft. Kimbra}
+2011|2|The Black Keys|Lonely Boy
+2011|3|Matt Corby|Brother
+2011|4|Boy & Bear|Feeding Line
+2011|5|M83|Midnight City
+2011|6|Lana Del Rey|Video Games
+2011|7|San Cisco|Awkward
+2011|8|360|Boys Like You {ft. Gossling}
+2011|9|The Jezabels|Endless Summer
+2011|10|Hilltop Hoods|I Love It {ft. Sia}
+2011|11|Calvin Harris|Feel So Close
+2011|12|Architecture in Helsinki|Contact High
+2011|13|Florence and the Machine|Shake It Out
+2011|14|Foster the People|Call It What You Want
+2011|15|Foster the People|Helena Beat
+2011|16|Grouplove|Tongue Tied
+2011|17|Seeker Lover Keeper|Even Though I'm a Woman
+2011|18|The Wombats|Jump into the Fog
+2011|19|Nero|Promises
+2011|20|Bluejuice|Act Yr Age
+2010|1|Angus & Julia Stone|Big Jet Plane
+2010|2|Little Red|Rock It
+2010|3|Ou Est Le Swimming Pool|Dance the Way I Feel
+2010|4|Birds of Tokyo|Plans
+2010|5|Boy & Bear|Fall at Your Feet
+2010|6|Adrian Lux|Teenage Crime
+2010|7|Cee-Lo Green|Fuck You!
+2010|8|The Wombats|Tokyo (Vampires & Wolves)
+2010|9|Art vs Science|Magic Fountain
+2010|10|Mark Ronson & The Business Intl.|Somebody to Love Me {ft. Boy George & Andrew Wyatt}
+2010|11|Pendulum|ABC News Theme Remix
+2010|12|Drapht|Rapunzel
+2010|13|Sia|Clap Your Hands
+2010|14|Kanye West|Runaway {ft. Pusha T}
+2010|15|Duck Sauce|Barbra Streisand
+2010|16|The Jezabels|Mace Spray
+2010|17|Mark Ronson & The Business Intl.|Bang Bang Bang {ft. Q-Tip & MNDR}
+2010|18|Cloud Control|There's Nothing in the Water We Can't Fight
+2010|19|Flight Facilities|Crave You {ft. Giselle}
+2010|20|Washington|Sunday Best
+poll|position|artist|track

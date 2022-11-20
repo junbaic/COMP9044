@@ -1,0 +1,41 @@
+#!/bin/dash
+
+
+# check .tigger is exist
+if test ! -d ".tigger"
+then
+    echo "$0: error: tigger repository directory .tigger not found"
+    exit 1
+fi
+
+strings=$1
+match=$(echo "$strings"|grep -E '^[0-9]*:.*$')
+if test "$match" = ""
+then
+    echo "$0: error: invalid object $strings"
+fi
+
+commit=$(echo "$strings"|cut -d":" -f1)
+repo_filename=$(echo "$strings" |cut -d":" -f2)
+
+if test "$commit" = ""
+then
+    if test ! -e ".tigger/index/$repo_filename"
+    then
+        echo "$0: error: '$repo_filename' not found in index"
+    else
+        cat ".tigger/index/$repo_filename"
+    fi
+else
+    if test ! -e ".tigger/repository/$commit"
+    then
+        echo "$0: error: unknown commit '$commit'"
+    else
+        if test ! -e ".tigger/repository/$commit/$repo_filename"
+        then 
+            echo "$0: error: '$repo_filename' not found in commit $commit"
+        else
+            cat ".tigger/repository/$commit/$repo_filename"
+        fi
+    fi
+fi

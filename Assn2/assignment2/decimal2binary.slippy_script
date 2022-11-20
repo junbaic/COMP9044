@@ -1,0 +1,57 @@
+# first convert base 10 number n
+# unary number using 'u's
+# e.g. 15 will become uuuuuuuuuuuuuuu
+
+: start
+/^[^0-9]/b convert_unary_to_binary
+# multiple unary number by 10
+s/u/uuuuuuuuuu/g
+t next
+: next
+s/^0//
+t start
+s/^1(.*)/\1u/
+t start
+s/^2(.*)/\1uu/
+t start
+s/^3(.*)/\1uuu/
+t start
+s/^4(.*)/\1uuuu/
+t start
+s/^5(.*)/\1uuuuu/
+t start
+s/^6(.*)/\1uuuuuu/
+t start
+s/^7(.*)/\1uuuuuuu/
+t start
+s/^8(.*)/\1uuuuuuuu/
+t start
+s/^9(.*)/\1uuuuuuuuu/
+t start
+
+# given unary number using 'u's
+# convert to binary
+# e.g. uuuuuuuuuuuuuuu will become 1111
+
+: convert_unary_to_binary
+
+# insert marker
+s/$/#/
+
+: loop
+
+/^(uu)*#/b even
+
+# odd
+s/u#/#1/
+b divide_by_2
+
+: even
+s/#/#0/
+
+: divide_by_2
+s/uu/u/g
+/u/b loop
+
+# remove marker
+s/#//

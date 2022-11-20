@@ -1,0 +1,30 @@
+This file is automarked.
+
+Do not add extra lines to this file, just add your answers.
+
+For example if your answer to Q0 is: "grep -E Andrew words.txt"
+Change the line that starts with
+    "Q0 answer:"
+to
+    "Q0 answer: grep -E Andrew words.txt"
+------------------------------------------------------------------------------------------------------------------------
+
+
+1) Write a sed command to change all the functions from V1 to V2.
+Q1 answer:sed -e "s/sort_V1/sort_V2/g" program.c
+
+
+2) Write a sed command to remove all single line comments starting with TODO or FIXME.
+Q2 answer:sed -e 's/\/\/ TODO.*//g' program.c|sed -e 's/\/\/ FIXME.*//g'
+
+
+3) Write a sed command to print all lines starting with extern.
+Q3 answer:sed -n -e "/extern/p" program.c 
+
+
+4) Write a sed command to replace all include statements using "" with <>.
+Q4 answer:sed -e "s/include \"/include \</" program.c | sed -e "s/.h\"/.h\>/"
+
+
+5) Write a sed command to remove the main method.
+Q5 answer:sed -e "/^int main(void) {/,/}$/{//!d}" program.c|sed -e "/int main{void} {/,+1d" 

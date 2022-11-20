@@ -1,0 +1,10 @@
+#!/bin/dash
+
+
+# check .tigger is exist
+if test ! -d ".tigger"
+then
+    echo "$0: error: tigger repository directory .tigger not found"
+    exit 1
+fi
+

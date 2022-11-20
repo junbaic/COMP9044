@@ -1,0 +1,126 @@
+COMP3121|5299041|Kumar, Zeyu David                |3791/1|M
+COMP3511|5299041|Kumar, Zeyu David                |3791/1|M
+COMP6443|5299041|Kumar, Zeyu David                |3791/1|M
+COMP1511|5255039|Zeng, Yucheng Tao                |3784/4|M
+COMP1511|5246414|Li, Zeyu Nathan                  |3970/1|M
+COMP1511|5257033|Chu, Vincent Fan Zeyu            |3711/2|M
+COMP2521|5267245|Liu, William Zeyu Karan          |3711/3|M
+COMP6771|5211416|Chai, Aditya Brandon Syed Zeyu   |3767/1|M
+COMP9417|5211416|Chai, Aditya Brandon Syed Zeyu   |3767/1|M
+COMP9517|5211416|Chai, Aditya Brandon Syed Zeyu   |3767/1|M
+COMP9024|5240565|Zeng, Chun Yixuan Dominic        |3711/3|M
+COMP9101|5240565|Zeng, Chun Yixuan Dominic        |3711/3|M
+COMP9414|5240565|Zeng, Chun Yixuan Dominic        |3711/3|M
+COMP9414|5276683|Tao, Callum Zeyang               |8543  |M
+COMP9417|5276683|Tao, Callum Zeyang               |8543  |M
+COMP9444|5276683|Tao, Callum Zeyang               |8543  |M
+COMP2521|5297989|Zhuang, Tianyu Zeyu              |3711/2|M
+COMP9101|5279114|Zeng, Tianyu Raymond             |8543  |M
+COMP9331|5279114|Zeng, Tianyu Raymond             |8543  |M
+COMP9900|5279114|Zeng, Tianyu Raymond             |8543  |M
+COMP1511|5280946|Chiang, Aaron Jiacheng Oliver Zey|8543  |M
+COMP1511|5235439|Long, Ronan Zeyang Peter         |8543  |M
+COMP2521|5246780|Bai, Bo Zeyu                     |8543  |M
+COMP1521|5246710|Zeng, Christopher Jeremy         |8543  |M
+COMP2521|5246710|Zeng, Christopher Jeremy         |8543  |M
+COMP2511|5277536|Luong, Zijian Kyle Zeyang        |8543  |M
+COMP3121|5277536|Luong, Zijian Kyle Zeyang        |8543  |M
+COMP9044|5276829|Trinh, Luke William Zeyang Neel  |3711/2|M
+COMP9517|5276829|Trinh, Luke William Zeyang Neel  |3711/2|M
+COMP9991|5276829|Trinh, Luke William Zeyang Neel  |3711/2|M
+COMP9414|5271243|Qiu, Zeyu Zihan Tao              |3789/3|M
+COMP9417|5271243|Qiu, Zeyu Zihan Tao              |3789/3|M
+COMP1521|5235653|Yong, Zeyang                     |3961/2|M
+COMP2511|5235653|Yong, Zeyang                     |3961/2|M
+COMP3121|5235653|Yong, Zeyang                     |3961/2|M
+COMP9313|5275189|Lin, Pei Dawei Philip Zeyu       |3785/3|M
+COMP9417|5275189|Lin, Pei Dawei Philip Zeyu       |3785/3|M
+COMP1511|5235634|Saha, Yuhao Yuxuan Zeyu          |3784/1|M
+COMP2511|5202676|Cai, Zeyang Stephen Haotian Hongy|3966/2|M
+COMP3121|5202676|Cai, Zeyang Stephen Haotian Hongy|3966/2|M
+COMP4336|5231217|Mehta, Zhihao Zeyang Tony        |8543  |M
+COMP4951|5231217|Mehta, Zhihao Zeyang Tony        |8543  |M
+COMP9323|5231217|Mehta, Zhihao Zeyang Tony        |8543  |M
+COMP1911|5218023|Zeng, Lucas Aditya               |3783/3|M
+COMP1511|5282625|Tran, Rory Christopher Zeyu      |3707/1|M
+COMP1511|5274882|Lu, Zeyu Nikhil Minh             |3707/1|M
+COMP3121|5281818|Luu, Zeyang Rory Xiangyu Luke    |3707/3|M
+COMP3151|5281818|Luu, Zeyang Rory Xiangyu Luke    |3707/3|M
+COMP4952|5281818|Luu, Zeyang Rory Xiangyu Luke    |3707/3|M
+COMP1521|5275258|Zeng, Ziyang Yifei               |7543  |M
+COMP6771|5289500|Dai, Zeyu Xiao Di                |3707/1|M
+COMP9991|5289500|Dai, Zeyu Xiao Di                |3707/1|M
+COMP9313|5221931|Wen, Alvin Zeyang                |8543  |M
+COMP9517|5221931|Wen, Alvin Zeyang                |8543  |M
+COMP2511|5218268|Zeng, Sang Edwin                 |8543  |M
+COMP9414|5257279|Sun, Jim Zeyu Xiaoyi Peter       |8543  |M
+COMP9900|5257279|Sun, Jim Zeyu Xiaoyi Peter       |8543  |M
+COMP9101|5269268|Zeng, Kevin                      |8543  |M
+COMP9444|5269268|Zeng, Kevin                      |8543  |M
+COMP9517|5269268|Zeng, Kevin                      |8543  |M
+COMP1511|5270591|Zeng, Chi Lin Henry              |8543  |M
+COMP9313|5220676|Smith, Hayden Zeyu Jonathan Sang |8543  |M
+COMP9444|5220676|Smith, Hayden Zeyu Jonathan Sang |8543  |M
+COMP9517|5220676|Smith, Hayden Zeyu Jonathan Sang |8543  |M
+COMP2041|5297554|Bian, Zeyu                       |8543  |M
+COMP6843|5297554|Bian, Zeyu                       |8543  |M
+COMP9444|5297554|Bian, Zeyu                       |8543  |M
+COMP2521|5296969|Yip, Zeyu Ruiqi Zi               |3764/5|M
+COMP1911|5202819|Zeng, Robert                     |8543  |M
+COMP9511|5210376|Gu, Zeyang Minghao               |3764/2|M
+COMP2041|5258455|Kwok, Shuai Zeyu Aaron           |8543  |M
+COMP1911|5239954|Zeng, Jing Rahul                 |3707/3|M
+COMP1521|5259411|Ye, Zeyang Joshua                |1650  |M
+COMP2041|5259411|Ye, Zeyang Joshua                |1650  |M
+COMP2521|5259411|Ye, Zeyang Joshua                |1650  |M
+COMP2511|5294823|Zhai, Haoran Jeremy Shifeng Zeyu |3761/1|M
+COMP3121|5294823|Zhai, Haoran Jeremy Shifeng Zeyu |3761/1|M
+COMP3331|5242415|Zeng, Tim                        |3767/3|M
+COMP3511|5242415|Zeng, Tim                        |3767/3|M
+COMP1521|5204057|Wu, Zeyu Marcus Joe              |3711/2|M
+COMP2511|5204057|Wu, Zeyu Marcus Joe              |3711/2|M
+COMP1521|5287596|Zeng, Abdullah Timothy           |8543  |M
+COMP1511|5267679|Yao, Haozhe Zeyu Xiaoyi          |4515/1|M
+COMP6771|5200211|Zeng, Adrian Ricky Jacob         |3711/3|M
+COMP9101|5200211|Zeng, Adrian Ricky Jacob         |3711/3|M
+COMP1911|5225778|Guo, Yi Zeyang Ziqi Leon         |3768/1|M
+COMP9024|5226749|Xia, Yi Ziwei Adrian Zeyang      |8543  |M
+COMP9331|5226749|Xia, Yi Ziwei Adrian Zeyang      |8543  |M
+COMP1521|5210786|Zeng, Zihao John Dylan           |8543  |M
+COMP1511|5224366|Murray, Daniel Roy Zeyang        |7543  |M
+COMP2511|5270596|Cui, Danny Zeyu                  |3673/1|M
+COMP3121|5270596|Cui, Danny Zeyu                  |3673/1|M
+COMP6443|5270596|Cui, Danny Zeyu                  |3673/1|M
+COMP3141|5274799|Thomas, Brendan Zeyang Long      |8543  |M
+COMP9313|5274799|Thomas, Brendan Zeyang Long      |8543  |M
+COMP9444|5274799|Thomas, Brendan Zeyang Long      |8543  |M
+COMP1521|5206326|Zeng, Yuan Junjie                |3785/2|M
+COMP1511|5207089|Kang, Leon Zeyu Cheng            |3785/1|M
+COMP3121|5242375|Jin, Zeyang Hongyu Winston       |3711/2|M
+COMP2511|5252050|Islam, Zeyu Xingyu Wei Haotian   |8543  |M
+COMP3121|5252050|Islam, Zeyu Xingyu Wei Haotian   |8543  |M
+COMP9024|5231825|Jain, Zeyang Terry Jackson Nishan|8543  |M
+COMP9331|5231825|Jain, Zeyang Terry Jackson Nishan|8543  |M
+COMP1521|5207253|Ngo, Zeyu                        |3707/4|M
+COMP2521|5261778|Fang, Zeyu Xing                  |3781/4|M
+COMP1521|5217609|Bian, Zeyu Nathan                |3711/1|M
+COMP9417|5217609|Bian, Zeyu Nathan                |3711/1|M
+COMP9021|5296401|Yong, Harrison Zeyu Finley Oliver|3707/1|M
+COMP9311|5296401|Yong, Harrison Zeyu Finley Oliver|3707/1|M
+COMP9417|5210651|Lim, Alvin Yang Zeyu             |3768/1|M
+COMP9444|5210651|Lim, Alvin Yang Zeyu             |3768/1|M
+COMP2521|5274050|Zeng, Saurav Max                 |3674/2|M
+COMP1511|5250939|Yi, Jasper Zeyu                  |3711/2|M
+COMP9444|5201706|Zeng, Victor                     |8543  |M
+COMP1911|5288992|Zeng, Zhihao                     |8543  |M
+COMP9311|5276793|Yue, Brian Zeyang Karl           |8543  |M
+COMP9331|5276793|Yue, Brian Zeyang Karl           |8543  |M
+COMP9313|5249194|Xiao, Zeyu Daniel                |7543  |M
+COMP9444|5249194|Xiao, Zeyu Daniel                |7543  |M
+COMP9517|5249194|Xiao, Zeyu Daniel                |7543  |M
+COMP1521|5211669|Xiao, Zeyang Rui Haotian Dennis  |8543  |M
+COMP9417|5224839|Ling, Zeyang                     |8543  |M
+COMP9517|5224839|Ling, Zeyang                     |8543  |M
+COMP2041|5265537|Ouyang, Kelvin Aditya Zeyang     |3959/3|M
+COMP2511|5265537|Ouyang, Kelvin Aditya Zeyang     |3959/3|M
+COMP1511|5224774|Fang, Zeyang                     |3711/3|M

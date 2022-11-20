@@ -1,0 +1,101 @@
+#!/bin/dash
+
+# check .tigger is exist
+if test ! -d ".tigger"
+then
+    echo "$0: error: tigger repository directory .tigger not found"
+    exit 1
+fi
+
+if test $# -eq 0 
+then
+    echo "usage: tigger-commit [-a] -m commit-message"
+    exit 1
+fi
+
+# tigger-commit -a -m message
+if test $# -eq 3
+then
+    if test "$1" = "-a"
+    then
+        if  test "$2" = "-m"
+        then
+            number=0
+            log_number=$(cat ".tigger/file_commit.log"|tail -n 1|cut -d" " -f1)
+            if test "$log_number" = ""
+            then
+                mkdir ".tigger/repository/$number"
+                for file in .tigger/index
+                do 
+                  cp "$file" .tigger/index 
+                done
+                cp .tigger/index/* .tigger/repository/$number
+                echo "Committed as commit $number"
+                echo "$number $3" >> .tigger/file_commit.log
+            else
+                for file in .tigger/index/*
+                do 
+                    samefile=$(echo "$file"|sed -e "s/.*\/.*\///g")
+                    cp "$samefile" ".tigger/index" 
+                done
+                if ! diff .tigger/index .tigger/repository/"$log_number" >/dev/null 
+                then
+                    number=$((log_number+1))
+                    mkdir ".tigger/repository/$number"
+                    cp .tigger/index/* .tigger/repository/"$number"
+                    echo "Committed as commit $number"
+                    echo "$number $3" >> .tigger/file_commit.log
+                else
+                    echo "nothing to commit"
+                fi
+            fi
+        fi
+    fi
+fi
+
+
+# tigger-commit -m message
+if test $# -eq 2
+then
+    if test -d ".tigger/index"
+    then
+        if test -d ".tigger/repository"
+        then
+            number=0
+            log_number=$(cat ".tigger/file_commit.log"|tail -n 1|cut -d" " -f1)
+            empty=$(ls .tigger/index)
+            if test "$log_number" = ""
+            then
+                mkdir ".tigger/repository/$number"
+                if test "$empty" = ""
+                then
+                    :
+                else
+                    cp .tigger/index/* .tigger/repository/"$number"
+                fi
+                echo "Committed as commit $number"
+                echo "$number $2" >> .tigger/file_commit.log
+            else
+                if ! diff .tigger/index .tigger/repository/"$log_number" >/dev/null
+                then
+                    number=$((log_number+1))
+                    mkdir ".tigger/repository/$number"
+                    if test "$empty" = ""
+                    then
+                        :
+                    else
+                        cp .tigger/index/* .tigger/repository/"$number"
+                    fi
+                    echo "Committed as commit $number"
+                    echo "$number $2" >> .tigger/file_commit.log
+                else
+                    echo "nothing to commit"
+                fi
+            fi
+        fi
+    fi
+fi
+
+
+
+

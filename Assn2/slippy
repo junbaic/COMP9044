@@ -1,0 +1,684 @@
+#! /usr/bin/env python3
+"""
+Assignment2: Slippy
+Author: Jun Bai
+Student id: z5330254
+Aims: implement a few of the most important commands of sed with Python
+"""
+
+import sys
+import re
+
+
+def q_quit_command(num=None, reg=None,
+                   stdin=None):
+    """q means quit, the program will quit(do not continue output)on the specified line."""
+    count_line = 1
+    result_list = []
+    for lines in stdin:
+        result_list.append(lines)
+        # if we receive number
+        if num:
+            if (count_line == num
+                    and result_list[count_line - 1] != ''):
+                return result_list
+            if (count_line == num
+                    and result_list[count_line - 1] == ''):
+                pass
+        # if we receive regex string
+        if reg:
+            if (re.search(rf"{reg}", lines)
+                    and result_list[count_line - 1] != ''):
+                return result_list
+            if (re.search(rf"{reg}", lines)
+                    and result_list[count_line - 1] == ''):
+                pass
+        count_line += 1
+    return result_list
+
+
+def p_print_command(num=None, reg=None,
+                    single_p=None, stdin=None):
+    """p means print, the program will print the same on the specified line."""
+    count_line = 1
+    result_list = []
+    for line in stdin:
+        result_list.append(line)
+        # if we receive number
+        if num:
+            if (count_line == num
+                    and result_list[count_line - 1] != ''):
+                result_list.append(line)
+            if (count_line == num
+                    and result_list[count_line - 1] == ''):
+                pass
+        # if we receive regex string
+        if reg:
+            if (re.search(rf"{reg}", line)
+                    and result_list[count_line - 1] != ''):
+                result_list.append(line)
+            if (re.search(rf"{reg}", line)
+                    and result_list[count_line - 1] == ''):
+                pass
+        # if there is only a singe p in the sys.argv
+        if single_p == 'p':
+            result_list.append(line)
+        count_line += 1
+    return result_list
+
+
+def d_delete_command(num=None, reg=None, stdin=None):
+    """d means delete, the program will turn it into a space"""
+    count_line = 1
+    result_list = []
+    for line in stdin:
+        # if we receive number
+        if num:
+            if count_line != num:
+                result_list.append(line)
+            else:
+                result_list.append('')
+        # if we receive regex string
+        if reg:
+            if not re.search(rf"{reg}", line):
+                result_list.append(line)
+            else:
+                result_list.append('')
+        count_line += 1
+    return result_list
+
+
+def four_commands(argv, stdin):
+    """this function is used to deal with the simple single command"""
+    if len(sys.argv) == 2 or sys.argv[1] == '-f' or len(sys.argv) == 4:
+        regex_rule = argv
+        # --------------------------    q    -------------------------
+        # number+q
+        number_q = re.search(r"^(\d+)q$", regex_rule)
+        if number_q:
+            number = int(number_q.group(1))
+            return q_quit_command(num=number, stdin=stdin)
+        # /regex/q
+        regex_q = re.search(r"^/(.*)/q$", regex_rule)
+        if regex_q:
+            q_regex = regex_q.group(1)
+            return q_quit_command(reg=q_regex, stdin=stdin)
+
+        # --------------------------    p    --------------------------
+        # number+p or a single p
+        number_p = re.search(r"^(\d*)p$", regex_rule)
+        if number_p:
+            # number exist
+            if number_p.group(1):
+                number = int(number_p.group(1))
+                return p_print_command(number, stdin=stdin)
+            # number not exist
+            if not number_p.group(1):
+                return p_print_command(single_p=regex_rule, stdin=stdin)
+        # /regex/p
+        regex_p = re.search(r"^/(.*)/p$", regex_rule)
+        if regex_p:
+            p_regex = regex_p.group(1)
+            return p_print_command(reg=p_regex, stdin=stdin)
+
+        # --------------------------    d    --------------------------
+        # number+d
+        number_d = re.search(r"^(\d+)d$", regex_rule)
+        if number_d:
+            number = int(number_d.group(1))
+            return d_delete_command(num=number, stdin=stdin)
+        # /regex/d
+        regex_d = re.search(r"^/(.*)/d$", regex_rule)
+        if regex_d:
+            d_regex = regex_d.group(1)
+            return d_delete_command(reg=d_regex, stdin=stdin)
+
+        # --------------------------    s    --------------------------
+        # [number]s/regex/string or [number]s/regex/string/g
+        number_s_regex_string = re.search(r"^(\d*)s/(.*)/(.*)/(g?)$", regex_rule)
+        if number_s_regex_string:
+            number = number_s_regex_string.group(1)
+            regex = number_s_regex_string.group(2)
+            string = number_s_regex_string.group(3)
+            # without global g in the end
+            if not number_s_regex_string.group(4):
+                # if it starts with a number
+                if number:
+                    list_a = []
+                    index = 1
+                    for line in stdin:
+                        if index == int(number):
+                            line = re.sub(rf'{regex}', f'{string}', line, count=1)
+                        list_a.append(line)
+                        index += 1
+                    return list_a
+                else:
+                    list_b = []
+                    for line in stdin:
+                        if re.search(rf"{regex}", line):
+                            line = re.sub(rf'{regex}', f'{string}', line, count=1)
+                        list_b.append(line)
+                    return list_b
+            # with global g in the end
+            if number_s_regex_string.group(4):
+                # if it starts with a number
+                if number:
+                    index = 1
+                    list_c = []
+                    for line in stdin:
+                        if index == int(number):
+                            line = re.sub(rf'{regex}', f'{string}', line)
+                        list_c.append(line)
+                        index += 1
+                    return list_c
+                else:
+                    result_list = []
+                    for line in stdin:
+                        if re.search(rf"{regex}", line):
+                            line = re.sub(rf"{regex}", string, line)
+                        result_list.append(line)
+                    return result_list
+
+        # /1.1/s/1/-/g /regex/s/regex/string/g
+        regex_s_regex_string_g = re.search(r"^/(.*)/s/(.*)/(.*)/g$", regex_rule)
+        if regex_s_regex_string_g:
+            regex0 = regex_s_regex_string_g.group(1)
+            regex = regex_s_regex_string_g.group(2)
+            string = regex_s_regex_string_g.group(3)
+            list_e = []
+            for line in stdin:
+                if re.search(rf"{regex0}", line):
+                    line = re.sub(rf'{regex}', f'{string}', line)
+                list_e.append(line)
+            return list_e
+
+        # s+\S+regex+\S+string+\S or s+\S+regex+\S+string+\S+g
+        s_division_regex_string = re.search(r"s(\S)(.*)\1(.*)\1(g?)$", regex_rule)
+        if s_division_regex_string:
+            division = s_division_regex_string.group(1)
+            regex = s_division_regex_string.group(2)
+            string = s_division_regex_string.group(3)
+            # with global g in the end
+            if s_division_regex_string.group(4):
+                list_f = []
+                for line in stdin:
+                    if re.search(rf"{regex}", line):
+                        line = re.sub(rf"{regex}", f"{string}", line)
+                    list_f.append(line)
+                return list_f
+            # without global g in the end
+            if not s_division_regex_string.group(4):
+                list_g = []
+                for line in stdin:
+                    if re.search(rf"{regex}", line):
+                        line = re.sub(rf"{regex}", f"{string}", line, count=1)
+                    list_g.append(line)
+                return list_g
+
+    if len(sys.argv) == 3:
+        # slippy -n 'xxxxx'
+        if argv == '-n':
+            regex_rule = sys.argv[2]
+            # -n 3p
+            number_p = re.search(r"^(\d*)p$", regex_rule)
+            if number_p:
+                if number_p.group(1):
+                    number = int(number_p.group(1))
+                    index = 1
+                    list_h = []
+                    for line in stdin:
+                        if index == number:
+                            list_h.append(line)
+                        index += 1
+                    return list_h
+                else:
+                    # -n p
+                    if regex_rule == 'p':
+                        list_i = []
+                        for line in stdin:
+                            list_i.append(line)
+                        return list_i
+            # -n  /regex/p
+            regex_p = re.search(r"^/(.*)/p$", regex_rule)
+            if regex_p:
+                regex = regex_p.group(1)
+                list_j = []
+                for line in stdin:
+                    if re.search(rf"{regex}", line):
+                        list_j.append(line)
+                return list_j
+    return []
+
+
+def multiple_commands(regexregex, std):
+    # command1;command2  or command1\command2
+    s_multiple_commands = re.search(r"(.*)[;\n](.*)", regexregex)
+    if s_multiple_commands:
+        regex_rule_1 = s_multiple_commands.group(1)
+        regex_rule_2 = s_multiple_commands.group(2)
+        if regex_rule_1 == '$q':
+            for item in four_commands(regex_rule_2, stdin=std):
+                print(item, end='')
+
+        for item in four_commands(regex_rule_2, stdin=four_commands(regex_rule_1, stdin=std)):
+            print(item, end='')
+
+    # 3,5d number,number d
+    number_comma_number = re.search(r"^(\d+),(\d+)d$", regexregex)
+    if number_comma_number:
+        number_1 = int(number_comma_number.group(1))
+        number_2 = int(number_comma_number.group(2))
+        all_list = []
+        for line in std:
+            all_list.append(line.strip())
+        cut_list = all_list[number_1 - 1: number_2]
+        start_number = all_list[number_1 - 1]
+        if start_number not in cut_list:
+            cut_list.append(start_number)
+        for item in cut_list:
+            all_list.insert(all_list.index(item), '')
+            all_list.remove(item)
+        for item in all_list:
+            if item != '':
+                print(item)
+
+    # /2/,4d  regex,number d
+    regex_comma_number = re.search(r"^/(.*)/,(\d+)d$", regexregex)
+    if regex_comma_number:
+        regex = regex_comma_number.group(1)  # /2/
+        end_number = int(regex_comma_number.group(2))  # index =4
+        start_list = []  # [12,20,21]
+        all_list = []  # [10,11,12...21]
+        for line in std:
+            line = line.strip()
+            all_list.append(int(line))
+            if re.search(rf'{regex}', line):
+                start_list.append(int(line))
+        cut_list = all_list[all_list.index(start_list[0]):end_number]  # [12,13]
+        for item in cut_list:
+            if item in all_list:
+                all_list.insert(all_list.index(item), '')
+                all_list.remove(item)
+        for item in start_list:
+            if item in all_list:
+                all_list.insert(all_list.index(item), '')
+                all_list.remove(item)
+        for item in all_list:
+            if item != '':
+                print(item)
+
+    # 3,/2/d number,regex d
+    number_comma_regex = re.search(r"^(\d+),/(.*)/d$", regexregex)
+    if number_comma_regex:
+        start_number_index = int(number_comma_regex.group(1))
+        regex = number_comma_regex.group(2)
+        end_list, all_list = [], []
+        for line in std:
+            line = line.strip()
+            all_list.append(int(line))
+            if re.search(rf'{regex}', line):
+                end_list.append(int(line))
+        start_number = all_list[(start_number_index - 1)]
+        end_number = start_number
+        for item in end_list:
+            if item > start_number:
+                end_number = item
+                break
+        cut_list = all_list[all_list.index(start_number):(all_list.index(end_number) + 1)]
+        for item in cut_list:
+            if item in all_list:
+                all_list.insert(all_list.index(item), '')
+                all_list.remove(item)
+        for item in all_list:
+            if item != '':
+                print(item)
+
+    # /1$/,/^2/d  regex,regex
+    regex_comma_regex = re.search(r"^/(.*)/,/(.*)/d$", regexregex)
+    if regex_comma_regex:
+        regex1 = regex_comma_regex.group(1)
+        regex2 = regex_comma_regex.group(2)
+        all_list = []
+        start_list = []
+        end_list = []
+        for line in std:
+            line = line.strip()
+            all_list.append(int(line))
+            if re.search(rf'{regex1}', line):
+                start_list.append(int(line))
+            if re.search(rf'{regex2}', line):
+                end_list.append(int(line))
+        all_cut_list = []
+        if len(start_list) < len(end_list):
+            for index in range(len(start_list)):
+                if start_list[index] == end_list[index]:
+                    all_cut_list.append(
+                        all_list[all_list.index(start_list[index]):all_list.index(end_list[index]) + 2])
+                else:
+                    all_cut_list.append(
+                        all_list[all_list.index(start_list[index]):all_list.index(end_list[index]) + 1])
+        else:
+            for index1 in range(len(end_list)):
+                all_cut_list.append(
+                    all_list[all_list.index(start_list[index1]):all_list.index(end_list[index1]) + 1])
+        for item in start_list:
+            if item > end_list[-1]:
+                all_cut_list.append(all_list[all_list.index(item):all_list.index(all_list[-1]) + 1])
+        for items in all_cut_list:
+            for item in items:
+                if item in all_list:
+                    all_list.insert(all_list.index(item), '')
+                    all_list.remove(item)
+        for item in all_list:
+            if item != '':
+                print(item)
+
+    # 3,5p number,number p
+    number_comma_number_p = re.search(r"^(\d+),(\d+)p$", regexregex)
+    if number_comma_number_p:
+        number_1 = int(number_comma_number_p.group(1))
+        number_2 = int(number_comma_number_p.group(2))
+        all_list = []
+        for line in std:
+            all_list.append(line.strip())
+        print_list = all_list[number_1 - 1: number_2]
+        for item in all_list:
+            if item in print_list:
+                print(item)
+            print(item)
+
+    # /2/,4p regex,number p
+    regex_comma_number_p = re.search(r"^/(.*)/,(\d+)p$", regexregex)
+    if regex_comma_number_p:
+        regex = regex_comma_number_p.group(1)
+        number = int(regex_comma_number_p.group(2))
+        all_list = []
+        start_list = []
+        for line in std:
+            all_list.append(int(line.strip()))
+            if re.search(rf'{regex}', line):
+                start_list.append(int(line))
+        print_list = all_list[all_list.index(start_list[0]): number]
+        for item in start_list:
+            if item not in print_list:
+                print_list.append(item)
+        for item in all_list:
+            if item in print_list:
+                print(item)
+            print(item)
+
+    # 4,/2/p number,regex p
+    number_comma_regex_p = re.search(r"^(\d+),/(.*)/p$", regexregex)
+    if number_comma_regex_p:
+        regex = number_comma_regex_p.group(2)
+        number = int(number_comma_regex_p.group(1))
+        all_list = []
+        end_list = []
+        for line in std:
+            all_list.append(int(line.strip()))
+            if re.search(rf'{regex}', line):
+                end_list.append(int(line))
+        start_number = all_list[(number - 1)]
+        end_number = start_number
+        for item in end_list:
+            if item > start_number:
+                end_number = item
+                break
+        print_list = all_list[all_list.index(start_number):(all_list.index(end_number) + 1)]
+        for item in all_list:
+            if item in print_list:
+                print(item)
+            print(item)
+
+    # /1$/,/^2/d  regex,regex
+    regex_comma_regex_p = re.search(r"^/(.*)/,/(.*)/p$", regexregex)
+    if regex_comma_regex_p:
+        regex1 = regex_comma_regex_p.group(1)
+        regex2 = regex_comma_regex_p.group(2)
+        all_list = []
+        start_list = []
+        end_list = []
+        for line in std:
+            line = line.strip()
+            all_list.append(int(line))
+            if re.search(rf'{regex1}', line):
+                start_list.append(int(line))
+            if re.search(rf'{regex2}', line):
+                end_list.append(int(line))
+        all_cut_list = []
+        if len(start_list) < len(end_list):
+            for index in range(len(start_list)):
+                if start_list[index] == end_list[index]:
+                    all_cut_list.append(
+                        all_list[all_list.index(start_list[index]):all_list.index(end_list[index]) + 2])
+                else:
+                    all_cut_list.append(
+                        all_list[all_list.index(start_list[index]):all_list.index(end_list[index]) + 1])
+        else:
+            for index1 in range(len(end_list)):
+                all_cut_list.append(
+                    all_list[all_list.index(start_list[index1]):all_list.index(end_list[index1]) + 1])
+        for item in start_list:
+            if item > end_list[-1]:
+                all_cut_list.append(all_list[all_list.index(item):all_list.index(all_list[-1]) + 1])
+        print_list = []
+        for items in all_cut_list:
+            for item in items:
+                if item not in print_list:
+                    print_list.append(item)
+        for item in all_list:
+            if item in print_list:
+                print(item)
+            print(item)
+
+    # $d
+    last_line_d = re.search(r"^\$d$", regexregex)
+    if last_line_d:
+        list_1 = []
+        for line in std:
+            line = line.strip()
+            list_1.append(line)
+        for item in list_1[:-1]:
+            print(item)
+
+    # $p
+    last_line_p = re.search(r"^\$p$", regexregex)
+    if last_line_p:
+        list_1 = []
+        for line in std:
+            line = line.strip()
+            list_1.append(line)
+        for item in list_1:
+            print(item)
+        print(list_1[-1])
+
+    # $q
+    last_line_q = re.search(r"^\$q$", regexregex)
+    if last_line_q:
+        list_1 = []
+        for line in std:
+            line = line.strip()
+            list_1.append(line)
+        for item in list_1:
+            print(item)
+
+    # 3a hello
+    append_command = re.search(r"^(\d*)a (.*)$", regexregex)
+    if append_command:
+        number = append_command.group(1)
+        string = append_command.group(2)
+        result_list = []
+        for line in std:
+            result_list.append(line.strip())
+        if number:
+            for item in result_list:
+                print(item)
+                if result_list.index(item) == int(number) - 1:
+                    print(string)
+        if not number:
+            for item in result_list:
+                print(item)
+                print(string)
+
+    # /.3/a hello
+    regex_append_command = re.search(r"^/(.*)/a (.*)$", regexregex)
+    if regex_append_command:
+        regex = regex_append_command.group(1)
+        string = regex_append_command.group(2)
+        result_list = []
+        start_list = []
+        for line in std:
+            result_list.append(line.strip())
+            if re.search(rf'{regex}', line):
+                start_list.append(line.strip())
+        for item in result_list:
+            print(item)
+            if item in start_list:
+                print(string)
+
+    # $a hello
+    special_append_command = re.search(r"^\$a (.*)$", regexregex)
+    if special_append_command:
+        string = special_append_command.group(1)
+        result_list = []
+        for line in std:
+            result_list.append(line.strip())
+        for item in result_list:
+            print(item)
+        print(string)
+
+    # 3i hello
+    insert_command = re.search(r"^(\d*)i (.*)$", regexregex)
+    if insert_command:
+        number = insert_command.group(1)
+        string = insert_command.group(2)
+        result_list = []
+        for line in std:
+            result_list.append(line.strip())
+        if number:
+            for item in result_list:
+                print(item)
+                if result_list.index(item) == int(number) - 2:
+                    print(string)
+        if not number:
+            for item in result_list:
+                print(string)
+                print(item)
+
+    # /.3/i hello
+    regex_insert_command = re.search(r"^/(.*)/i (.*)$", regexregex)
+    if regex_insert_command:
+        regex = regex_insert_command.group(1)
+        string = regex_insert_command.group(2)
+        result_list = []
+        start_list = []
+        for line in std:
+            result_list.append(line.strip())
+            if re.search(rf'{regex}', line):
+                start_list.append(line.strip())
+        for item in result_list:
+            if item in start_list:
+                print(string)
+            print(item)
+
+    # $i hello
+    special_append_command_i = re.search(r"^\$i (.*)$", regexregex)
+    if special_append_command_i:
+        string = special_append_command_i.group(1)
+        result_list = []
+        for line in std:
+            result_list.append(line.strip())
+        for item in result_list:
+            if item == result_list[-1]:
+                print(string)
+            print(item)
+
+    # 3c hello
+    change_command = re.search(r"^(\d*)c (.*)$", regexregex)
+    if change_command:
+        number = change_command.group(1)
+        string = change_command.group(2)
+        result_list = []
+        for line in std:
+            result_list.append(line.strip())
+        if number:
+            result_list[int(number) - 1] = string
+            for item1 in result_list:
+                print(item1)
+        if not number:
+            for index in range(len(result_list)):
+                print(string)
+
+    # /.3/c hello
+    regex_change_command = re.search(r"^/(.*)/c (.*)$", regexregex)
+    if regex_change_command:
+        regex = regex_change_command.group(1)
+        string = regex_change_command.group(2)
+        result_list = []
+        start_list = []
+        for line in std:
+            result_list.append(line.strip())
+            if re.search(rf'{regex}', line):
+                start_list.append(line.strip())
+        for item in result_list:
+            if item in start_list:
+                item = string
+            print(item)
+
+    # $c hello
+    special_append_command_c = re.search(r"^\$c (.*)$", regexregex)
+    if special_append_command_c:
+        string = special_append_command_c.group(1)
+        result_list = []
+        for line in std:
+            result_list.append(line.strip())
+        result_list[-1] = string
+        for item in result_list:
+            print(item)
+
+
+if len(sys.argv) == 2:
+    multiple_commands(sys.argv[1], std=sys.stdin)
+if len(sys.argv) == 3:
+    if sys.argv[1] == '-n':
+        if sys.argv[2] == '$p':
+            list_1 = []
+            for line in sys.stdin:
+                line = line.strip()
+                list_1.append(line)
+            print(list_1[-1])
+
+    if sys.argv[1] == '-f':
+        file = sys.argv[2]
+        with open(file, 'r') as fp:
+            line_list = []
+            for line in fp:
+                line_list.append(line.strip())
+        regex = ';'.join(line_list)
+        a = four_commands(regex, stdin=sys.stdin)
+        if not a:
+            multiple_commands(regex, std=sys.stdin)
+        else:
+            for item in a:
+                if a != '':
+                    print(item, end="")
+if len(sys.argv) == 4:
+    file_list = []
+    for file in sys.argv[2:]:
+        with open(file, 'r') as fp:
+            for line in fp:
+                file_list.append(line.strip())
+    two_file_commands = re.search(r"(.*)[;\n](.*)", sys.argv[1])
+    if two_file_commands:
+        regex1 = two_file_commands.group(1)
+        regex2 = two_file_commands.group(2)
+        a = four_commands(regex2, four_commands(regex1, file_list))
+        for item in a:
+            if item != '':
+                print(item)
+
+subset0 = four_commands(sys.argv[1], stdin=sys.stdin)
+if subset0:
+    for i in subset0:
+        if i != '':
+            print(i, end='')

@@ -1,0 +1,17 @@
+s/$/ in words is:/
+p
+t reset
+: reset
+: start
+s/^0//
+t zero
+s/^1//
+t one
+b end
+: zero
+a zero
+b start
+: one
+a one
+b start
+: end

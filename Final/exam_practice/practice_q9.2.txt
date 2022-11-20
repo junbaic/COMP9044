@@ -1,0 +1,11 @@
+Lines may have no embedded commands
+or several: <!date><!date><!date>
+1 empty file's contents: </dev/null>
+3 empty files:
+</dev/null> </dev/null> </dev/null>
+/bin/true prints nothing:
+<!/bin/true>
+Some commands print <!echo -n no> newlines.
+Here is what happens when you embed <!echo final_q9.1.txt>
+<final_q9.1.txt>
+>>> The end. <<<<

@@ -1,0 +1,7 @@
+COMP2511|3713452|Ahmad, Warren                    |3645/2|M
+COMP1711|3819596|Hernando, Justin Yeong           |3979/1|M
+COMP1511|3953441|Noble, Albert Ka Chuen           |4075/3|F
+COMP1521|3487324|Goolam, Mohammad                 |3643/2|M
+COMP9901|3857456|Tinoco, Ling Ling Rachel         |2665|F
+COMP9902|3407207|Rhee, Paul Myung-Won             |1650|F
+COMP4001|3916726|Kota, Tsz Kin                    |8685/1|M

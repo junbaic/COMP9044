@@ -1,0 +1,47 @@
+#!/bin/dash
+
+# check .tigger is exist
+if test ! -d ".tigger"
+then
+    echo "$0: error: tigger repository directory .tigger not found"
+    exit 1
+fi
+
+# check the filename only contain alpha-numeric characters and './-/_'
+for file in "$@"
+do
+  correct_name=$(echo "$file"| grep -E "^([0-9]|[A-Z]|[a-z])[a-zA-Z0-9\.\-\_]*$")
+  if test "$correct_name" = ""
+  then
+      echo "$0: error: invalid filename '$file'"
+      exit 1
+  fi
+done
+
+for file in "$@"
+do
+  if test -e "$file"
+  then
+      if test ! -e ".tigger/index/$file"
+      then
+          count=0
+          add_log_number=$(cat ".tigger/file_add.log"|tail -n 1|cut -d" " -f1)
+          cp "$file" ".tigger/index"
+          if test "$add_log_number" = ""
+        then
+            echo "$count add '$file'">>.tigger/file_add.log
+        else
+            count=$((add_log_number+1))
+            echo "$count add '$file'">>.tigger/file_add.log
+        fi
+      else
+        rm ".tigger/index/$file"
+        cp "$file" ".tigger/index" 
+      fi
+  elif test -e ".tigger/index/$file"
+  then
+      rm ".tigger/index/$file"
+  else
+      echo "$0: error: can not open '${file}'"
+  fi
+done

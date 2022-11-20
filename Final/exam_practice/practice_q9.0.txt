@@ -1,0 +1,3 @@
+contents
+of an
+example file

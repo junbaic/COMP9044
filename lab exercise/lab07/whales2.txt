@@ -1,0 +1,1000 @@
+18/06/17 36 True's beaked whale
+09/10/17 18 Pygmy right whale
+11/01/18 15 Southern bottlenose whale
+08/02/18 33 True's beaked whale
+18/02/18  7 Strap-toothed beaked whale
+17/04/18  7 Risso's dolphin
+17/05/17 12 Longman's beaked whale
+06/11/17 19 Fraser's dolphin
+24/11/17  2 Cuvier's beaked whale
+20/11/17 24 Southern bottlenose whale
+22/08/17 27 Hourglass dolphin
+07/07/17 32 Long-finned pilot whale
+13/09/17 26 Southern right whale dolphin
+21/04/18 25 False killer whale
+30/03/18 25 Coastal bottlenose dolphin
+15/12/17  1 Orca
+27/05/17  9 Gray's beaked whale
+11/08/17  3 Spectacled porpoise
+24/06/17  2 Pygmy sperm whale
+19/11/17 16 Striped dolphin
+28/02/18 29 Pygmy right whale
+23/05/17  7 Strap-toothed beaked whale
+29/07/17  9 Dwarf minke whale
+04/01/18 23 Antarctic minke whale
+13/01/18 35 Strap-toothed beaked whale
+09/12/17 20 Dusky dolphin
+11/05/17  5 Sei whale
+08/01/18 36 Pantropical spotted dolphin
+08/05/17 10 Pygmy right whale
+26/04/18 27 Sei whale
+19/09/17  8 Arnoux's beaked whale
+17/05/17  2 Hector's beaked whale
+28/09/17 38 Pygmy killer whale
+08/08/17  3 Southern bottlenose whale
+24/03/18 25 Bottlenose dolphin
+11/12/17  7 Longman's beaked whale
+28/11/17 32 Rough-toothed dolphin
+28/09/17 33 Coastal bottlenose dolphin
+29/12/17 11 Hourglass dolphin
+26/05/17 23 Long-finned pilot whale
+24/10/17  8 Fin whale
+29/05/17 20 Southern right whale
+06/02/18 33 Short-finned pilot whale
+17/03/18  4 Sei whale
+26/07/17 30 Pygmy killer whale
+18/09/17 23 Bottlenose dolphin
+01/07/17  4 Long-finned pilot whale
+21/09/17 37 Southern bottlenose whale
+27/01/18 37 Orca
+25/12/17 14 Arnoux's beaked whale
+01/04/18 10 Blue whale
+24/07/17 27 Southern right whale dolphin
+14/05/17 25 Gray's beaked whale
+10/11/17 28 Antarctic minke whale
+06/05/17 37 Hector's beaked whale
+25/07/17 25 Andrews' beaked whale
+02/09/17 14 Dwarf sperm whale
+25/01/18 18 Longman's beaked whale
+13/12/17 34 Gray's beaked whale
+22/09/17 24 Cuvier's beaked whale
+23/11/17 11 Humpback whale
+29/11/17 39 Common dolphin
+19/04/18 29 Ginkgo-toothed beaked whale
+30/10/17 25 Bottlenose dolphin
+03/03/18 27 Gray's beaked whale
+05/08/17 16 Long-finned pilot whale
+22/11/17  5 Humpback whale
+29/04/18 33 Pygmy killer whale
+21/10/17 31 Pygmy killer whale
+20/02/18  7 Bottlenose dolphin
+30/10/17  4 Hourglass dolphin
+22/11/17  2 Orca
+08/10/17 21 Hector's beaked whale
+10/01/18 28 Southern bottlenose whale
+15/07/17 16 Sei whale
+03/10/17 39 Bryde's whale
+22/08/17 17 Indo-Pacific humpbacked dolphin
+24/12/17 30 Southern right whale dolphin
+10/08/17 30 Indo-Pacific humpbacked dolphin
+08/11/17 38 Rough-toothed dolphin
+09/09/17 35 Southern right whale dolphin
+12/06/17 12 Bottlenose dolphin
+13/10/17 13 Southern right whale dolphin
+30/09/17 25 Striped dolphin
+29/01/18 29 Bryde's whale
+01/06/17 36 Spectacled porpoise
+10/03/18  3 Common dolphin
+03/02/18  7 Pygmy right whale
+22/10/17 25 Short-finned pilot whale
+08/12/17 10 Coastal bottlenose dolphin
+09/07/17 12 Blainville's beaked whale
+04/04/18 11 Southern bottlenose whale
+28/08/17 33 Indo-Pacific humpbacked dolphin
+29/08/17 13 Spectacled porpoise
+10/04/18  7 Fraser's dolphin
+05/10/17 14 Blue whale
+29/11/17 21 Spinner dolphin
+17/06/17  9 Southern bottlenose whale
+18/10/17 22 Southern right whale dolphin
+12/01/18 10 Longman's beaked whale
+07/06/17 20 Melon-headed whale
+08/11/17 41 Dusky dolphin
+08/12/17 26 Arnoux's beaked whale
+23/12/17 21 Pygmy right whale
+09/09/17  8 Striped dolphin
+16/12/17  2 Bottlenose dolphin
+25/07/17 18 Dwarf sperm whale
+10/08/17  2 Ginkgo-toothed beaked whale
+29/01/18 14 Dwarf minke whale
+30/01/18 25 Rough-toothed dolphin
+23/08/17 22 Melon-headed whale
+30/07/17 20 Pygmy sperm whale
+10/04/18 30 Sei whale
+21/10/17 13 Southern right whale dolphin
+14/03/18 17 Indo-Pacific humpbacked dolphin
+31/03/18 14 Antarctic minke whale
+28/09/17 31 Pygmy killer whale
+14/11/17  1 Pygmy sperm whale
+22/10/17 25 Short-finned pilot whale
+21/07/17 40 Melon-headed whale
+20/11/17 10 Dwarf minke whale
+13/09/17  1 Dwarf minke whale
+10/08/17 28 Orca
+03/09/17 37 Andrews' beaked whale
+23/06/17 16 Humpback whale
+12/01/18  3 Indo-Pacific humpbacked dolphin
+21/05/17 29 Gray's beaked whale
+04/08/17 28 Blainville's beaked whale
+07/10/17  2 Hector's beaked whale
+10/12/17 24 Common dolphin
+28/02/18 30 Southern bottlenose whale
+03/05/17 15 Fin whale
+05/09/17 10 Australian snubfin dolphin
+05/04/18 28 Spectacled porpoise
+12/04/18 26 Ginkgo-toothed beaked whale
+06/04/18 36 Longman's beaked whale
+29/04/18 21 Sei whale
+27/10/17 18 Southern right whale dolphin
+30/10/17 37 Blue whale
+16/11/17 17 Southern right whale dolphin
+28/01/18  7 Gray's beaked whale
+22/10/17 21 Rough-toothed dolphin
+07/12/17 17 Spectacled porpoise
+27/04/18 12 Arnoux's beaked whale
+23/09/17 26 Melon-headed whale
+08/03/18  8 Southern right whale dolphin
+20/06/17 16 Antarctic minke whale
+10/05/17 41 Blue whale
+06/02/18 21 Longman's beaked whale
+20/05/17  3 Australian snubfin dolphin
+12/12/17 30 Pygmy right whale
+23/08/17 30 Hourglass dolphin
+14/08/17 19 Dusky dolphin
+15/09/17 25 Pygmy right whale
+01/09/17 21 Common dolphin
+03/02/18 27 Pygmy right whale
+16/03/18  1 Cuvier's beaked whale
+04/07/17 19 Pygmy sperm whale
+10/02/18  6 Arnoux's beaked whale
+12/07/17 11 Short-finned pilot whale
+29/06/17 25 Melon-headed whale
+27/04/18  7 Sei whale
+10/10/17 39 Melon-headed whale
+06/12/17 20 Pygmy right whale
+06/07/17  2 Humpback whale
+18/10/17 21 Southern right whale dolphin
+20/09/17  7 Bryde's whale
+07/12/17 33 Hector's beaked whale
+10/12/17 22 Risso's dolphin
+05/04/18 18 Australian snubfin dolphin
+14/10/17 29 Bryde's whale
+07/03/18 25 Hourglass dolphin
+05/08/17 24 Gray's beaked whale
+30/07/17  6 Dusky dolphin
+21/03/18 39 Dwarf minke whale
+17/10/17 24 Orca
+14/05/17 11 Pantropical spotted dolphin
+19/11/17 16 Cuvier's beaked whale
+01/12/17 10 Coastal bottlenose dolphin
+20/06/17  9 Longman's beaked whale
+22/02/18 21 Pantropical spotted dolphin
+23/05/17 15 Cuvier's beaked whale
+23/09/17 34 Humpback whale
+28/05/17  5 Strap-toothed beaked whale
+05/08/17 41 Strap-toothed beaked whale
+27/08/17 10 Pygmy killer whale
+28/08/17 39 Fraser's dolphin
+09/04/18  8 Shepherd's beaked whale
+20/12/17 15 Australian snubfin dolphin
+28/01/18 41 Pygmy right whale
+17/02/18  8 Andrews' beaked whale
+10/06/17  7 Bottlenose dolphin
+17/03/18 37 Striped dolphin
+16/05/17  5 Dwarf sperm whale
+10/08/17 11 Long-finned pilot whale
+20/09/17 16 Arnoux's beaked whale
+13/07/17 31 Southern bottlenose whale
+14/03/18  7 Coastal bottlenose dolphin
+30/10/17  9 Antarctic minke whale
+12/11/17 15 Arnoux's beaked whale
+02/01/18 10 Spinner dolphin
+31/01/18 17 Cuvier's beaked whale
+20/01/18 13 Bottlenose dolphin
+05/12/17  8 Fraser's dolphin
+25/04/18 36 Australian snubfin dolphin
+21/10/17  4 Coastal bottlenose dolphin
+08/02/18 29 Dwarf minke whale
+13/02/18 30 Ginkgo-toothed beaked whale
+04/11/17 41 Australian snubfin dolphin
+07/04/18 26 Longman's beaked whale
+17/04/18 12 Antarctic minke whale
+08/05/17 35 Arnoux's beaked whale
+03/01/18 39 Melon-headed whale
+07/01/18 26 Pygmy right whale
+14/07/17 31 Ginkgo-toothed beaked whale
+31/07/17  1 Gray's beaked whale
+13/05/17 22 Pygmy sperm whale
+28/10/17 15 Short-finned pilot whale
+09/02/18 12 Dwarf minke whale
+06/10/17 26 Strap-toothed beaked whale
+01/06/17  4 Pygmy killer whale
+16/01/18  5 Hourglass dolphin
+17/03/18 33 Dwarf sperm whale
+14/05/17 16 Longman's beaked whale
+24/09/17 37 Spinner dolphin
+14/12/17  5 Pygmy right whale
+17/06/17 13 Pygmy sperm whale
+09/04/18 30 False killer whale
+21/12/17 25 Hourglass dolphin
+28/01/18 11 Dusky dolphin
+19/12/17 36 Bottlenose dolphin
+28/10/17  6 Fraser's dolphin
+19/04/18 12 Pygmy sperm whale
+29/05/17 16 Cuvier's beaked whale
+06/02/18 10 Rough-toothed dolphin
+29/12/17  5 Indo-Pacific humpbacked dolphin
+25/10/17 11 Bottlenose dolphin
+30/11/17 19 Southern right whale
+20/06/17 17 Southern bottlenose whale
+06/11/17 36 Cuvier's beaked whale
+04/12/17 11 False killer whale
+25/08/17 25 False killer whale
+10/04/18 20 Gray's beaked whale
+30/03/18  1 Longman's beaked whale
+10/01/18 26 Longman's beaked whale
+15/08/17 39 Hourglass dolphin
+17/01/18 16 Fraser's dolphin
+26/06/17 23 Fraser's dolphin
+10/09/17 24 Striped dolphin
+09/03/18 26 Dwarf minke whale
+02/10/17 23 Blainville's beaked whale
+01/01/18 19 Indo-Pacific humpbacked dolphin
+03/11/17 21 False killer whale
+01/09/17 13 Hector's beaked whale
+09/09/17 33 Shepherd's beaked whale
+04/12/17 39 Dwarf minke whale
+21/08/17 17 Arnoux's beaked whale
+15/08/17  7 Indo-Pacific humpbacked dolphin
+01/10/17 37 Short-finned pilot whale
+20/04/18  2 Shepherd's beaked whale
+26/08/17 34 Southern right whale dolphin
+15/06/17 24 Striped dolphin
+17/02/18 41 Ginkgo-toothed beaked whale
+10/11/17  6 Bottlenose dolphin
+25/12/17 11 Hourglass dolphin
+28/05/17 31 Hector's beaked whale
+04/12/17 17 Orca
+16/01/18 25 Strap-toothed beaked whale
+02/08/17 37 Southern bottlenose whale
+27/08/17  8 Pygmy killer whale
+26/08/17 16 Melon-headed whale
+28/05/17  7 Coastal bottlenose dolphin
+01/04/18 19 True's beaked whale
+03/11/17  1 Dwarf minke whale
+22/09/17  7 Fin whale
+13/11/17 38 Coastal bottlenose dolphin
+21/11/17 39 Antarctic minke whale
+23/07/17  1 Pygmy killer whale
+02/02/18  3 Andrews' beaked whale
+24/07/17 41 Fraser's dolphin
+14/01/18 38 Dwarf sperm whale
+14/07/17 40 Bottlenose dolphin
+04/02/18 41 Arnoux's beaked whale
+30/10/17 18 Dusky dolphin
+24/01/18 23 Risso's dolphin
+04/10/17 17 Dwarf sperm whale
+21/11/17 40 Humpback whale
+22/09/17 14 Orca
+12/01/18 38 Cuvier's beaked whale
+22/06/17 21 Antarctic minke whale
+13/01/18 36 Orca
+14/12/17 18 Longman's beaked whale
+29/05/17 12 Southern right whale dolphin
+12/01/18 17 Rough-toothed dolphin
+25/07/17 40 Longman's beaked whale
+18/09/17 17 Andrews' beaked whale
+12/09/17 11 Pygmy killer whale
+19/08/17 12 Sei whale
+19/04/18 11 Pygmy sperm whale
+23/09/17 13 Melon-headed whale
+20/08/17  4 Blue whale
+17/02/18 11 Longman's beaked whale
+27/06/17 40 Blainville's beaked whale
+07/04/18 10 Hector's beaked whale
+07/03/18 33 Hourglass dolphin
+27/10/17  8 Humpback whale
+16/06/17 41 Southern right whale
+03/08/17 30 Sei whale
+18/01/18 41 Spectacled porpoise
+28/07/17  6 Coastal bottlenose dolphin
+28/05/17 39 Hourglass dolphin
+21/03/18  6 Cuvier's beaked whale
+05/12/17 35 Australian snubfin dolphin
+10/01/18 23 Dwarf sperm whale
+13/04/18 18 Southern right whale dolphin
+13/11/17 14 Striped dolphin
+18/08/17 41 Andrews' beaked whale
+09/11/17 41 Pygmy sperm whale
+28/07/17 30 Pygmy sperm whale
+16/08/17 31 Fin whale
+18/02/18 13 Spinner dolphin
+17/09/17 23 Short-finned pilot whale
+27/11/17 15 Long-finned pilot whale
+19/05/17 12 Southern bottlenose whale
+02/07/17  4 Pygmy sperm whale
+07/10/17 37 Southern right whale dolphin
+01/10/17 11 Risso's dolphin
+30/10/17 18 Pygmy right whale
+29/12/17  4 Southern right whale
+11/11/17 13 Ginkgo-toothed beaked whale
+15/05/17  3 Fin whale
+15/05/17 19 Coastal bottlenose dolphin
+17/01/18 14 Orca
+06/03/18 10 Fraser's dolphin
+02/12/17 33 Pygmy sperm whale
+31/05/17 38 Ginkgo-toothed beaked whale
+04/10/17 17 Indo-Pacific humpbacked dolphin
+22/06/17 11 Melon-headed whale
+06/01/18  7 Ginkgo-toothed beaked whale
+12/11/17 36 Coastal bottlenose dolphin
+13/02/18 40 Blainville's beaked whale
+13/06/17 31 Short-finned pilot whale
+02/04/18 25 Short-finned pilot whale
+05/07/17 21 Pygmy right whale
+01/06/17 15 Longman's beaked whale
+25/06/17 37 Hourglass dolphin
+04/11/17 22 Pygmy sperm whale
+29/09/17 13 Dwarf sperm whale
+06/01/18  1 Hourglass dolphin
+25/03/18 34 Blainville's beaked whale
+19/09/17 20 Pygmy killer whale
+08/07/17  6 Pygmy sperm whale
+24/12/17  3 Dwarf minke whale
+08/07/17 15 Southern right whale dolphin
+03/09/17 38 Humpback whale
+30/08/17  2 Blainville's beaked whale
+10/08/17  4 False killer whale
+24/05/17 25 Humpback whale
+12/04/18 19 Australian snubfin dolphin
+11/03/18 26 Blue whale
+06/06/17 16 Indo-Pacific humpbacked dolphin
+10/05/17 33 Pantropical spotted dolphin
+23/04/18 19 Bottlenose dolphin
+26/06/17 18 Pygmy right whale
+15/06/17 28 Pygmy right whale
+30/09/17 13 Arnoux's beaked whale
+23/02/18 36 Orca
+10/11/17 19 Andrews' beaked whale
+20/08/17  2 Southern right whale dolphin
+15/03/18 16 Dwarf sperm whale
+29/06/17 17 Pygmy sperm whale
+12/02/18  3 Southern bottlenose whale
+21/06/17 23 Melon-headed whale
+13/08/17 32 Indo-Pacific humpbacked dolphin
+05/11/17 39 Andrews' beaked whale
+02/12/17  1 Hourglass dolphin
+11/04/18 26 Southern right whale
+29/05/17 13 Dwarf sperm whale
+30/03/18 29 Short-finned pilot whale
+07/04/18  5 Ginkgo-toothed beaked whale
+31/07/17 25 Blainville's beaked whale
+14/10/17 37 Dwarf sperm whale
+18/01/18 30 Antarctic minke whale
+25/07/17 22 Blue whale
+03/04/18 22 Hourglass dolphin
+14/10/17 34 Risso's dolphin
+17/01/18  6 Rough-toothed dolphin
+21/04/18 34 Pygmy sperm whale
+17/11/17 19 Coastal bottlenose dolphin
+24/03/18 41 Gray's beaked whale
+12/07/17 36 Common dolphin
+15/11/17 12 Long-finned pilot whale
+21/12/17 10 Dusky dolphin
+19/11/17 29 Blainville's beaked whale
+07/02/18 25 Australian snubfin dolphin
+10/07/17 36 Pantropical spotted dolphin
+23/05/17  7 False killer whale
+01/03/18 31 Arnoux's beaked whale
+23/08/17 10 Arnoux's beaked whale
+05/12/17 29 Bottlenose dolphin
+05/04/18  6 Orca
+15/10/17  4 Southern bottlenose whale
+19/01/18 14 Fin whale
+24/08/17 10 Risso's dolphin
+19/10/17 24 Orca
+12/05/17 38 Strap-toothed beaked whale
+27/04/18 19 Fraser's dolphin
+09/09/17 29 Hourglass dolphin
+19/04/18  8 Blue whale
+03/11/17 34 Blainville's beaked whale
+18/03/18 11 Common dolphin
+03/08/17  5 Southern bottlenose whale
+11/04/18 36 Bryde's whale
+20/10/17 39 Fin whale
+15/01/18 26 Fin whale
+24/02/18 12 Common dolphin
+08/12/17 31 Humpback whale
+14/03/18 37 Southern bottlenose whale
+21/04/18 23 Hourglass dolphin
+03/04/18  6 Southern right whale dolphin
+20/12/17 32 Fin whale
+08/08/17 15 Humpback whale
+13/11/17 14 Gray's beaked whale
+24/01/18 28 Risso's dolphin
+04/08/17 28 Shepherd's beaked whale
+17/12/17 22 Arnoux's beaked whale
+12/07/17 29 Longman's beaked whale
+11/09/17 18 Pygmy sperm whale
+17/02/18  5 Southern bottlenose whale
+04/09/17 28 Bottlenose dolphin
+31/12/17  6 Blue whale
+21/12/17 17 Dusky dolphin
+31/10/17 33 Coastal bottlenose dolphin
+15/11/17 32 Fraser's dolphin
+05/08/17 14 Striped dolphin
+09/09/17 31 Orca
+14/04/18  7 Melon-headed whale
+02/08/17 29 Dwarf sperm whale
+17/02/18 33 Pygmy sperm whale
+26/11/17 14 Humpback whale
+12/01/18 27 Fin whale
+27/12/17  3 Humpback whale
+02/08/17  7 Gray's beaked whale
+17/04/18 20 Spectacled porpoise
+13/05/17 40 Dusky dolphin
+29/11/17  8 Pygmy right whale
+14/05/17 24 Southern bottlenose whale
+09/04/18  5 Fraser's dolphin
+29/08/17 32 Dusky dolphin
+26/07/17 36 Common dolphin
+08/09/17 37 Pygmy right whale
+18/04/18 20 Bottlenose dolphin
+29/03/18  7 Short-finned pilot whale
+11/08/17 13 Spinner dolphin
+23/09/17 41 Humpback whale
+02/04/18 21 Blue whale
+10/04/18 35 Fin whale
+21/05/17 29 Dwarf minke whale
+19/03/18 40 Ginkgo-toothed beaked whale
+26/01/18 32 Strap-toothed beaked whale
+23/01/18 19 Bottlenose dolphin
+19/02/18 11 Short-finned pilot whale
+04/11/17 15 Dusky dolphin
+27/10/17 10 Orca
+20/12/17 41 Spectacled porpoise
+17/01/18  3 Humpback whale
+24/08/17 33 Southern bottlenose whale
+13/11/17 28 Bryde's whale
+30/06/17  8 Dwarf minke whale
+16/09/17 24 Spectacled porpoise
+07/10/17 10 Cuvier's beaked whale
+27/01/18 19 Pygmy killer whale
+23/01/18 39 Dusky dolphin
+31/07/17 26 Spinner dolphin
+02/02/18 33 Cuvier's beaked whale
+18/02/18 26 Sei whale
+28/09/17 26 Pygmy killer whale
+14/07/17 32 Indo-Pacific humpbacked dolphin
+23/06/17 21 Humpback whale
+26/10/17 23 Fin whale
+07/04/18 18 Andrews' beaked whale
+14/05/17  5 Sei whale
+27/11/17  1 Spectacled porpoise
+08/03/18 28 True's beaked whale
+21/05/17  6 Pygmy right whale
+12/06/17 29 Dwarf sperm whale
+30/01/18 40 Dwarf minke whale
+09/03/18 17 Southern right whale
+09/07/17 16 Spectacled porpoise
+18/08/17 15 Dwarf sperm whale
+12/07/17 37 Dwarf sperm whale
+01/04/18  5 Orca
+12/03/18 34 True's beaked whale
+03/07/17  5 Common dolphin
+12/08/17  4 Arnoux's beaked whale
+26/11/17 36 Antarctic minke whale
+21/12/17 13 Pygmy killer whale
+28/05/17 20 Rough-toothed dolphin
+09/09/17 32 Pygmy sperm whale
+12/02/18  4 Common dolphin
+12/05/17 28 Southern right whale
+11/07/17 35 Melon-headed whale
+01/05/17 30 Southern bottlenose whale
+13/06/17 36 Bryde's whale
+17/02/18 25 Fin whale
+24/05/17 27 Sei whale
+20/02/18 25 True's beaked whale
+25/01/18 32 Melon-headed whale
+11/08/17 30 Short-finned pilot whale
+31/12/17 29 Sei whale
+26/10/17 15 Spectacled porpoise
+10/06/17 35 Antarctic minke whale
+20/01/18 18 Blainville's beaked whale
+10/08/17 26 Pygmy killer whale
+11/02/18 18 Longman's beaked whale
+26/06/17 25 Antarctic minke whale
+01/05/17 14 Southern right whale
+25/09/17  2 Strap-toothed beaked whale
+06/02/18 16 Australian snubfin dolphin
+14/04/18 33 False killer whale
+29/11/17  3 Shepherd's beaked whale
+06/01/18 14 Humpback whale
+19/02/18 23 Melon-headed whale
+27/05/17 15 Blue whale
+21/09/17 16 Striped dolphin
+23/02/18  3 Short-finned pilot whale
+02/07/17  2 Southern right whale dolphin
+15/09/17 40 Southern right whale
+21/05/17  9 Dwarf minke whale
+01/01/18 27 Humpback whale
+14/10/17 12 Pygmy sperm whale
+19/09/17 37 Australian snubfin dolphin
+23/10/17 17 Arnoux's beaked whale
+07/08/17 38 Orca
+14/05/17 28 Blainville's beaked whale
+10/06/17  1 Ginkgo-toothed beaked whale
+18/11/17 34 Southern right whale
+16/02/18 20 Orca
+12/10/17 16 Dwarf sperm whale
+10/11/17  2 Australian snubfin dolphin
+16/02/18 13 Spinner dolphin
+03/02/18  9 Southern bottlenose whale
+19/02/18  9 True's beaked whale
+19/01/18  5 Southern right whale
+17/05/17 25 Pygmy right whale
+02/03/18 24 Melon-headed whale
+02/12/17 12 Arnoux's beaked whale
+10/06/17 20 Gray's beaked whale
+03/07/17  4 Dusky dolphin
+18/09/17 17 Bryde's whale
+30/06/17  4 Coastal bottlenose dolphin
+02/01/18 18 Fraser's dolphin
+24/02/18  3 Pygmy right whale
+25/04/18 27 Spinner dolphin
+02/08/17 33 Short-finned pilot whale
+01/06/17 29 Hourglass dolphin
+15/08/17 24 Dwarf sperm whale
+18/04/18  1 Long-finned pilot whale
+18/12/17 38 Dwarf minke whale
+05/12/17 37 Striped dolphin
+24/03/18 35 False killer whale
+05/07/17 21 Southern bottlenose whale
+08/04/18 29 Antarctic minke whale
+31/10/17 30 Hector's beaked whale
+27/02/18 16 Cuvier's beaked whale
+04/01/18 35 Shepherd's beaked whale
+26/06/17 25 Humpback whale
+31/01/18 37 Ginkgo-toothed beaked whale
+16/05/17 32 Bottlenose dolphin
+06/03/18 34 Coastal bottlenose dolphin
+05/05/17 25 Ginkgo-toothed beaked whale
+02/05/17 16 False killer whale
+15/10/17 14 Hourglass dolphin
+16/03/18  1 Hourglass dolphin
+19/08/17 38 Humpback whale
+06/02/18 36 Pygmy right whale
+20/06/17 24 Spinner dolphin
+08/04/18 18 Southern right whale
+12/07/17 29 Hourglass dolphin
+03/04/18  4 Sei whale
+06/05/17 28 False killer whale
+30/11/17 31 Southern right whale dolphin
+11/01/18 26 Hourglass dolphin
+12/08/17 12 Fraser's dolphin
+23/02/18 39 Sei whale
+19/07/17  8 Dwarf sperm whale
+04/09/17 19 Striped dolphin
+10/04/18 30 Common dolphin
+23/07/17 25 Humpback whale
+03/03/18 14 Long-finned pilot whale
+04/09/17 34 Coastal bottlenose dolphin
+23/10/17  2 Hourglass dolphin
+15/10/17 22 Bottlenose dolphin
+19/05/17 30 Andrews' beaked whale
+24/03/18 16 Ginkgo-toothed beaked whale
+14/09/17 27 Blue whale
+27/04/18 28 Sei whale
+20/03/18 31 Bottlenose dolphin
+03/04/18  2 Pygmy killer whale
+17/09/17 40 Hector's beaked whale
+12/07/17 36 Cuvier's beaked whale
+04/02/18 21 Southern right whale
+20/01/18 31 Blue whale
+09/01/18 21 Cuvier's beaked whale
+29/01/18 19 Coastal bottlenose dolphin
+01/04/18 10 Indo-Pacific humpbacked dolphin
+20/06/17 28 Australian snubfin dolphin
+10/02/18  9 Blue whale
+19/03/18 11 Southern right whale dolphin
+23/10/17 29 Gray's beaked whale
+06/12/17 33 Strap-toothed beaked whale
+07/04/18  2 Humpback whale
+08/08/17 29 Bryde's whale
+28/11/17  2 Cuvier's beaked whale
+07/12/17 23 Indo-Pacific humpbacked dolphin
+21/01/18 12 Rough-toothed dolphin
+24/04/18 37 Australian snubfin dolphin
+17/10/17 24 False killer whale
+20/03/18 21 Short-finned pilot whale
+07/02/18 21 Orca
+07/04/18 14 Southern right whale
+24/01/18 19 Common dolphin
+25/11/17 39 Short-finned pilot whale
+28/04/18 35 Pantropical spotted dolphin
+04/01/18 24 Sei whale
+09/11/17 14 Hector's beaked whale
+05/10/17 40 Southern right whale dolphin
+12/11/17 34 Melon-headed whale
+07/03/18 14 Rough-toothed dolphin
+25/09/17 40 Risso's dolphin
+11/03/18 34 Coastal bottlenose dolphin
+06/11/17 38 Hourglass dolphin
+26/12/17 27 False killer whale
+21/12/17 18 Blainville's beaked whale
+26/03/18 15 Dwarf minke whale
+04/01/18 33 Blainville's beaked whale
+30/12/17  3 Blainville's beaked whale
+14/03/18 31 Dwarf minke whale
+12/12/17  3 Blue whale
+01/10/17  4 Humpback whale
+26/01/18 38 Fin whale
+04/10/17 26 True's beaked whale
+19/01/18 10 Antarctic minke whale
+18/09/17 32 Hector's beaked whale
+17/01/18 17 Blainville's beaked whale
+06/11/17 17 Pantropical spotted dolphin
+05/09/17 28 Blue whale
+20/01/18 38 Coastal bottlenose dolphin
+16/05/17 35 Southern right whale
+21/02/18 28 Blue whale
+14/07/17 32 Southern right whale dolphin
+20/09/17 28 Common dolphin
+10/11/17 36 Dwarf minke whale
+18/05/17 14 Spinner dolphin
+28/01/18 14 Pygmy sperm whale
+26/09/17  5 Fraser's dolphin
+01/03/18 35 Ginkgo-toothed beaked whale
+07/09/17 28 Southern right whale dolphin
+08/10/17 23 Pantropical spotted dolphin
+06/05/17 16 Orca
+16/06/17 34 Orca
+12/04/18  3 Bottlenose dolphin
+07/01/18 34 Short-finned pilot whale
+23/02/18 31 Shepherd's beaked whale
+06/12/17 36 Coastal bottlenose dolphin
+01/09/17  2 Orca
+23/08/17 34 Humpback whale
+26/07/17 16 False killer whale
+16/01/18 27 False killer whale
+29/11/17 27 Longman's beaked whale
+24/03/18 24 Shepherd's beaked whale
+06/11/17 10 Rough-toothed dolphin
+23/09/17 18 Longman's beaked whale
+04/11/17 10 True's beaked whale
+20/06/17 20 Short-finned pilot whale
+13/10/17 32 Spectacled porpoise
+03/05/17  9 Hector's beaked whale
+25/06/17 37 False killer whale
+02/04/18  3 Indo-Pacific humpbacked dolphin
+21/05/17  5 Spinner dolphin
+29/03/18 31 Melon-headed whale
+25/12/17 11 Pygmy killer whale
+31/07/17 29 Striped dolphin
+20/06/17 21 Dusky dolphin
+16/04/18 40 Arnoux's beaked whale
+22/05/17 13 Rough-toothed dolphin
+17/09/17 29 Antarctic minke whale
+31/05/17  2 Melon-headed whale
+08/04/18 34 Humpback whale
+31/01/18 19 Melon-headed whale
+16/06/17 24 Spectacled porpoise
+18/06/17 32 Hourglass dolphin
+03/04/18 26 Blue whale
+28/09/17 21 Indo-Pacific humpbacked dolphin
+20/10/17 30 Sei whale
+25/05/17  2 Pantropical spotted dolphin
+19/01/18 18 Melon-headed whale
+20/12/17 25 Coastal bottlenose dolphin
+04/12/17 12 Striped dolphin
+15/05/17  1 Ginkgo-toothed beaked whale
+31/05/17 32 Short-finned pilot whale
+08/03/18 32 Arnoux's beaked whale
+03/02/18 16 Southern right whale
+31/05/17 22 Pygmy killer whale
+08/06/17 17 Dwarf minke whale
+11/07/17 34 Australian snubfin dolphin
+07/02/18 33 Bryde's whale
+17/10/17  1 True's beaked whale
+07/11/17 26 Fraser's dolphin
+09/07/17 40 Pantropical spotted dolphin
+17/01/18 40 Common dolphin
+23/04/18  2 Pygmy sperm whale
+19/06/17 17 Dusky dolphin
+15/01/18 32 Rough-toothed dolphin
+15/02/18 25 Blue whale
+13/04/18  1 Gray's beaked whale
+04/06/17  5 Blue whale
+16/11/17 40 Common dolphin
+11/03/18 41 Arnoux's beaked whale
+03/07/17 18 Southern bottlenose whale
+14/10/17 33 True's beaked whale
+18/03/18 20 Dwarf minke whale
+06/05/17  2 Ginkgo-toothed beaked whale
+28/05/17 19 Southern right whale
+13/01/18  9 Indo-Pacific humpbacked dolphin
+29/07/17 12 Andrews' beaked whale
+25/10/17 39 Pantropical spotted dolphin
+10/11/17  6 Shepherd's beaked whale
+15/06/17 33 Orca
+30/03/18 19 Bryde's whale
+28/10/17 27 Long-finned pilot whale
+15/02/18 38 Dusky dolphin
+09/02/18 14 Fraser's dolphin
+18/05/17  9 Dusky dolphin
+18/12/17 38 Bottlenose dolphin
+29/08/17 11 Southern right whale dolphin
+30/07/17 13 Dusky dolphin
+08/02/18 22 Short-finned pilot whale
+30/06/17 28 Indo-Pacific humpbacked dolphin
+03/01/18 33 Antarctic minke whale
+25/03/18 19 Gray's beaked whale
+25/05/17 12 Blue whale
+04/11/17 17 Fraser's dolphin
+18/11/17 12 Strap-toothed beaked whale
+10/05/17 25 Blainville's beaked whale
+17/03/18 41 Blue whale
+03/12/17 39 Australian snubfin dolphin
+21/08/17 13 Melon-headed whale
+11/11/17  4 Pygmy right whale
+21/10/17 18 Spinner dolphin
+15/07/17 14 Strap-toothed beaked whale
+23/03/18 35 Long-finned pilot whale
+13/09/17  6 Shepherd's beaked whale
+02/06/17 18 Australian snubfin dolphin
+18/07/17 20 Coastal bottlenose dolphin
+07/04/18 26 Hourglass dolphin
+28/01/18 10 Fraser's dolphin
+28/05/17 25 Common dolphin
+31/08/17  2 Melon-headed whale
+29/04/18 36 Andrews' beaked whale
+12/09/17  3 Common dolphin
+05/04/18 21 Longman's beaked whale
+03/08/17  4 Dwarf sperm whale
+02/10/17 16 Blainville's beaked whale
+06/07/17 22 Gray's beaked whale
+06/01/18 30 Risso's dolphin
+18/01/18  9 Indo-Pacific humpbacked dolphin
+03/06/17  6 Orca
+29/09/17 15 Cuvier's beaked whale
+31/05/17 41 Shepherd's beaked whale
+04/11/17  7 Shepherd's beaked whale
+08/10/17 25 Shepherd's beaked whale
+09/01/18 18 Melon-headed whale
+27/09/17 18 Long-finned pilot whale
+25/07/17 25 Orca
+16/02/18  6 Southern right whale dolphin
+19/11/17 15 Blainville's beaked whale
+19/12/17 22 Pantropical spotted dolphin
+28/02/18 33 Fin whale
+09/05/17 14 Blainville's beaked whale
+25/01/18 10 Dwarf minke whale
+12/03/18 28 Cuvier's beaked whale
+25/07/17 36 Indo-Pacific humpbacked dolphin
+01/09/17 21 Cuvier's beaked whale
+13/07/17 31 Short-finned pilot whale
+13/01/18 28 Striped dolphin
+22/09/17 28 Dwarf minke whale
+26/05/17 37 Blue whale
+25/11/17  6 Orca
+24/05/17 32 Orca
+24/07/17 39 Indo-Pacific humpbacked dolphin
+15/07/17 41 Blue whale
+31/01/18 11 Southern right whale
+05/06/17  2 Blainville's beaked whale
+20/11/17 30 Southern bottlenose whale
+20/05/17 22 Andrews' beaked whale
+07/12/17 25 Blue whale
+29/12/17 27 Long-finned pilot whale
+17/09/17 11 Coastal bottlenose dolphin
+01/04/18 17 Spinner dolphin
+15/06/17 12 Australian snubfin dolphin
+02/02/18 11 True's beaked whale
+04/08/17  7 Coastal bottlenose dolphin
+20/07/17 27 Hector's beaked whale
+30/09/17 20 Risso's dolphin
+25/07/17 29 Pygmy sperm whale
+22/06/17 33 False killer whale
+12/04/18 33 Andrews' beaked whale
+31/05/17 13 Antarctic minke whale
+28/04/18 34 Strap-toothed beaked whale
+14/12/17 31 Ginkgo-toothed beaked whale
+26/09/17 24 Orca
+04/12/17  5 Indo-Pacific humpbacked dolphin
+20/08/17  4 Bottlenose dolphin
+13/06/17 11 Striped dolphin
+12/02/18  4 Common dolphin
+03/06/17 13 Strap-toothed beaked whale
+19/03/18 24 Indo-Pacific humpbacked dolphin
+06/09/17 12 Pygmy sperm whale
+09/07/17  3 Melon-headed whale
+10/07/17 16 False killer whale
+06/04/18 38 Bryde's whale
+04/07/17  3 False killer whale
+10/03/18 28 Pygmy sperm whale
+23/06/17 29 True's beaked whale
+14/06/17 38 Gray's beaked whale
+18/01/18 10 Fin whale
+25/03/18  4 Striped dolphin
+16/07/17 16 Spinner dolphin
+02/07/17 17 Orca
+07/11/17 32 Striped dolphin
+01/12/17  8 Short-finned pilot whale
+30/05/17 20 Fraser's dolphin
+21/09/17  5 Melon-headed whale
+27/04/18 37 Dwarf minke whale
+31/10/17 30 Bryde's whale
+10/12/17 16 Bottlenose dolphin
+29/10/17 23 Strap-toothed beaked whale
+08/10/17 28 Spinner dolphin
+04/12/17 34 Southern right whale
+22/03/18 37 Pantropical spotted dolphin
+02/03/18  6 Fin whale
+03/09/17 30 Bottlenose dolphin
+29/08/17 19 True's beaked whale
+05/01/18 17 Fraser's dolphin
+14/08/17 18 Pygmy sperm whale
+22/10/17 36 Southern right whale dolphin
+04/02/18  1 Indo-Pacific humpbacked dolphin
+14/04/18 36 Dwarf sperm whale
+24/10/17 31 Blainville's beaked whale
+08/09/17 23 Pygmy killer whale
+23/11/17  9 Sei whale
+02/06/17 32 Melon-headed whale
+01/08/17 31 Hector's beaked whale
+17/02/18 26 Ginkgo-toothed beaked whale
+22/06/17 25 Melon-headed whale
+30/07/17 31 Short-finned pilot whale
+15/05/17 27 Southern bottlenose whale
+17/11/17 40 Sei whale
+06/11/17  7 Coastal bottlenose dolphin
+06/11/17 26 Andrews' beaked whale
+09/07/17 24 Southern right whale dolphin
+19/01/18 25 True's beaked whale
+23/09/17 23 Pygmy killer whale
+11/03/18  5 Strap-toothed beaked whale
+28/05/17 22 Blainville's beaked whale
+15/05/17 20 Fin whale
+14/09/17  7 Sei whale
+13/12/17 29 Dwarf minke whale
+19/10/17 27 Coastal bottlenose dolphin
+14/03/18 17 Gray's beaked whale
+11/08/17 25 Risso's dolphin
+07/06/17 40 Common dolphin
+30/11/17 28 Orca
+20/12/17 41 Arnoux's beaked whale
+29/01/18 20 Sei whale
+03/08/17  4 Dusky dolphin
+26/06/17  7 Blainville's beaked whale
+27/09/17  7 Gray's beaked whale
+28/08/17 38 Bryde's whale
+11/05/17 23 Blainville's beaked whale
+28/08/17 29 Common dolphin
+19/08/17 26 Longman's beaked whale
+01/09/17 33 Melon-headed whale
+16/01/18 19 Cuvier's beaked whale
+20/10/17 25 Andrews' beaked whale
+11/01/18  5 Pygmy sperm whale
+03/08/17 31 Blainville's beaked whale
+07/01/18 18 Australian snubfin dolphin
+09/07/17 13 Short-finned pilot whale
+25/12/17 19 Blainville's beaked whale
+24/06/17 34 Southern bottlenose whale
+01/07/17 14 Antarctic minke whale
+24/10/17 30 Long-finned pilot whale
+01/04/18 11 Antarctic minke whale
+07/09/17  8 Pygmy right whale
+23/09/17  9 Blainville's beaked whale
+10/09/17 25 Blainville's beaked whale
+23/02/18 41 Southern right whale dolphin
+28/10/17  1 Humpback whale
+31/10/17 16 False killer whale
+24/02/18 11 Orca
+21/07/17 10 Pygmy right whale
+21/02/18  5 Southern right whale dolphin
+11/03/18 40 Spinner dolphin
+25/04/18  2 True's beaked whale
+10/10/17  3 Risso's dolphin
+20/02/18 23 Dusky dolphin
+23/06/17 24 Blue whale
+15/09/17 18 Australian snubfin dolphin
+16/07/17 38 Orca
+27/09/17  4 Fraser's dolphin
+19/09/17 12 Melon-headed whale
+08/05/17 28 Pantropical spotted dolphin
+17/03/18 14 Pygmy right whale
+17/05/17  2 Sei whale
+18/10/17 20 Fin whale
+07/07/17  9 Indo-Pacific humpbacked dolphin
+11/10/17  5 Coastal bottlenose dolphin
+21/06/17  1 Striped dolphin
+17/12/17 17 Southern right whale dolphin
+27/06/17  4 Pygmy right whale
+26/10/17  7 Antarctic minke whale
+04/11/17 11 Antarctic minke whale
+07/09/17 16 Striped dolphin
+07/10/17 25 Strap-toothed beaked whale
+08/06/17 15 Long-finned pilot whale
+20/09/17 11 Australian snubfin dolphin
+30/08/17 26 Short-finned pilot whale
+28/07/17  9 Strap-toothed beaked whale
+21/10/17 30 Blainville's beaked whale
+22/02/18  7 Ginkgo-toothed beaked whale
+17/09/17 28 Bryde's whale
+11/12/17 35 Australian snubfin dolphin
+13/12/17 25 Shepherd's beaked whale
+24/10/17  4 Humpback whale
+28/08/17 12 Southern bottlenose whale
+28/02/18 39 Australian snubfin dolphin
+18/09/17 40 Southern bottlenose whale
+29/03/18 11 Australian snubfin dolphin
+15/05/17 20 Indo-Pacific humpbacked dolphin
+06/02/18 11 Southern right whale
+10/09/17 27 Antarctic minke whale
+10/06/17 24 Pygmy killer whale
+01/03/18 21 Rough-toothed dolphin
+08/11/17 26 Dwarf sperm whale
+08/03/18 14 Antarctic minke whale
+03/04/18 22 Southern bottlenose whale
+12/12/17 27 Blainville's beaked whale
+28/01/18 18 Southern right whale
+06/04/18  2 Bottlenose dolphin
+31/12/17 17 True's beaked whale
+13/05/17 16 Pygmy sperm whale
+11/10/17  5 True's beaked whale
+08/02/18 33 Australian snubfin dolphin
+16/09/17 20 Blainville's beaked whale
+01/04/18 33 Shepherd's beaked whale
+09/11/17 34 Rough-toothed dolphin
+17/02/18  1 Pantropical spotted dolphin
+10/07/17 18 Pygmy right whale
+22/03/18 14 Southern right whale dolphin
+29/04/18 29 Pygmy right whale
+05/02/18  5 Short-finned pilot whale
+11/04/18 26 Hector's beaked whale
+04/04/18  6 Blue whale
+23/12/17 18 Blainville's beaked whale
+07/03/18 27 Australian snubfin dolphin
+28/04/18  4 False killer whale
+18/05/17  7 Striped dolphin
+27/07/17  7 Spinner dolphin
+07/10/17  5 Cuvier's beaked whale
+25/12/17 36 Spectacled porpoise
+23/10/17 10 Pygmy right whale
+28/08/17  8 Spinner dolphin
+10/06/17 18 Indo-Pacific humpbacked dolphin
+22/08/17 20 Andrews' beaked whale
+08/05/17 16 Melon-headed whale
+27/04/18 10 Gray's beaked whale
+06/08/17 20 Southern bottlenose whale
+20/05/17 30 Bottlenose dolphin
+21/05/17 11 Southern bottlenose whale
+13/12/17 28 Coastal bottlenose dolphin
+08/10/17 11 Arnoux's beaked whale
+28/02/18 35 Humpback whale
+02/10/17 10 Spinner dolphin
+19/05/17  3 Orca
+07/10/17 40 Coastal bottlenose dolphin
+09/06/17 38 Spectacled porpoise
+24/11/17 26 Fin whale
+27/07/17 21 Cuvier's beaked whale
+19/01/18 38 Orca
+15/09/17 28 Blainville's beaked whale
+13/08/17 40 Andrews' beaked whale
+06/02/18 39 Cuvier's beaked whale
+24/03/18 24 Dwarf minke whale
+05/10/17  3 Fraser's dolphin
+02/02/18 34 Indo-Pacific humpbacked dolphin
+15/11/17 29 Cuvier's beaked whale
+29/10/17  3 Sei whale
+03/02/18 23 Shepherd's beaked whale

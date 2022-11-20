@@ -1,0 +1,123 @@
+#!/bin/dash
+
+# check .tigger is exist
+if test ! -d ".tigger"
+then
+    echo "$0: error: tigger repository directory .tigger not found"
+    exit 1
+fi
+
+# tigger-rm --cached file
+if test "$1" = "--cached"
+then
+    if test "$2" != "--force"
+    then
+        for file in "$@"
+        do 
+            log_number=$(cat ".tigger/file_commit.log"|tail -n 1|cut -d" " -f1)
+            if test "$file" != "$1"
+            then
+                if test -e .tigger/index/"$file"
+                then
+                    if test -e .tigger/repository/"$log_number"/"$file"
+                    then
+                        if  ! diff "$file" .tigger/index/"$file" >/dev/null
+                        then 
+                            if ! diff .tigger/repository/"$log_number"/"$file"  "$file">/dev/null
+                            then
+                                if ! diff .tigger/index/"$file" .tigger/repository/"$log_number"/"$file" >/dev/null
+                                then
+                                    echo "tigger-rm: error: '$file' in index is different to both the working file and the repository"
+                                    break
+                                fi
+                            fi
+                        fi
+                    fi
+                    rm .tigger/index/"$file"
+                else
+                    echo "tigger-rm: error: '$file' is not in the tigger repository"
+                fi
+            fi
+        done     
+    fi
+fi
+
+# tigger-rm --force file
+if test "$1" = "--force"
+then
+    if test "$2" != "--cached"
+    then
+        for ffile in "$@"
+        do 
+            log_number=$(cat ".tigger/file_commit.log"|tail -n 1|cut -d" " -f1)
+            if test "$ffile" != "$1"
+            then
+                if test ! -e .tigger/index/"$ffile"
+                then
+                    echo "tigger-rm: error: '$ffile' is not in the tigger repository"
+                else
+                    rm .tigger/index/"$ffile"
+                    rm "$ffile"
+                fi
+            fi
+        done     
+    fi
+fi
+
+# tigger-rm file
+if test "$1" != "--force"
+then   
+    if test "$2" != "--cached"
+    then
+        if test "$1" != "--cached"
+        then
+            if test "$2" != "--force"
+            then
+                for rm_file in "$@"
+                do
+                    # file under current dirctory
+                    if test -e "$rm_file"
+                    then
+                        # file under index
+                        if test -e .tigger/index/"$rm_file"
+                        then
+                            log_number=$(cat ".tigger/file_commit.log"|tail -n 1|cut -d" " -f1)
+                            # if file exist in new repo
+                            if test -e .tigger/repository/"$log_number"/"$rm_file"
+                            then
+                                # if file in repo is not same as current dirc
+                                if ! diff .tigger/repository/"$log_number"/"$rm_file" "$rm_file"  >/dev/null
+                                then
+                                    if diff .tigger/index/"$rm_file" .tigger/repository/"$log_number"/"$rm_file" >/dev/null
+                                    then
+                                        echo "$0: error: '$rm_file' in the repository is different to the working file"
+                                    fi
+
+                                    if ! diff .tigger/index/"$rm_file" .tigger/repository/$log_number/"$rm_file" >/dev/null
+                                    then
+                                        if ! diff .tigger/index/"$rm_file" "$rm_file" >/dev/null
+                                        then
+                                            echo "$0: error: '$rm_file' in index is different to both the working file and the repository"
+                                        fi
+                                    fi
+
+                                    if  diff "$rm_file" .tigger/index/"$rm_file" >/dev/null
+                                    then
+                                        echo "$0: error: '$rm_file' has staged changes in the index"
+                                    fi
+                                else
+                                    rm .tigger/index/"$rm_file"
+                                    rm "$rm_file"
+                                fi
+                            else
+                                echo "$0: error: '$rm_file' has staged changes in the index"
+                            fi
+                        else
+                            echo "$0: error: '$rm_file' is not in the tigger repository"
+                        fi
+                    fi
+                done
+            fi
+        fi
+    fi
+fi

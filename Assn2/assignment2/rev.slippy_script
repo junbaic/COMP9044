@@ -1,0 +1,16 @@
+# reverse lines, similar to/usr/bin/rev
+# assumes lines do not contain !MARKER!
+
+# insert marker
+s/$/!MARKER!/
+
+: start
+
+/^!MARKER!/b end
+s/(.)(.*)!MARKER!/\2!MARKER!\1/
+
+b start
+
+: end
+# remove marker
+s/!MARKER!//

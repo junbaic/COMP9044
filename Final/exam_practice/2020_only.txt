@@ -1,0 +1,22 @@
+poll|position|artist|track
+2020|1|Glass Animals|Heat Waves
+2020|2|Spacey Jane|Booster Seat
+2020|3|Flume|The Difference [Ft. Toro y Moi]
+2020|4|Ball Park Music|Cherub
+2020|5|Tame Impala|Lost In Yesterday
+2020|6|Cardi B|WAP [Ft. Megan Thee Stallion]
+2020|7|G Flip|Hyperfine
+2020|8|The Jungle Giants|Sending Me Ur Loving
+2020|9|Hilltop Hoods|I'm Good?
+2020|10|Billie Eilish|Therefore I Am
+2020|11|Lime Cordiale|On Our Own
+2020|12|Mashd N Kutcher|Get On The Beers [Ft. Dan Andrews]
+2020|13|Mallrat|Rockstar
+2020|14|Ocean Alley|Tombstone
+2020|15|Spacey Jane|Skin
+2020|16|Lime Cordiale|Screw Loose
+2020|17|Tame Impala|Is It True
+2020|18|Glass Animals|Tangerine
+2020|19|Halsey|you should be sad
+2020|20|Lime Cordiale|Addicted To The Sunshine
+poll|position|artist|track
