@@ -1,2 +1,2 @@
 # COMP9044
-UNSW_2022_Term2
+Software Construction Techniques and tools
